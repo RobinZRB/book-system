@@ -143,4 +143,8 @@ python -m unittest discover -s tests -v
 - [book-trainer](skills/book-trainer/SKILL.md)：出题、评估并记录复习。
 - [book-reader](skills/book-reader/SKILL.md)：制作并发布知识包。
 
+## 使用案例
+
+- [docs/cases/](docs/cases/)：完整提问 + 输出示例，供使用者参考。
+
 更多运行时约束见 [RUNTIME.md](RUNTIME.md)，正式规格见 `openspec/specs/`。
