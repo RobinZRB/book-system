@@ -1,0 +1,153 @@
+[
+  {
+    "id": "concept:0cdf2a6942e877e41d6b469a",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor",
+      "Passive Investor",
+      "被动型投资者"
+    ]
+  },
+  {
+    "id": "concept:71c2413c46140bbb410fff19",
+    "name": "七大选择标准",
+    "aliases": [
+      "Seven Criteria for Stock Selection",
+      "七项质量和数量标准"
+    ]
+  },
+  {
+    "id": "concept:52e6ae4f38a5a7ee72c41513",
+    "name": "道琼斯式组合",
+    "aliases": [
+      "DJIA-type Portfolio",
+      "横向分析样本组合"
+    ]
+  },
+  {
+    "id": "concept:a116d7f7a8979d8731bc47b0",
+    "name": "定量检验的证券组合",
+    "aliases": [
+      "Quantitatively Tested Portfolio",
+      "定量筛选组合"
+    ]
+  },
+  {
+    "id": "concept:6e5df96a6614d28a89412ba4",
+    "name": "流动比率",
+    "aliases": [
+      "Current Ratio",
+      "流动比"
+    ]
+  },
+  {
+    "id": "concept:10722e8c007c2c7d04d93177",
+    "name": "营运资本",
+    "aliases": [
+      "Working Capital",
+      "流动资产净额"
+    ]
+  },
+  {
+    "id": "concept:b6aa4049458b8b91204fea9d",
+    "name": "市盈率",
+    "aliases": [
+      "P/E Ratio",
+      "Price-to-Earnings Ratio",
+      "本益比"
+    ]
+  },
+  {
+    "id": "concept:7d172b0b6415abd34dd1126e",
+    "name": "价格账面值比",
+    "aliases": [
+      "P/B Ratio",
+      "Price-to-Book Ratio",
+      "股价资产比",
+      "市净率"
+    ]
+  },
+  {
+    "id": "concept:9a80ccd20e04add40d58f6cb",
+    "name": "混合乘数",
+    "aliases": [
+      "Combined Multiplier",
+      "P/E×P/B规则"
+    ]
+  },
+  {
+    "id": "concept:c1f0b2a35cc77be5f7945d9d",
+    "name": "预测法（定性法）",
+    "aliases": [
+      "Prediction Approach",
+      "Qualitative Approach",
+      "项目法"
+    ]
+  },
+  {
+    "id": "concept:78e8a9b6dcc25057f9f832ab",
+    "name": "保护法（定量法）",
+    "aliases": [
+      "Protection Approach",
+      "Quantitative Approach",
+      "统计法"
+    ]
+  },
+  {
+    "id": "concept:e38ea0d9cea62c3a5154da2d",
+    "name": "公用事业股",
+    "aliases": [
+      "Utility Stocks",
+      "公用事业普通股"
+    ]
+  },
+  {
+    "id": "concept:3d3fcf2bbabca679eade3817",
+    "name": "分散化",
+    "aliases": [
+      "Diversification",
+      "多元化投资"
+    ]
+  },
+  {
+    "id": "concept:b9f4874401ad9d262d991d78",
+    "name": "指数基金",
+    "aliases": [
+      "Index Fund",
+      "市场指数基金"
+    ]
+  },
+  {
+    "id": "concept:60ff1690bb81177aa80edeac",
+    "name": "有效市场假说",
+    "aliases": [
+      "Efficient Market Hypothesis",
+      "EMH"
+    ]
+  },
+  {
+    "id": "concept:f0617b0da1b01d261393ffde",
+    "name": "高价买入风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:db01af62733fc4f92dcec3d1",
+    "name": "个股选择风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:3dc1e1e4af6d0a132bbb0c1b",
+    "name": "个股精选",
+    "aliases": []
+  },
+  {
+    "id": "concept:0a69a9d3b1a9fd8faf2e6c94",
+    "name": "财务稳健性",
+    "aliases": []
+  },
+  {
+    "id": "concept:bc5c32099a92269ca27fafc0",
+    "name": "安全边际",
+    "aliases": []
+  }
+]

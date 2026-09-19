@@ -1,0 +1,146 @@
+[
+  {
+    "id": "concept:fd2357ffbfcfba2c8e79fccc",
+    "name": "利息保障倍数",
+    "aliases": [
+      "Interest Coverage Ratio",
+      "固定费用保障倍数"
+    ]
+  },
+  {
+    "id": "concept:ffc061575fd26a61192c03e2",
+    "name": "营运费率",
+    "aliases": [
+      "Operating Ratio",
+      "运输费率"
+    ]
+  },
+  {
+    "id": "concept:93794c39ab1483ddac6a0151",
+    "name": "连环并购者",
+    "aliases": [
+      "Serial Acquirer",
+      "连环并购"
+    ]
+  },
+  {
+    "id": "concept:be334067b68be3af703f4664",
+    "name": "商誉",
+    "aliases": [
+      "Goodwill"
+    ]
+  },
+  {
+    "id": "concept:fa835c987d2774b753da1692",
+    "name": "大浴池会计",
+    "aliases": [
+      "Big Bath Accounting",
+      "洗碗池会计"
+    ]
+  },
+  {
+    "id": "concept:f4420b79bea2aeb819303c27",
+    "name": "递延债务费用",
+    "aliases": [
+      "Deferred Debt Expense"
+    ]
+  },
+  {
+    "id": "concept:25c2b0e93f8d7cc8fe8ae120",
+    "name": "有形资产净值",
+    "aliases": [
+      "Net Tangible Assets",
+      "NTA"
+    ]
+  },
+  {
+    "id": "concept:2933930cb87a83fe693d601e",
+    "name": "特许经营权",
+    "aliases": [
+      "Franchise",
+      "Franchising"
+    ]
+  },
+  {
+    "id": "concept:4a83be9f517dd5602a12428c",
+    "name": "客户融资",
+    "aliases": [
+      "Customer Financing",
+      "Vendor Financing"
+    ]
+  },
+  {
+    "id": "concept:3d2ee6e2eeccf44d460c0597",
+    "name": "认股权证",
+    "aliases": [
+      "Warrant"
+    ]
+  },
+  {
+    "id": "concept:e8375156b84665f2be136623",
+    "name": "债券折价资产",
+    "aliases": [
+      "Bond Discount Asset"
+    ]
+  },
+  {
+    "id": "concept:c9e222b0d534e71702999ffa",
+    "name": "市盈率",
+    "aliases": [
+      "P/E Ratio",
+      "Price-Earnings Ratio"
+    ]
+  },
+  {
+    "id": "concept:54f9df07e068998fae8bd040",
+    "name": "稀释",
+    "aliases": [
+      "Dilution"
+    ]
+  },
+  {
+    "id": "concept:eb6423d376df6d1d24821df5",
+    "name": "财务安全评估",
+    "aliases": []
+  },
+  {
+    "id": "concept:c3c8f4eb7918ab3b6e8bdeee",
+    "name": "运营效率评估",
+    "aliases": []
+  },
+  {
+    "id": "concept:6cafaa8d7a6f51d16731fe1c",
+    "name": "债务危机",
+    "aliases": []
+  },
+  {
+    "id": "concept:60f9fa5ce25c56a35b849c5b",
+    "name": "利润真实性",
+    "aliases": []
+  },
+  {
+    "id": "concept:385a7f522a090c61eb1358be",
+    "name": "并购溢价",
+    "aliases": []
+  },
+  {
+    "id": "concept:bfab3055ded860da354cad34",
+    "name": "信用风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:f9489e6213c0f9ead642092a",
+    "name": "市场估值判断",
+    "aliases": []
+  },
+  {
+    "id": "concept:01e9bd20113ade30c9fa035a",
+    "name": "投资者贪婪",
+    "aliases": []
+  },
+  {
+    "id": "concept:a4e47d832ba2616404f5f4ea",
+    "name": "市场非理性定价",
+    "aliases": []
+  }
+]

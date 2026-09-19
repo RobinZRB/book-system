@@ -1,0 +1,200 @@
+[
+  {
+    "id": "concept:c5d3bf59a5e69faa1b6242ef",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor",
+      "被动投资者",
+      "保守型投资者"
+    ]
+  },
+  {
+    "id": "concept:5907ec73e77ed0c6cf3b5b4f",
+    "name": "普通股",
+    "aliases": [
+      "Common Stock",
+      "股权资产",
+      "股票"
+    ]
+  },
+  {
+    "id": "concept:2f95e6a61afa239e1d8112b1",
+    "name": "防御型选股四规则",
+    "aliases": [
+      "Four Rules for Defensive Stock Selection",
+      "格雷厄姆选股规则"
+    ]
+  },
+  {
+    "id": "concept:32f7939291b3a66fbdbe4ec2",
+    "name": "成长股",
+    "aliases": [
+      "Growth Stock",
+      "热门股"
+    ]
+  },
+  {
+    "id": "concept:c84ad330827df0a89a2501de",
+    "name": "美元成本平均法",
+    "aliases": [
+      "Dollar-Cost Averaging",
+      "DCA",
+      "定期定额投资法",
+      "程式化投资法",
+      "月度购买计划"
+    ]
+  },
+  {
+    "id": "concept:16c53102b8fde67b003f7613",
+    "name": "分散化",
+    "aliases": [
+      "Diversification",
+      "组合多元化"
+    ]
+  },
+  {
+    "id": "concept:8d56b83fafac98052443ec20",
+    "name": "市盈率限制",
+    "aliases": [
+      "P/E Ratio Limit",
+      "利润乘数上限",
+      "估值天花板"
+    ]
+  },
+  {
+    "id": "concept:2ef6de42ea25616d3b6671f6",
+    "name": "股息连续性",
+    "aliases": [
+      "Dividend Continuity",
+      "持续派息记录"
+    ]
+  },
+  {
+    "id": "concept:238cc750c86bd68c5606ac6c",
+    "name": "风险重定义",
+    "aliases": [
+      "Risk Redefined",
+      "价格波动与真实风险的区别"
+    ]
+  },
+  {
+    "id": "concept:ba016d5ed77d092ac12358e3",
+    "name": "财务稳健性标准",
+    "aliases": [
+      "Financial Soundness Criteria",
+      "大型知名公司标准"
+    ]
+  },
+  {
+    "id": "concept:90c548ed162360f559e1fcf0",
+    "name": "能力决定论",
+    "aliases": [
+      "Competence-Based Investing",
+      "知能性格决定论"
+    ]
+  },
+  {
+    "id": "concept:c60c4c3cef3b366ae0200bda",
+    "name": "本土偏见",
+    "aliases": [
+      "Home Bias",
+      "熟悉性陷阱"
+    ]
+  },
+  {
+    "id": "concept:391c249288c0073043b48df0",
+    "name": "指数基金",
+    "aliases": [
+      "Index Fund",
+      "被动基金",
+      "市场指数基金"
+    ]
+  },
+  {
+    "id": "concept:a55130f894a69aa80b109bef",
+    "name": "自动导航式投资组合",
+    "aliases": [
+      "Autopilot Portfolio",
+      "三基金组合",
+      "\"我不在乎\"组合"
+    ]
+  },
+  {
+    "id": "concept:b9bb6fedd6a5d1b874f4f1a0",
+    "name": "熟悉性陷阱批判",
+    "aliases": [
+      "Familiarity Trap Critique",
+      "林奇法则误用"
+    ]
+  },
+  {
+    "id": "concept:288f53472b9a2bb76dcfbb77",
+    "name": "投机成分",
+    "aliases": []
+  },
+  {
+    "id": "concept:f5b695a0f371f0069764f158",
+    "name": "择时错误",
+    "aliases": []
+  },
+  {
+    "id": "concept:9c6fd69ae567d8cf4257a235",
+    "name": "汤姆林森研究",
+    "aliases": []
+  },
+  {
+    "id": "concept:42bea70c7ea27b84c153c022",
+    "name": "价格波动风险观",
+    "aliases": []
+  },
+  {
+    "id": "concept:3b16f19ffa671bffadf91229",
+    "name": "资金决定论",
+    "aliases": []
+  },
+  {
+    "id": "concept:ce9dec61705a71b865d9b4fa",
+    "name": "普通人",
+    "aliases": []
+  },
+  {
+    "id": "concept:3dbc16f57102ba0630b40131",
+    "name": "价格波动与真实风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:b5490272d7e02856d529953a",
+    "name": "过度自信",
+    "aliases": []
+  },
+  {
+    "id": "concept:bf762a661b24dc75de02c57f",
+    "name": "安然员工",
+    "aliases": []
+  },
+  {
+    "id": "concept:2210be8bf95b2d536fbffdc9",
+    "name": "\"我不在乎\"哲学",
+    "aliases": []
+  },
+  {
+    "id": "concept:a22e12a88c71a126e4f3c12c",
+    "name": "林奇法则",
+    "aliases": []
+  },
+  {
+    "id": "concept:a58738ade9c499008192a28d",
+    "name": "财务稳健性",
+    "aliases": []
+  },
+  {
+    "id": "concept:3e9c93fa2072b157f8505f3b",
+    "name": "普通股过高买入价",
+    "aliases": []
+  },
+  {
+    "id": "concept:16f18c15aaa902f332c4a990",
+    "name": "普通股优势",
+    "aliases": []
+  }
+]

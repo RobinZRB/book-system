@@ -1,0 +1,257 @@
+[
+  {
+    "id": "concept:b2394835881afed7cb7f7769",
+    "name": "安全边际",
+    "aliases": [
+      "Margin of Safety",
+      "安全边际原则"
+    ]
+  },
+  {
+    "id": "concept:68203af5e450b94619c069ee",
+    "name": "投资vs投机区分标准",
+    "aliases": [
+      "Investment-Speculation Criterion",
+      "安全边际标准"
+    ]
+  },
+  {
+    "id": "concept:f66b7629b3b87fa4cfca271b",
+    "name": "分散化",
+    "aliases": [
+      "Diversification",
+      "分散投资"
+    ]
+  },
+  {
+    "id": "concept:aac4747441335aee5f7cd0f7",
+    "name": "盈利能力",
+    "aliases": [
+      "Earning Power",
+      "利润率",
+      "盈利收益率"
+    ]
+  },
+  {
+    "id": "concept:5982aa98a722ae0eed8f718d",
+    "name": "传统投资vs非传统投资",
+    "aliases": [
+      "Conventional vs Unconventional Investment",
+      "防御型vs进取型投资"
+    ]
+  },
+  {
+    "id": "concept:d339ce6e3099718597766819",
+    "name": "成长股安全边际悖论",
+    "aliases": [
+      "Growth Stock Safety Margin Paradox",
+      "预测安全边际vs历史安全边际"
+    ]
+  },
+  {
+    "id": "concept:805a16ed9d8287bf6aea3e1a",
+    "name": "廉价证券/低估证券",
+    "aliases": [
+      "Bargain Issues",
+      "Undervalued Securities",
+      "低估证券"
+    ]
+  },
+  {
+    "id": "concept:d7921451c9297a27198de86b",
+    "name": "四项商业准则",
+    "aliases": [
+      "Four Business Principles",
+      "投资商业准则"
+    ]
+  },
+  {
+    "id": "concept:f42cb44726c88b034dc27318",
+    "name": "亏损的复利代价",
+    "aliases": [
+      "Compounding Cost of Losses",
+      "亏损回本法"
+    ]
+  },
+  {
+    "id": "concept:341ad31a68c00a2201bc5b7e",
+    "name": "帕斯卡赌注/后果优先原则",
+    "aliases": [
+      "Pascal's Wager",
+      "后果>概率原则"
+    ]
+  },
+  {
+    "id": "concept:a77eaedd448a33d9b44de709",
+    "name": "风险双要素——可能性与后果",
+    "aliases": [
+      "Two Elements of Risk",
+      "Probability & Consequences",
+      "风险=概率×后果"
+    ]
+  },
+  {
+    "id": "concept:65b138023a7707b34c22c8c7",
+    "name": "自我认知/镜子测试",
+    "aliases": [
+      "Mirror Test",
+      "投资者自我评估",
+      "风险在人不在股"
+    ]
+  },
+  {
+    "id": "concept:9af785d3adbda9d42c3efff3",
+    "name": "债券安全边际(双计算法)",
+    "aliases": [
+      "Bond Safety Margin",
+      "利息保障法/企业价值法"
+    ]
+  },
+  {
+    "id": "concept:7a4f4d11ad83429da82234c1",
+    "name": "克林根斯坦原则",
+    "aliases": [
+      "Klingenstein Principle",
+      "\"Don't Lose Money\"",
+      "不要陷入亏损"
+    ]
+  },
+  {
+    "id": "concept:fc1dc4a2cd11757641eb4c1c",
+    "name": "信心校准与遗憾预判",
+    "aliases": [
+      "Confidence Calibration & Regret Anticipation",
+      "卡尼曼决策二要素"
+    ]
+  },
+  {
+    "id": "concept:05c71236d1ae1c82c28847e3",
+    "name": "投资中心思想",
+    "aliases": []
+  },
+  {
+    "id": "concept:43ccd62198425167cd1a1830",
+    "name": "预测必要性",
+    "aliases": []
+  },
+  {
+    "id": "concept:5bf996dcd4d9643ede9bf0e2",
+    "name": "支付价格",
+    "aliases": []
+  },
+  {
+    "id": "concept:2a8e7ac29b2ecf777f9e3ea4",
+    "name": "安全边际发挥作用",
+    "aliases": []
+  },
+  {
+    "id": "concept:c32bc2d58b1e069275d97dcd",
+    "name": "廉价证券安全边际",
+    "aliases": []
+  },
+  {
+    "id": "concept:c5c193debc23ce665962a10d",
+    "name": "市场定价过高",
+    "aliases": []
+  },
+  {
+    "id": "concept:75d63c317e7c5053d597c6d4",
+    "name": "廉价证券",
+    "aliases": []
+  },
+  {
+    "id": "concept:e89204f99b889e982e94c9dd",
+    "name": "National Presto案例",
+    "aliases": []
+  },
+  {
+    "id": "concept:c4b821f80ffb96179d25b359",
+    "name": "普通股安全边际",
+    "aliases": []
+  },
+  {
+    "id": "concept:989f0fdab2cba702941bcbc2",
+    "name": "房地产债券案例",
+    "aliases": []
+  },
+  {
+    "id": "concept:1ed08761cf990ed27b7b5ed5",
+    "name": "价格决定投资性",
+    "aliases": []
+  },
+  {
+    "id": "concept:90595651d718a19904bfbf4c",
+    "name": "传统投资",
+    "aliases": []
+  },
+  {
+    "id": "concept:6347ab4488390d1e51d599ae",
+    "name": "非传统投资",
+    "aliases": []
+  },
+  {
+    "id": "concept:5db5bd7e96d5060112596971",
+    "name": "安全边际必要性",
+    "aliases": []
+  },
+  {
+    "id": "concept:85cc09b5b528f13de79c2776",
+    "name": "帕斯卡赌注",
+    "aliases": []
+  },
+  {
+    "id": "concept:1b9fff1ccf079b314dbfae77",
+    "name": "安全边际逻辑",
+    "aliases": []
+  },
+  {
+    "id": "concept:ac8637aaf9a2ec4901639e95",
+    "name": "风险双要素",
+    "aliases": []
+  },
+  {
+    "id": "concept:250637fb0eabebe6c0f92b95",
+    "name": "镜子测试",
+    "aliases": []
+  },
+  {
+    "id": "concept:6937e5d5a8178ef9f0b04197",
+    "name": "过度自信",
+    "aliases": []
+  },
+  {
+    "id": "concept:b4390bbee9ade2b0471d5be2",
+    "name": "分析失误后果",
+    "aliases": []
+  },
+  {
+    "id": "concept:fac2e7a23a4f4c6a0c145d57",
+    "name": "JDS Uniphase案例",
+    "aliases": []
+  },
+  {
+    "id": "concept:2f9be01aaa3e49b7c72b0f08",
+    "name": "不利条件",
+    "aliases": []
+  },
+  {
+    "id": "concept:13aa5e382efcf2c545b9b124",
+    "name": "轮盘赌模型",
+    "aliases": []
+  },
+  {
+    "id": "concept:e93e22b27588ffaff4d7c694",
+    "name": "安全边际+分散化数学",
+    "aliases": []
+  },
+  {
+    "id": "concept:d4180d7dbc86be69a0120bc3",
+    "name": "\"这也将成为过去\"",
+    "aliases": []
+  },
+  {
+    "id": "concept:e43ad98aa350cfa1ad575c89",
+    "name": "安全边际哲学",
+    "aliases": []
+  }
+]

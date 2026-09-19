@@ -1,0 +1,145 @@
+[
+  {
+    "id": "concept:8d2c9bc3ef57679bdfde4a06",
+    "name": "红蓝对抗 (Red-Blue Adversarial Testing)",
+    "aliases": [
+      "AI魔鬼代言人, 对抗性质询, AI压力测试"
+    ]
+  },
+  {
+    "id": "concept:c627e38616246ecb492a8869",
+    "name": "确认偏误 (Confirmation Bias)",
+    "aliases": [
+      "自我验证偏差, 认知偏差"
+    ]
+  },
+  {
+    "id": "concept:c3b439a288261ba75329765e",
+    "name": "魔鬼代言人角色 (Devil's Advocate Role)",
+    "aliases": [
+      "对抗性提示词, 批判角色扮演"
+    ]
+  },
+  {
+    "id": "concept:d581999aa432a05742bbcb40",
+    "name": "多模型策略 (Multi-Model Strategy)",
+    "aliases": [
+      "多LLM交叉审查, 盲点覆盖"
+    ]
+  },
+  {
+    "id": "concept:da4fe13855a44a928eee9b1c",
+    "name": "隐性假设暴露 (Implicit Assumption Exposure)",
+    "aliases": [
+      "假设显性化, AI质询"
+    ]
+  },
+  {
+    "id": "concept:3018f3ad0fe66f9ef73ceff9",
+    "name": "多轮迭代质询 (Multi-Round Iterative Interrogation)",
+    "aliases": [
+      "第二轮/第三轮攻击, 深层漏洞挖掘"
+    ]
+  },
+  {
+    "id": "concept:1af8ee1436860f54075c1505",
+    "name": "沉没成本认知偏差 (Sunk Cost Cognitive Bias)",
+    "aliases": [
+      "认知投入偏差, 研究员偏见"
+    ]
+  },
+  {
+    "id": "concept:f5a3e5d641b4a5cd2c31df23",
+    "name": "致命缺陷 vs 一般瑕疵",
+    "aliases": [
+      "实质性漏洞区分, 修正判断"
+    ]
+  },
+  {
+    "id": "concept:45d764253f3e2df6bd51e965",
+    "name": "通过标准 (Pass Criteria)",
+    "aliases": [
+      "连续两轮无新实质性漏洞"
+    ]
+  },
+  {
+    "id": "concept:cddff2fa6229f26a3cfc6d7f",
+    "name": "红蓝对抗",
+    "aliases": []
+  },
+  {
+    "id": "concept:10eb69b97545206141cc7b81",
+    "name": "确认偏误",
+    "aliases": []
+  },
+  {
+    "id": "concept:a0b4e1fdab7cd834fc118012",
+    "name": "沉没成本认知偏差",
+    "aliases": []
+  },
+  {
+    "id": "concept:41ee1497a9b19b41e066b7ee",
+    "name": "魔鬼代言人角色",
+    "aliases": []
+  },
+  {
+    "id": "concept:e3b6f683092343b6c46fc5f6",
+    "name": "中性AI提问",
+    "aliases": []
+  },
+  {
+    "id": "concept:14652d6193c8dac62d63c643",
+    "name": "多模型策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:17893ff59bf49b69cd133a6c",
+    "name": "单一AI盲点",
+    "aliases": []
+  },
+  {
+    "id": "concept:7c16ce333aea60fbf0653155",
+    "name": "多轮迭代质询",
+    "aliases": []
+  },
+  {
+    "id": "concept:30f1bdd3376dc3e920dabc1f",
+    "name": "表层→深层逻辑",
+    "aliases": []
+  },
+  {
+    "id": "concept:bdc237d621a99a57b82366cb",
+    "name": "隐性假设暴露",
+    "aliases": []
+  },
+  {
+    "id": "concept:e88a16e86f08412214db66ae",
+    "name": "Step4收集证据 和 Step5估值催化剂",
+    "aliases": []
+  },
+  {
+    "id": "concept:5ced83aa918c9b52df32d50d",
+    "name": "致命缺陷",
+    "aliases": []
+  },
+  {
+    "id": "concept:c34b18b7d3568da4f3218036",
+    "name": "一般瑕疵",
+    "aliases": []
+  },
+  {
+    "id": "concept:301d40a50ef46c5b83c61442",
+    "name": "通过标准",
+    "aliases": []
+  },
+  {
+    "id": "concept:900facc923218c4a9e6653bb",
+    "name": "公开发布决策",
+    "aliases": []
+  },
+  {
+    "id": "concept:f16571ea2f05b78db6572b80",
+    "name": "单模型+魔鬼代言人提示词",
+    "aliases": []
+  }
+]

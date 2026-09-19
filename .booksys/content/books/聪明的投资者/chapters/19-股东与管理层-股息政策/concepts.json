@@ -1,0 +1,115 @@
+[
+  {
+    "id": "concept:a00825607238068055a95f07",
+    "name": "股东与管理层关系",
+    "aliases": [
+      "Shareholder-Management Relationship",
+      "委托代理关系"
+    ]
+  },
+  {
+    "id": "concept:3a73c6b5de413d0158ef3b33",
+    "name": "股息政策",
+    "aliases": [
+      "Dividend Policy",
+      "分红政策"
+    ]
+  },
+  {
+    "id": "concept:cae5e15a69c2ecbce49433ce",
+    "name": "并购",
+    "aliases": [
+      "Merger & Acquisition",
+      "M&A",
+      "竞价并购",
+      "Takeover"
+    ]
+  },
+  {
+    "id": "concept:6d9ad3a5ccc9c6491e19b688",
+    "name": "利润再投资",
+    "aliases": [
+      "Retained Earnings",
+      "Profit Reinvestment",
+      "留存收益"
+    ]
+  },
+  {
+    "id": "concept:08a9a6b38fb7c87d793db83e",
+    "name": "股息支付率",
+    "aliases": [
+      "Dividend Payout Ratio",
+      "分红率"
+    ]
+  },
+  {
+    "id": "concept:23cef5140f36c16269909600",
+    "name": "股票形式的红利",
+    "aliases": [
+      "Stock Dividend",
+      "红股"
+    ]
+  },
+  {
+    "id": "concept:9c7dee9f6763882ba86d4402",
+    "name": "股票分割",
+    "aliases": [
+      "Stock Split",
+      "拆股"
+    ]
+  },
+  {
+    "id": "concept:8b0a7017c957a974f04aa55d",
+    "name": "代理报告",
+    "aliases": [
+      "Proxy Statement",
+      "委托书"
+    ]
+  },
+  {
+    "id": "concept:3ce4ea15fcba7d7fca044fd6",
+    "name": "股票回购",
+    "aliases": [
+      "Stock Buyback",
+      "Share Repurchase",
+      "股份回购"
+    ]
+  },
+  {
+    "id": "concept:1e901d05d7b351151815496f",
+    "name": "股票期权",
+    "aliases": [
+      "Stock Options",
+      "员工期权"
+    ]
+  },
+  {
+    "id": "concept:1e91dfb69c97468fb6f18792",
+    "name": "独立董事",
+    "aliases": [
+      "Independent Director",
+      "外部董事"
+    ]
+  },
+  {
+    "id": "concept:36366d085e0bb4f119c4bf1a",
+    "name": "\"家长最懂行\"谬误",
+    "aliases": [
+      "Daddy-Knows-Best Fallacy"
+    ]
+  },
+  {
+    "id": "concept:eba1c6920acdbffe81a396de",
+    "name": "利益冲突",
+    "aliases": [
+      "Conflict of Interest"
+    ]
+  },
+  {
+    "id": "concept:ed012db214be7a1a144e8523",
+    "name": "股东积极主义",
+    "aliases": [
+      "Shareholder Activism"
+    ]
+  }
+]

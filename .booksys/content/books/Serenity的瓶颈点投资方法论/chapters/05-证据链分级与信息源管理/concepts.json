@@ -1,0 +1,165 @@
+[
+  {
+    "id": "concept:32d74db1f7721dddda1893ea",
+    "name": "三级证据体系 (Three-Tier Evidence System)",
+    "aliases": [
+      "证据金字塔, 信息分级"
+    ]
+  },
+  {
+    "id": "concept:7cbe0046b01f3feac0a2c03b",
+    "name": "弱证据（线索级）(Weak Evidence / Lead)",
+    "aliases": [
+      "第三级证据, 社交信号"
+    ]
+  },
+  {
+    "id": "concept:a671c2c27262aae9bab05773",
+    "name": "中等证据（方向级）(Medium Evidence / Directional)",
+    "aliases": [
+      "第二级证据, 方向指示"
+    ]
+  },
+  {
+    "id": "concept:41a7a75f691fca80af8a12a0",
+    "name": "强证据（证明级）(Strong Evidence / Proof)",
+    "aliases": [
+      "第一级证据, 硬证据"
+    ]
+  },
+  {
+    "id": "concept:55896a7fdd52c2db95aab2df",
+    "name": "证据拼接法 (Evidence Mosaic Method)",
+    "aliases": [
+      "碎片拼图, RPI拼图法"
+    ]
+  },
+  {
+    "id": "concept:205ee7755a4aad5c821ff046",
+    "name": "非传统数据渠道 (Non-Traditional Data Sources)",
+    "aliases": [
+      "另类数据, 非常规信息源"
+    ]
+  },
+  {
+    "id": "concept:842536c949c4b55f00b87055",
+    "name": "物理层验证优先 (Physical Verification Priority)",
+    "aliases": [
+      "物理事实优先, 可触摸验证"
+    ]
+  },
+  {
+    "id": "concept:94552ef6c7940d47c989b69c",
+    "name": "反向验证（证伪优先）(Falsification Priority)",
+    "aliases": [
+      "魔鬼代言人, 寻找反面证据"
+    ]
+  },
+  {
+    "id": "concept:75b9d29efb0700ac32c98b6a",
+    "name": "探索模式 vs 验证模式",
+    "aliases": [
+      "信息收集双模式, 广度vs深度"
+    ]
+  },
+  {
+    "id": "concept:57bc93bed3a2505a27f3bbc7",
+    "name": "三级证据体系",
+    "aliases": []
+  },
+  {
+    "id": "concept:ce80f2d021ba71da4f3dfea2",
+    "name": "弱证据/中等证据/强证据",
+    "aliases": []
+  },
+  {
+    "id": "concept:39844774b693deb3c23dd261",
+    "name": "弱证据",
+    "aliases": []
+  },
+  {
+    "id": "concept:055f6444743a290c135081eb",
+    "name": "研究起点",
+    "aliases": []
+  },
+  {
+    "id": "concept:7d6d08dce911d1e850c63228",
+    "name": "中等证据",
+    "aliases": []
+  },
+  {
+    "id": "concept:17a56fc385cc143dd4f4d46b",
+    "name": "方向可能性",
+    "aliases": []
+  },
+  {
+    "id": "concept:3f5c449d24fefc0e7d5e107b",
+    "name": "强证据",
+    "aliases": []
+  },
+  {
+    "id": "concept:85c1ac1a6d278ecbb0127de4",
+    "name": "决策权限",
+    "aliases": []
+  },
+  {
+    "id": "concept:f7121a6171dea081fc862e67",
+    "name": "证据拼接法",
+    "aliases": []
+  },
+  {
+    "id": "concept:61a5ae9f60c1e89cfe08dd03",
+    "name": "接近强证据的确信度",
+    "aliases": []
+  },
+  {
+    "id": "concept:51f1cc9bee884d09ab4792b3",
+    "name": "非传统数据渠道",
+    "aliases": []
+  },
+  {
+    "id": "concept:2db1921d3c054419b424f54a",
+    "name": "信息不对称护城河",
+    "aliases": []
+  },
+  {
+    "id": "concept:567a15dccc95e97d6dd18c40",
+    "name": "物理层验证优先",
+    "aliases": []
+  },
+  {
+    "id": "concept:dfa9133723eb4b2260e1069f",
+    "name": "强证据确认",
+    "aliases": []
+  },
+  {
+    "id": "concept:4729d01df85b9903c5050f11",
+    "name": "反向验证（证伪优先）",
+    "aliases": []
+  },
+  {
+    "id": "concept:6e6db59fbc9b0c2c25d42a0d",
+    "name": "确认偏误",
+    "aliases": []
+  },
+  {
+    "id": "concept:bc29df06ac75d88f16d38199",
+    "name": "探索模式",
+    "aliases": []
+  },
+  {
+    "id": "concept:8e86347bcbf49de31e600be0",
+    "name": "弱证据和中等证据",
+    "aliases": []
+  },
+  {
+    "id": "concept:837dfc4d7ecfa3acc7f8cc0e",
+    "name": "验证模式",
+    "aliases": []
+  },
+  {
+    "id": "concept:28ce573b7e41aeeafce3012a",
+    "name": "RPI需求预测",
+    "aliases": []
+  }
+]

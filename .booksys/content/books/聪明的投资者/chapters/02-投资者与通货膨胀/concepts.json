@@ -1,0 +1,194 @@
+[
+  {
+    "id": "concept:c797923a17021f4c2658e749",
+    "name": "通货膨胀",
+    "aliases": [
+      "Inflation",
+      "物价上涨"
+    ]
+  },
+  {
+    "id": "concept:35527c4b114a3b106834bb23",
+    "name": "货币幻觉",
+    "aliases": [
+      "Money Illusion",
+      "货币错觉"
+    ]
+  },
+  {
+    "id": "concept:b09bbdf2a25e64d7a43f0cc3",
+    "name": "实际收益率",
+    "aliases": [
+      "Real Return",
+      "扣除通胀后的收益"
+    ]
+  },
+  {
+    "id": "concept:2e44afb0bb397679359d2791",
+    "name": "名义收益率",
+    "aliases": [
+      "Nominal Return",
+      "票面利率"
+    ]
+  },
+  {
+    "id": "concept:f2a1bc9b63a99abaad1272c4",
+    "name": "股债混合策略",
+    "aliases": [
+      "Balanced Portfolio",
+      "分散配置"
+    ]
+  },
+  {
+    "id": "concept:afa420e7e76d5a10a6498804",
+    "name": "资本利润率",
+    "aliases": [
+      "Return on Equity Capital",
+      "ROE"
+    ]
+  },
+  {
+    "id": "concept:14a21632b9c19ec4140775d0",
+    "name": "市盈率",
+    "aliases": [
+      "P/E Ratio",
+      "利润乘数",
+      "Price-Earnings Ratio"
+    ]
+  },
+  {
+    "id": "concept:b46acac6e139c8a2dc34b1d6",
+    "name": "公司债务膨胀",
+    "aliases": [
+      "Corporate Debt Expansion",
+      "杠杆"
+    ]
+  },
+  {
+    "id": "concept:c2ddf0850166c6f6cd5f46c9",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor"
+    ]
+  },
+  {
+    "id": "concept:be92d32dab15b90d91b7ad60",
+    "name": "黄金保值",
+    "aliases": [
+      "Gold as Inflation Hedge"
+    ]
+  },
+  {
+    "id": "concept:91ce690bf3b1e2bd79e2a9b9",
+    "name": "实物资产",
+    "aliases": [
+      "Hard Assets",
+      "Tangible Assets"
+    ]
+  },
+  {
+    "id": "concept:cb4aa76b6f724aa57f1d6c51",
+    "name": "REITs",
+    "aliases": [
+      "不动产投资信托",
+      "Real Estate Investment Trusts"
+    ]
+  },
+  {
+    "id": "concept:f29b844499f21506168b4461",
+    "name": "TIPS",
+    "aliases": [
+      "通货膨胀保值国债",
+      "Treasury Inflation-Protected Securities"
+    ]
+  },
+  {
+    "id": "concept:66de912f6aa375ea603b4062",
+    "name": "滞胀",
+    "aliases": [
+      "Stagflation"
+    ]
+  },
+  {
+    "id": "concept:78c86af9efb87a09b48e60f6",
+    "name": "购买力",
+    "aliases": [
+      "Purchasing Power"
+    ]
+  },
+  {
+    "id": "concept:225078f2d6e75a5b9cf82a60",
+    "name": "公司利润",
+    "aliases": []
+  },
+  {
+    "id": "concept:1417f133ce376a7cc14f12bb",
+    "name": "股票投资",
+    "aliases": []
+  },
+  {
+    "id": "concept:144bc0c3bae286de03c67966",
+    "name": "股票回报",
+    "aliases": []
+  },
+  {
+    "id": "concept:9d064199f377c642042460b6",
+    "name": "华尔街/经济学家",
+    "aliases": []
+  },
+  {
+    "id": "concept:4b9b46ad61057d5afac5b76f",
+    "name": "股票估值水平",
+    "aliases": []
+  },
+  {
+    "id": "concept:22e88f5b01f49cef184e1aea",
+    "name": "黄金",
+    "aliases": []
+  },
+  {
+    "id": "concept:dd3adc4d94516655b638d8b8",
+    "name": "可靠防通胀工具",
+    "aliases": []
+  },
+  {
+    "id": "concept:1510e98729ba75e2122b48a4",
+    "name": "格雷厄姆预判",
+    "aliases": []
+  },
+  {
+    "id": "concept:ddc22671b559fd709b39de67",
+    "name": "通货膨胀保值",
+    "aliases": []
+  },
+  {
+    "id": "concept:abfb679aaa532ac625e700e0",
+    "name": "完全通胀保护",
+    "aliases": []
+  },
+  {
+    "id": "concept:5ec44dd005f3d12b6bd5fcd0",
+    "name": "税收递延退休账户",
+    "aliases": []
+  },
+  {
+    "id": "concept:2e57191c027fb61afb605be1",
+    "name": "货币贬值以偿债",
+    "aliases": []
+  },
+  {
+    "id": "concept:c16a5c0a91736910114306b7",
+    "name": "工资增长>生产率增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:735fde7f5f0925c3699c97a5",
+    "name": "公司利润增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:a3b3feff49cdbf93b5ecaa31",
+    "name": "经济信心危机",
+    "aliases": []
+  }
+]

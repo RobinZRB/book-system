@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "booksys"
+version = "2.0.0a2"
+description = "Compact local-first book knowledge and learning runtime"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "Proprietary" }
+authors = [{ name = "Book System contributors" }]
+dependencies = [
+  "fsrs==6.3.2",
+]
+
+[project.scripts]
+booksys = "booksys.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.unittest]
+start-directory = "tests"
+verbosity = 2

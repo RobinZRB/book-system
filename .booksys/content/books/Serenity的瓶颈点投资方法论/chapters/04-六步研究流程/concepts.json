@@ -1,0 +1,172 @@
+[
+  {
+    "id": "concept:735383fc4e81f16b4b108f75",
+    "name": "六步研究流程 (Six-Step Research Process)",
+    "aliases": [
+      "投资决策闭环, 从趋势到仓位"
+    ]
+  },
+  {
+    "id": "concept:1db49d70b38d6e1fb09b0169",
+    "name": "CapEx锚定 (CapEx Anchoring)",
+    "aliases": [
+      "资本开支验证, 物理事实锚定"
+    ]
+  },
+  {
+    "id": "concept:2f0fa3f7acd20ce5331bb90e",
+    "name": "架构迁移识别 (Architecture Migration Identification)",
+    "aliases": [
+      "趋势 vs 迁移区分"
+    ]
+  },
+  {
+    "id": "concept:0dc17411021615d75d904c32",
+    "name": "致命缺陷短路径 (Fatal Flaw Short-Circuit)",
+    "aliases": [
+      "快速排除法, 短路筛选"
+    ]
+  },
+  {
+    "id": "concept:3d055d124890798b20e36a45",
+    "name": "证据链分级 (Evidence Hierarchy)",
+    "aliases": [
+      "弱/中/强证据, 线索≠证明"
+    ]
+  },
+  {
+    "id": "concept:5f5c17be4a7b3ee837fc4984",
+    "name": "终局估值思维 (Terminal Value Thinking)",
+    "aliases": [
+      "逆向估值, 产业终局法"
+    ]
+  },
+  {
+    "id": "concept:14395049cd3c1dc08b150e82",
+    "name": "催化剂清单 (Catalyst Checklist)",
+    "aliases": [
+      "事件时间表, 假设检验节点"
+    ]
+  },
+  {
+    "id": "concept:7fd0b369e7720c4399317297",
+    "name": "仓位-研究匹配原则 (Position-Research Matching)",
+    "aliases": [
+      "认知诚实, 研究深度函数"
+    ]
+  },
+  {
+    "id": "concept:66319a9d4aed86906d3852ac",
+    "name": "前提假设退出机制 (Premise-Based Exit)",
+    "aliases": [
+      "非价格驱动退出, 假设检验退出"
+    ]
+  },
+  {
+    "id": "concept:5e0a4c9b0edc41f98baf5e70",
+    "name": "流程可复制性 (Process Replicability)",
+    "aliases": [
+      "公开信息方法论, 认知壁垒"
+    ]
+  },
+  {
+    "id": "concept:478207920c03789f0ee1c6f0",
+    "name": "六步研究流程",
+    "aliases": []
+  },
+  {
+    "id": "concept:2fd232e06511e7695d1dc595",
+    "name": "CapEx锚定",
+    "aliases": []
+  },
+  {
+    "id": "concept:54be5c959b276402b7f5c74b",
+    "name": "架构迁移识别",
+    "aliases": []
+  },
+  {
+    "id": "concept:9142122fe95785ce164bb1d1",
+    "name": "Step2 绘制产业地图",
+    "aliases": []
+  },
+  {
+    "id": "concept:677d17d21fab6f83c07f8e56",
+    "name": "产业链逆向拆解 (Ch3)",
+    "aliases": []
+  },
+  {
+    "id": "concept:6e4a958d2e125c78c7f716ff",
+    "name": "致命缺陷短路径",
+    "aliases": []
+  },
+  {
+    "id": "concept:173e70716ea72ff2d8d7a725",
+    "name": "Step3 瓶颈定位",
+    "aliases": []
+  },
+  {
+    "id": "concept:e4053b4061e6d3e46ec2a960",
+    "name": "Step4 收集证据链",
+    "aliases": []
+  },
+  {
+    "id": "concept:297092f82d86f2eb4fbae3f5",
+    "name": "证据链分级",
+    "aliases": []
+  },
+  {
+    "id": "concept:cd8621b22378adc299b5addf",
+    "name": "终局估值思维",
+    "aliases": []
+  },
+  {
+    "id": "concept:49bb33f5c41026ccfd9a2c48",
+    "name": "传统估值方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:93a5749f6508ccbe55b401d3",
+    "name": "催化剂清单",
+    "aliases": []
+  },
+  {
+    "id": "concept:909388da10c4353d74d4400d",
+    "name": "假设检验节点",
+    "aliases": []
+  },
+  {
+    "id": "concept:b25d19fe081c18c058c85257",
+    "name": "仓位-研究匹配原则",
+    "aliases": []
+  },
+  {
+    "id": "concept:720ea44a88c05e3a0b2bbb92",
+    "name": "仓位规模",
+    "aliases": []
+  },
+  {
+    "id": "concept:b6f062f1e34d0a25901b366f",
+    "name": "前提假设退出机制",
+    "aliases": []
+  },
+  {
+    "id": "concept:56d75629ac792252f9ec5c70",
+    "name": "价格驱动退出",
+    "aliases": []
+  },
+  {
+    "id": "concept:2c6d258f6eb27415fe79d9ad",
+    "name": "流程可复制性",
+    "aliases": []
+  },
+  {
+    "id": "concept:96586ff2e45db63357727211",
+    "name": "公开信息可得性",
+    "aliases": []
+  },
+  {
+    "id": "concept:b101293841563d55b94a1230",
+    "name": "Ch1-Ch3方法论",
+    "aliases": []
+  }
+]

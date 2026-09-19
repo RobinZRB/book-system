@@ -1,0 +1,149 @@
+[
+  {
+    "id": "concept:f8d1465331a75361b97c49ca",
+    "name": "可转换证券",
+    "aliases": [
+      "Convertible Securities",
+      "可转换债券",
+      "可转换优先股"
+    ]
+  },
+  {
+    "id": "concept:20688526f5edfa87f60cffcb",
+    "name": "认股权证",
+    "aliases": [
+      "Warrants",
+      "Stock Options",
+      "股票期权"
+    ]
+  },
+  {
+    "id": "concept:a12d5c480c30917073f36b1c",
+    "name": "转换权",
+    "aliases": [
+      "Conversion Right"
+    ]
+  },
+  {
+    "id": "concept:1ccabff4390a5dc01eb8cbff",
+    "name": "赎回",
+    "aliases": [
+      "Redemption",
+      "Call"
+    ]
+  },
+  {
+    "id": "concept:6fda714ad5838fda1bc378da",
+    "name": "稀释效应",
+    "aliases": [
+      "Dilution Effect"
+    ]
+  },
+  {
+    "id": "concept:ca17ba6330c3c5a35af22ac8",
+    "name": "转换溢价",
+    "aliases": [
+      "Conversion Premium"
+    ]
+  },
+  {
+    "id": "concept:18d8ab25636e743be6dc387d",
+    "name": "优先求偿权",
+    "aliases": [
+      "Prior Claim",
+      "Senior Claim"
+    ]
+  },
+  {
+    "id": "concept:c84d39f68d8c9356fe5217f5",
+    "name": "盈亏平衡时间",
+    "aliases": [
+      "Payback Period",
+      "偿还期"
+    ]
+  },
+  {
+    "id": "concept:650fe98a4bc18323864d2e56",
+    "name": "综合性大企业",
+    "aliases": [
+      "Conglomerate"
+    ]
+  },
+  {
+    "id": "concept:87f66b0179727f6c72f62c5c",
+    "name": "担保看涨期权",
+    "aliases": [
+      "Covered Call",
+      "出售担保看涨期权"
+    ]
+  },
+  {
+    "id": "concept:ddcbf666d741b142de266a4e",
+    "name": "优先认购权",
+    "aliases": [
+      "Preemptive Right"
+    ]
+  },
+  {
+    "id": "concept:3d82e196e1d5d4ea6f67df95",
+    "name": "可转换债券基金",
+    "aliases": [
+      "Convertible Bond Fund"
+    ]
+  },
+  {
+    "id": "concept:5b5080471e03c006f2e1d936",
+    "name": "投资质量",
+    "aliases": []
+  },
+  {
+    "id": "concept:bfdac66237cc535ead9cbd08",
+    "name": "牛市",
+    "aliases": []
+  },
+  {
+    "id": "concept:2b38958f440e97ccef4ce8bf",
+    "name": "可转换证券过量发行",
+    "aliases": []
+  },
+  {
+    "id": "concept:e02c7efd25aaa5faccad3707",
+    "name": "投资者两难",
+    "aliases": []
+  },
+  {
+    "id": "concept:97b487841b1552b853f3ebbc",
+    "name": "稀释后EPS虚增",
+    "aliases": []
+  },
+  {
+    "id": "concept:79c12df0c35c2dfe6255b12f",
+    "name": "虚假市值",
+    "aliases": []
+  },
+  {
+    "id": "concept:b9b944208b92b464bf1e9e64",
+    "name": "上涨收益",
+    "aliases": []
+  },
+  {
+    "id": "concept:bc04dd1bd13e4e611c1aba09",
+    "name": "散户分散化投资",
+    "aliases": []
+  },
+  {
+    "id": "concept:6241bd760d27ff303fa398e3",
+    "name": "投资吸引力",
+    "aliases": []
+  },
+  {
+    "id": "concept:7965462b860b07ddfbd36f63",
+    "name": "股市下跌",
+    "aliases": []
+  },
+  {
+    "id": "concept:c587811bb19507cb129bdcc2",
+    "name": "可转换债券真实质量",
+    "aliases": []
+  }
+]

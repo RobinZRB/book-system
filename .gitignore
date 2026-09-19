@@ -1,0 +1,16 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local runtime state
+.booksys/runtime/
+
+# Local agent/workbench artifacts
+.workbuddy/
+
+# Virtual environments
+.venv/
+venv/
+env/

@@ -1,0 +1,3 @@
+# Runtime dependencies for the Book System CLI.
+# Install with: python -m pip install -r requirements.txt
+fsrs==6.3.2

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "concept:950cf755758d9355b814defb",
+    "name": "CPO（光电共封装）(Co-Packaged Optics)",
+    "aliases": [
+      "共封装光学, 硅光子集成"
+    ]
+  },
+  {
+    "id": "concept:5605ba0668817a628c95e185",
+    "name": "七层光通信瓶颈 (Seven-Layer Optical Comms Chokepoint Map)",
+    "aliases": [
+      "光通信产业链瓶颈地图"
+    ]
+  },
+  {
+    "id": "concept:a7d88332ca4c6c8099cbc13e",
+    "name": "InP衬底 (Indium Phosphide Substrate)",
+    "aliases": [
+      "磷化铟衬底, AXTI"
+    ]
+  },
+  {
+    "id": "concept:1564d05676c2e0f3358b19b0",
+    "name": "外部激光源 (External Laser Source)",
+    "aliases": [
+      "外置CW激光器, SIVE"
+    ]
+  },
+  {
+    "id": "concept:be7e594d722d2056fdbe678b",
+    "name": "CW DFB激光器 (Continuous Wave DFB Laser)",
+    "aliases": [
+      "连续波分布反馈激光器"
+    ]
+  },
+  {
+    "id": "concept:ce38d6958fe9653c7c4ef735",
+    "name": "SOI晶圆 (SOI Wafer)",
+    "aliases": [
+      "绝缘体上硅晶圆"
+    ]
+  },
+  {
+    "id": "concept:f01890c3b3ec16e3813327e7",
+    "name": "光收发器测试设备 (Optical Transceiver Test Equipment)",
+    "aliases": [
+      "800G/1.6T测试, 产能隐性瓶颈"
+    ]
+  },
+  {
+    "id": "concept:197df714fdad24cd0b864257",
+    "name": "MBE设备 (Molecular Beam Epitaxy Equipment)",
+    "aliases": [
+      "分子束外延设备"
+    ]
+  },
+  {
+    "id": "concept:73bc18740ce6fcc49cd3efa4",
+    "name": "高纯磷原料 (High-Purity Phosphorus)",
+    "aliases": [
+      "6N+磷, 最深瓶颈"
+    ]
+  },
+  {
+    "id": "concept:1b77eb5b7d4c7cbd0cc1aeaa",
+    "name": "同主线不同节点 (Same Thread, Different Nodes)",
+    "aliases": [
+      "产业链受益顺序布局"
+    ]
+  },
+  {
+    "id": "concept:cc110af017d6490420ad5e4e",
+    "name": "出口管制放大器 (Export Control Amplifier)",
+    "aliases": [
+      "地缘政治催化剂, 不对称收益"
+    ]
+  },
+  {
+    "id": "concept:946a66fc638d0b6773dd7d39",
+    "name": "CPO",
+    "aliases": []
+  },
+  {
+    "id": "concept:f9fe065489571039b0dc02e8",
+    "name": "物理极限（铜线撞墙）",
+    "aliases": []
+  },
+  {
+    "id": "concept:903a7433510b4ac933eead20",
+    "name": "外部激光源",
+    "aliases": []
+  },
+  {
+    "id": "concept:cc2947bbf5d24e82bb0255d7",
+    "name": "CW DFB激光器",
+    "aliases": []
+  },
+  {
+    "id": "concept:79d7ae6ca08c35ed0f891829",
+    "name": "InP衬底",
+    "aliases": []
+  },
+  {
+    "id": "concept:c017b0995357373da3ac57fb",
+    "name": "MBE设备",
+    "aliases": []
+  },
+  {
+    "id": "concept:133cfbd8676f192df7b04e9d",
+    "name": "高纯磷原料",
+    "aliases": []
+  },
+  {
+    "id": "concept:9cd1d45c0da019177697ffaf",
+    "name": "七层光通信瓶颈",
+    "aliases": []
+  },
+  {
+    "id": "concept:4c4e52ade2ef1a5da4d76289",
+    "name": "产业链受益顺序",
+    "aliases": []
+  },
+  {
+    "id": "concept:ebba32ec8105c3b9e27b8d3d",
+    "name": "出口管制放大器",
+    "aliases": []
+  },
+  {
+    "id": "concept:acc7343619d84eb371fa8626",
+    "name": "InP衬底/外部激光源的供给稀缺性",
+    "aliases": []
+  },
+  {
+    "id": "concept:1ac2c77f4e0f3cbd25ae8509",
+    "name": "Serenity的光通信持仓",
+    "aliases": []
+  },
+  {
+    "id": "concept:814f4b1e480d486b46299b23",
+    "name": "同主线不同节点策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:843e143f816b57fdd54f1ceb",
+    "name": "客户路线区分",
+    "aliases": []
+  },
+  {
+    "id": "concept:3e38479e0f2b31f3d801a12f",
+    "name": "\"光通信受益\"粗糙结论",
+    "aliases": []
+  }
+]

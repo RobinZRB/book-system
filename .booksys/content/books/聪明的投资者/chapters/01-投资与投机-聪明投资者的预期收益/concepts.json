@@ -1,0 +1,171 @@
+[
+  {
+    "id": "concept:ec98c5b7eac38719e63dfc9a",
+    "name": "投资",
+    "aliases": [
+      "Investment",
+      "投资操作"
+    ]
+  },
+  {
+    "id": "concept:aca0f861484c25fe45231be1",
+    "name": "投机",
+    "aliases": [
+      "Speculation",
+      "投机操作"
+    ]
+  },
+  {
+    "id": "concept:5e7297c7b0b0874abb7761b5",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor",
+      "被动型投资者"
+    ]
+  },
+  {
+    "id": "concept:ae9151a00e51234659c28c2f",
+    "name": "进取型投资者",
+    "aliases": [
+      "Enterprising Investor",
+      "积极型投资者",
+      "激进型投资者"
+    ]
+  },
+  {
+    "id": "concept:f591b7bef4de111ec8384c9e",
+    "name": "择时交易",
+    "aliases": [
+      "Market Timing"
+    ]
+  },
+  {
+    "id": "concept:7251c4bbf3f2f21c99732cfe",
+    "name": "短线择股",
+    "aliases": [
+      "Short-term Stock Selection"
+    ]
+  },
+  {
+    "id": "concept:28aecd95c6563d44cdff937f",
+    "name": "长线择股",
+    "aliases": [
+      "Long-term Stock Selection",
+      "成长投资"
+    ]
+  },
+  {
+    "id": "concept:3edd072a4b93ece7934a4359",
+    "name": "程式投资",
+    "aliases": [
+      "Formula Investing"
+    ]
+  },
+  {
+    "id": "concept:cf5f4d00e0a6f7c6f4a70d9e",
+    "name": "美元成本平均法",
+    "aliases": [
+      "Dollar-Cost Averaging",
+      "DCA",
+      "定期定额法"
+    ]
+  },
+  {
+    "id": "concept:27f9d8c7ec8a30b31238b54f",
+    "name": "廉价证券",
+    "aliases": [
+      "Bargain Issues",
+      "便宜货股票"
+    ]
+  },
+  {
+    "id": "concept:81a3d1e29d685d7aa14f85b1",
+    "name": "净流动资产",
+    "aliases": [
+      "Net Current Assets",
+      "营运资本"
+    ]
+  },
+  {
+    "id": "concept:3d4e6028a6f31763b8882625",
+    "name": "特殊情况",
+    "aliases": [
+      "Special Situations"
+    ]
+  },
+  {
+    "id": "concept:f336ff8768caa9ecdb871184",
+    "name": "保证金交易",
+    "aliases": [
+      "Margin Trading"
+    ]
+  },
+  {
+    "id": "concept:d7e7b15d9b2afa31207535a2",
+    "name": "自我衰减",
+    "aliases": [
+      "Self-Destructive Process",
+      "收益率递减"
+    ]
+  },
+  {
+    "id": "concept:dd7c628c66555d98651e0b69",
+    "name": "换手率",
+    "aliases": [
+      "Turnover Rate"
+    ]
+  },
+  {
+    "id": "concept:c9d0449d3a0938f7a8c49cf0",
+    "name": "赌资账户",
+    "aliases": [
+      "Gambling Account",
+      "投机账户"
+    ]
+  },
+  {
+    "id": "concept:0116d8ff6e74144749d57c90",
+    "name": "深入分析",
+    "aliases": []
+  },
+  {
+    "id": "concept:7c3ccb0941e24e62bcd08e29",
+    "name": "本金安全",
+    "aliases": []
+  },
+  {
+    "id": "concept:e0239f6ba76dd8f59d6bffc6",
+    "name": "适当回报",
+    "aliases": []
+  },
+  {
+    "id": "concept:ae66e2b204846742ff4a2046",
+    "name": "重大损失",
+    "aliases": []
+  },
+  {
+    "id": "concept:51d5125bd148994136154aeb",
+    "name": "债券-股票配置",
+    "aliases": []
+  },
+  {
+    "id": "concept:9e308fa2612009886afe61da",
+    "name": "防御型投资者策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:de21250fa7021576a2e8d012",
+    "name": "竞争",
+    "aliases": []
+  },
+  {
+    "id": "concept:e663ebeb906e572b18ced5e0",
+    "name": "投机风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:5139b4ab4a2c8cec6d528e0b",
+    "name": "投机程度",
+    "aliases": []
+  }
+]

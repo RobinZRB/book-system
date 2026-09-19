@@ -1,0 +1,254 @@
+[
+  {
+    "id": "concept:50292e93c0f80e631f6a3573",
+    "name": "市场先生",
+    "aliases": [
+      "Mr. Market",
+      "市场先生寓言"
+    ]
+  },
+  {
+    "id": "concept:0d27f3ebccd67c0bde8fb380",
+    "name": "择时交易",
+    "aliases": [
+      "Market Timing",
+      "市场预测"
+    ]
+  },
+  {
+    "id": "concept:3111ecdc62448be07c127e11",
+    "name": "估价法",
+    "aliases": [
+      "Pricing Method",
+      "估值法"
+    ]
+  },
+  {
+    "id": "concept:d1334e16182a113904e9c998",
+    "name": "贱买贵卖法",
+    "aliases": [
+      "Buy Low Sell High",
+      "低吸高抛"
+    ]
+  },
+  {
+    "id": "concept:1580012b35ecaee63e362874",
+    "name": "程式投资方案",
+    "aliases": [
+      "Formula Plans",
+      "程式方案"
+    ]
+  },
+  {
+    "id": "concept:822a85b07e7528bff24bce9a",
+    "name": "道氏理论",
+    "aliases": [
+      "Dow Theory"
+    ]
+  },
+  {
+    "id": "concept:07b2505a3a25ed81468568bd",
+    "name": "市场波动",
+    "aliases": [
+      "Market Fluctuations"
+    ]
+  },
+  {
+    "id": "concept:7e4db872cc336c3c6bc8648f",
+    "name": "企业价值vs股市价值",
+    "aliases": [
+      "Corporate Value vs Market Price",
+      "所有权vs报价"
+    ]
+  },
+  {
+    "id": "concept:dd80334dd5b0af0d0fde1f2c",
+    "name": "有形资产价值",
+    "aliases": [
+      "Tangible Asset Value",
+      "账面价值",
+      "净资产价值"
+    ]
+  },
+  {
+    "id": "concept:0e6ffda3076214bf99237923",
+    "name": "A.&P.案例",
+    "aliases": [
+      "Great Atlantic & Pacific Tea Co."
+    ]
+  },
+  {
+    "id": "concept:7a396a6c2e565d35c1e7f816",
+    "name": "再平衡法",
+    "aliases": [
+      "Rebalancing",
+      "资产再平衡"
+    ]
+  },
+  {
+    "id": "concept:671ba740abf8acba5a92b1c2",
+    "name": "美元成本平均法",
+    "aliases": [
+      "Dollar-Cost Averaging",
+      "DCA",
+      "定期定额"
+    ]
+  },
+  {
+    "id": "concept:9f0f454d337cf873607a3509",
+    "name": "税收亏损收割",
+    "aliases": [
+      "Tax-Loss Harvesting",
+      "税务互换"
+    ]
+  },
+  {
+    "id": "concept:183f540b41f6e32004e8778d",
+    "name": "投资所有者合约",
+    "aliases": [
+      "Investment Owner's Contract"
+    ]
+  },
+  {
+    "id": "concept:b2292ecf54dd29c05b55f222",
+    "name": "基本优势vs基本劣势",
+    "aliases": [
+      "Fundamental Advantage vs Disadvantage"
+    ]
+  },
+  {
+    "id": "concept:9e20b12bd47abc8aef399931",
+    "name": "独立思维",
+    "aliases": [
+      "Independent Thinking"
+    ]
+  },
+  {
+    "id": "concept:3a5c1f186548157f8b446f37",
+    "name": "损失厌恶",
+    "aliases": [
+      "Loss Aversion"
+    ]
+  },
+  {
+    "id": "concept:6ece041aa0884be3072a3058",
+    "name": "多巴胺效应",
+    "aliases": [
+      "Dopamine Effect",
+      "趋势上瘾"
+    ]
+  },
+  {
+    "id": "concept:d2270a55d9e4f2924ec30ae5",
+    "name": "债券价格波动",
+    "aliases": [
+      "Bond Price Fluctuations"
+    ]
+  },
+  {
+    "id": "concept:f289296583e47bc06e6300ce",
+    "name": "战术性资产分配",
+    "aliases": [
+      "Tactical Asset Allocation"
+    ]
+  },
+  {
+    "id": "concept:a518802f9d0dde0c4533647a",
+    "name": "流动性",
+    "aliases": [
+      "Liquidity",
+      "市场流动性"
+    ]
+  },
+  {
+    "id": "concept:7566e20b90daa27c83f39b7e",
+    "name": "BGFN",
+    "aliases": [
+      "Benjamin Graham Financial Network",
+      "格雷厄姆财经网络"
+    ]
+  },
+  {
+    "id": "concept:d893fcd03049acc96c62d341",
+    "name": "自我衰减",
+    "aliases": [
+      "Self-Destructive Process",
+      "收益率递减"
+    ]
+  },
+  {
+    "id": "concept:1ee15414d0f2366f52c310dc",
+    "name": "投机",
+    "aliases": []
+  },
+  {
+    "id": "concept:1988fb49102973459fbf5e6b",
+    "name": "牛市-熊市循环",
+    "aliases": []
+  },
+  {
+    "id": "concept:c67a07396fc34e46b3624446",
+    "name": "安全边际",
+    "aliases": []
+  },
+  {
+    "id": "concept:2b45d1524a58e170c6c89e88",
+    "name": "基本优势",
+    "aliases": []
+  },
+  {
+    "id": "concept:525168b822d419a91e9b0fdc",
+    "name": "盲从市场",
+    "aliases": []
+  },
+  {
+    "id": "concept:36ff1ea0c9b8a54226c9b80c",
+    "name": "基本优势→基本劣势",
+    "aliases": []
+  },
+  {
+    "id": "concept:f620d3cc494b590eb6fcb61b",
+    "name": "追涨",
+    "aliases": []
+  },
+  {
+    "id": "concept:c85a39044e71d0b64b3c75e9",
+    "name": "底部卖出",
+    "aliases": []
+  },
+  {
+    "id": "concept:8142eaf31aaba3efac9239d1",
+    "name": "市场波动心理影响",
+    "aliases": []
+  },
+  {
+    "id": "concept:36a289e3ec420e361b0ecc3b",
+    "name": "市场下跌",
+    "aliases": []
+  },
+  {
+    "id": "concept:a09eaeb7b4c6957974d6902b",
+    "name": "利率变化",
+    "aliases": []
+  },
+  {
+    "id": "concept:62adc0734f1683482797b638",
+    "name": "市场情绪",
+    "aliases": []
+  },
+  {
+    "id": "concept:ef387d2eca8ee4ca50cfb76b",
+    "name": "双刃剑",
+    "aliases": []
+  },
+  {
+    "id": "concept:072da64880b6680f57ed388b",
+    "name": "401(k)行为数据",
+    "aliases": []
+  },
+  {
+    "id": "concept:373aa581b3e5782460a2f6dd",
+    "name": "追涨杀跌",
+    "aliases": []
+  }
+]

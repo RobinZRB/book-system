@@ -1,0 +1,196 @@
+[
+  {
+    "id": "concept:daff4af2f6523ddde0d591bc",
+    "name": "市盈率 (P/E Ratio)",
+    "aliases": [
+      "Price-Earnings Ratio",
+      "本益比",
+      "PE"
+    ]
+  },
+  {
+    "id": "concept:25ab1ec86e3f5c23d310d52a",
+    "name": "防御型投资者七项标准",
+    "aliases": [
+      "Seven Criteria for Defensive Investors"
+    ]
+  },
+  {
+    "id": "concept:7df4eda059eef932834a9d6a",
+    "name": "商誉巨头",
+    "aliases": [
+      "Goodwill Giant"
+    ]
+  },
+  {
+    "id": "concept:af1e9272199c9809562ac3b5",
+    "name": "账面价值",
+    "aliases": [
+      "Book Value",
+      "净资产价值"
+    ]
+  },
+  {
+    "id": "concept:5036fa9a7e5d7157187069af",
+    "name": "安全边际",
+    "aliases": [
+      "Margin of Safety"
+    ]
+  },
+  {
+    "id": "concept:fb9a77a4b82b10dfac39551f",
+    "name": "盈利能力",
+    "aliases": [
+      "Profitability",
+      "资本回报率"
+    ]
+  },
+  {
+    "id": "concept:a7bacd928ad69e869d365e76",
+    "name": "财务稳定性",
+    "aliases": [
+      "Financial Stability"
+    ]
+  },
+  {
+    "id": "concept:d4b024176b1569361511df22",
+    "name": "股息持续性",
+    "aliases": [
+      "Dividend Continuity"
+    ]
+  },
+  {
+    "id": "concept:0bab176aee8d4fa0d999060b",
+    "name": "价值投资",
+    "aliases": [
+      "Value Investing"
+    ]
+  },
+  {
+    "id": "concept:f31df3e8362b998a4a780a55",
+    "name": "成长投资",
+    "aliases": [
+      "Growth Investing"
+    ]
+  },
+  {
+    "id": "concept:4019a37e6887c67303aed1a8",
+    "name": "股票分割幻觉",
+    "aliases": [
+      "Stock Split Illusion"
+    ]
+  },
+  {
+    "id": "concept:4495674ba02f3dd9949d4951",
+    "name": "核查六点钟方向",
+    "aliases": [
+      "Check Six O'Clock"
+    ]
+  },
+  {
+    "id": "concept:a2af6a45798ebc85808148a9",
+    "name": "网络股泡沫",
+    "aliases": [
+      "Dot-com Bubble"
+    ]
+  },
+  {
+    "id": "concept:72b8371bef5186414fa4afd0",
+    "name": "增长率陷阱",
+    "aliases": [
+      "Growth Trap"
+    ]
+  },
+  {
+    "id": "concept:078f66f9884ae4fd7cd330c1",
+    "name": "有机增长",
+    "aliases": [
+      "Organic Growth"
+    ]
+  },
+  {
+    "id": "concept:566af8226ad7a62e801fba7c",
+    "name": "低市盈率",
+    "aliases": []
+  },
+  {
+    "id": "concept:c1ab24a652abe79a7d097477",
+    "name": "高估值风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:d2aff69b9ada7a21e05050e8",
+    "name": "持续高增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:e9973bd60b2feec2acd66a7c",
+    "name": "高市盈率",
+    "aliases": []
+  },
+  {
+    "id": "concept:c53375005cfe2cb5aadcbcae",
+    "name": "永久性亏损风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:5067d47d30010e3df9b14c7e",
+    "name": "股票分割",
+    "aliases": []
+  },
+  {
+    "id": "concept:70ba0b9f6c3bb07325a6a372",
+    "name": "非理性繁荣",
+    "aliases": []
+  },
+  {
+    "id": "concept:1089420eab04b480681ae06a",
+    "name": "过度自信",
+    "aliases": []
+  },
+  {
+    "id": "concept:ca9431823ce149fd300cfaf3",
+    "name": "旧经济稳健企业",
+    "aliases": []
+  },
+  {
+    "id": "concept:be4eefd79539bc2d1b652e49",
+    "name": "并购增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:d867379a4a37d939b8407da2",
+    "name": "财务稳定性判断",
+    "aliases": []
+  },
+  {
+    "id": "concept:8e24156a94f4bdc0c7f5dbe3",
+    "name": "市场情绪",
+    "aliases": []
+  },
+  {
+    "id": "concept:2b47e5e404054f4792fa4fc9",
+    "name": "市盈率差异",
+    "aliases": []
+  },
+  {
+    "id": "concept:fb62e7819eefe38abfec9fd2",
+    "name": "分散化组合",
+    "aliases": []
+  },
+  {
+    "id": "concept:b65c10e13be8741991880eff",
+    "name": "个股失败风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:054fffd1cdd6a2304e4dd579",
+    "name": "投资者个人态度",
+    "aliases": []
+  },
+  {
+    "id": "concept:725e43af75c55c32e6b915ac",
+    "name": "投资策略选择",
+    "aliases": []
+  }
+]

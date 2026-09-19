@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "book_id": "book:9bb448ba38a6586633566272",
+  "title": "聪明的投资者",
+  "chapters": [
+    {
+      "chapter_id": "chapter:f190c8a44497b3358cb11e86",
+      "slug": "00-本书的目的"
+    },
+    {
+      "chapter_id": "chapter:09d9619138bb98ff6fdb6cbc",
+      "slug": "01-投资与投机-聪明投资者的预期收益"
+    },
+    {
+      "chapter_id": "chapter:38b836e6b4cc4bd06dfc80b1",
+      "slug": "02-投资者与通货膨胀"
+    },
+    {
+      "chapter_id": "chapter:9d42f5be06f08a8af52d5626",
+      "slug": "03-一个世纪的股市历史-1972年年初的股价水平"
+    },
+    {
+      "chapter_id": "chapter:a055baedc8aa8242ec3ede42",
+      "slug": "04-防御型投资者的投资组合策略"
+    },
+    {
+      "chapter_id": "chapter:67413ed5482a54c082b004ed",
+      "slug": "05-防御型投资者与普通股"
+    },
+    {
+      "chapter_id": "chapter:ad03485a0e0b2e03080e314a",
+      "slug": "06-积极型投资者的证券组合策略-被动的方法"
+    },
+    {
+      "chapter_id": "chapter:8a772096d47b851171bf25e2",
+      "slug": "07-积极型投资者的证券组合策略-主动的方法"
+    },
+    {
+      "chapter_id": "chapter:73c0778d66a09296af54b1fd",
+      "slug": "08-投资者与市场波动"
+    },
+    {
+      "chapter_id": "chapter:e7b6bd54de1c6507982799de",
+      "slug": "09-基金投资"
+    },
+    {
+      "chapter_id": "chapter:3b3dd549b90204708f263b46",
+      "slug": "10-投资者与投资顾问"
+    },
+    {
+      "chapter_id": "chapter:3093c37f4e41ab619b68bb21",
+      "slug": "11-普通投资者证券分析的一般方法"
+    },
+    {
+      "chapter_id": "chapter:e3fdb43ab8c3cd9c63e9decd",
+      "slug": "12-对每股收益的思考"
+    },
+    {
+      "chapter_id": "chapter:98d9c8579fadf88634e68ea2",
+      "slug": "13-对四家上市公司的比较"
+    },
+    {
+      "chapter_id": "chapter:f2785b75ae8f59a5290be191",
+      "slug": "14-防御型投资者的股票选择"
+    },
+    {
+      "chapter_id": "chapter:4583b4c20cc471bd714a4476",
+      "slug": "15-积极型投资者的股票选择"
+    },
+    {
+      "chapter_id": "chapter:27126d72fe4ac253a25a2a4a",
+      "slug": "16-可转换证券及认股权证"
+    },
+    {
+      "chapter_id": "chapter:59299ce745d5a0955c21d40c",
+      "slug": "17-四个非常有启发的案例"
+    },
+    {
+      "chapter_id": "chapter:6cc0240f3952f2df3ce54e62",
+      "slug": "18-对八组公司的比较"
+    },
+    {
+      "chapter_id": "chapter:6470332c2022b3afefa54a68",
+      "slug": "19-股东与管理层-股息政策"
+    },
+    {
+      "chapter_id": "chapter:24cefd53e3882ba81d4cf72a",
+      "slug": "20-作为投资中心思想的安全边际"
+    }
+  ]
+}

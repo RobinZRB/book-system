@@ -1,0 +1,154 @@
+[
+  {
+    "id": "concept:b1f75806e15d043d4fd7ed07",
+    "name": "积极型投资者",
+    "aliases": [
+      "进取型投资者",
+      "Enterprising Investor",
+      "Active Investor"
+    ]
+  },
+  {
+    "id": "concept:35951c9c8da3628634e07a95",
+    "name": "成长股投资",
+    "aliases": [
+      "Growth Stock Investing"
+    ]
+  },
+  {
+    "id": "concept:971c092e39e57a4c89df7b45",
+    "name": "低市盈率策略",
+    "aliases": [
+      "道氏失宠股投资法",
+      "Dow Unpopular Stocks",
+      "Low P/E Strategy"
+    ]
+  },
+  {
+    "id": "concept:75b4f428aa920a163a649a4d",
+    "name": "廉价证券",
+    "aliases": [
+      "便宜货股票",
+      "Bargain Securities",
+      "Undervalued Securities"
+    ]
+  },
+  {
+    "id": "concept:d09fd6a1e43b8dfdc0c03e6a",
+    "name": "净营运资本",
+    "aliases": [
+      "净流动资产",
+      "Net Working Capital",
+      "Net Current Assets"
+    ]
+  },
+  {
+    "id": "concept:c5b1edeac619b8f6a097a2ce",
+    "name": "二类企业",
+    "aliases": [
+      "次级企业",
+      "Secondary Companies",
+      "Small-Cap"
+    ]
+  },
+  {
+    "id": "concept:01155622a8e1e3c18d0b38de",
+    "name": "特殊情况/套利",
+    "aliases": [
+      "破产重组套利",
+      "Special Situations",
+      "Arbitrage"
+    ]
+  },
+  {
+    "id": "concept:c19302794d469841f19e0f8c",
+    "name": "择时交易",
+    "aliases": [
+      "市场时机选择",
+      "Market Timing"
+    ]
+  },
+  {
+    "id": "concept:a0cf11688bd550785f717842",
+    "name": "分散化",
+    "aliases": [
+      "多元化",
+      "Diversification"
+    ]
+  },
+  {
+    "id": "concept:202080f904205744898f231e",
+    "name": "集中投资",
+    "aliases": [
+      "重仓投资",
+      "Concentrated Investment",
+      "Focused Portfolio"
+    ]
+  },
+  {
+    "id": "concept:f743cd375e2ca69ff3531ee2",
+    "name": "防御型与积极型二分法",
+    "aliases": [
+      "Defensive vs Enterprising"
+    ]
+  },
+  {
+    "id": "concept:78d7b138c4cbc7f833f6fd2d",
+    "name": "外国证券投资",
+    "aliases": [
+      "国际分散",
+      "Foreign Securities",
+      "Global Diversification"
+    ]
+  },
+  {
+    "id": "concept:e25365daafd2f25ac57a1654",
+    "name": "防御型投资者",
+    "aliases": []
+  },
+  {
+    "id": "concept:87c5f180269dfe25e28d97f2",
+    "name": "市盈率陷阱",
+    "aliases": []
+  },
+  {
+    "id": "concept:f9ddf205a0adcd786391071a",
+    "name": "价值回归",
+    "aliases": []
+  },
+  {
+    "id": "concept:bed890ee008fcff8b0c2aee7",
+    "name": "价值重估",
+    "aliases": []
+  },
+  {
+    "id": "concept:53583df7377be14da6caa3e6",
+    "name": "估价方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:a84068e4b7d01a28a74504dc",
+    "name": "巨额财富",
+    "aliases": []
+  },
+  {
+    "id": "concept:3b159101d9b16183f84e2dc7",
+    "name": "财富毁灭",
+    "aliases": []
+  },
+  {
+    "id": "concept:448d6d35e460d307cba1d1d3",
+    "name": "集中投资风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:93f63fb127f207fab2a4cb98",
+    "name": "本国市场风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:1d129f177a051f4d6e08e4c6",
+    "name": "证券估价知识",
+    "aliases": []
+  }
+]

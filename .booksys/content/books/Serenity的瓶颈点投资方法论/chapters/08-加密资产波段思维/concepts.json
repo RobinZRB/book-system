@@ -1,0 +1,157 @@
+[
+  {
+    "id": "concept:9864a90db1b8bbe910f438e6",
+    "name": "五因子跨资产映射 (Five-Factor Cross-Asset Mapping)",
+    "aliases": [
+      "加密版五因子, 概念转换"
+    ]
+  },
+  {
+    "id": "concept:c33bcde0c7198e13161b4d25",
+    "name": "链上需求验证 (On-Chain Demand Verification)",
+    "aliases": [
+      "协议收入追踪, 用户增长"
+    ]
+  },
+  {
+    "id": "concept:004cd5d4aced10ad02936c1c",
+    "name": "质押锁定 (Staking Lockup)",
+    "aliases": [
+      "PoS质押, 流通量收缩"
+    ]
+  },
+  {
+    "id": "concept:d6dac3968869a491e8e76493",
+    "name": "代币燃烧 (Token Burn)",
+    "aliases": [
+      "EIP-1559, 通货紧缩机制"
+    ]
+  },
+  {
+    "id": "concept:77831cc619e0af77adc2b2f0",
+    "name": "CEX/DEX渗透率差 (CEX/DEX Penetration Gap)",
+    "aliases": [
+      "加密版低关注度, 价格洼地"
+    ]
+  },
+  {
+    "id": "concept:9cc81b94a5adf3f0bb5f92f9",
+    "name": "代币经济学价值捕获 (Tokenomics Value Capture)",
+    "aliases": [
+      "费用分配, 治理权"
+    ]
+  },
+  {
+    "id": "concept:5fe4cd806b7c6c03555f7056",
+    "name": "ETH/BTC比率压缩 (ETH/BTC Ratio Compression)",
+    "aliases": [
+      "极值回归, 统计套利"
+    ]
+  },
+  {
+    "id": "concept:66ba7527964559262328a5a7",
+    "name": "链上数据实时透明性 (On-Chain Real-Time Transparency)",
+    "aliases": [
+      "公共账本优势, 无需等季报"
+    ]
+  },
+  {
+    "id": "concept:09d5432093bf7d0679268f5e",
+    "name": "物理约束 vs 社会约束",
+    "aliases": [
+      "确定性差异, 信号强度"
+    ]
+  },
+  {
+    "id": "concept:e1fb67ff254b5970070b5d15",
+    "name": "波段交易 vs 长线瓶颈",
+    "aliases": [
+      "持有周期匹配, 退出机制区分"
+    ]
+  },
+  {
+    "id": "concept:e2abbcd42e26dec5a09d8a1d",
+    "name": "五因子跨资产映射",
+    "aliases": []
+  },
+  {
+    "id": "concept:5a815b1beae45eb8b98da607",
+    "name": "确定需求（加密版）",
+    "aliases": []
+  },
+  {
+    "id": "concept:98be62b6ff0fe0bfea60a8ae",
+    "name": "受限供给（加密版）",
+    "aliases": []
+  },
+  {
+    "id": "concept:43886d9a41970be18e7bd28d",
+    "name": "低关注度（加密版）",
+    "aliases": []
+  },
+  {
+    "id": "concept:6516db52a0eb18c3d162e68c",
+    "name": "价值捕获（加密版）",
+    "aliases": []
+  },
+  {
+    "id": "concept:a0dba744ede37bb59cdf4d75",
+    "name": "链上数据实时透明性",
+    "aliases": []
+  },
+  {
+    "id": "concept:18b7ffde4c613ed274883fae",
+    "name": "传统市场不具备的信息优势",
+    "aliases": []
+  },
+  {
+    "id": "concept:e69e027c416d908579b506c9",
+    "name": "物理约束",
+    "aliases": []
+  },
+  {
+    "id": "concept:c2cb9ccf0c56a53987b699d9",
+    "name": "高置信度+长周期信号",
+    "aliases": []
+  },
+  {
+    "id": "concept:e1070c7967d37cbfe591f938",
+    "name": "社会约束",
+    "aliases": []
+  },
+  {
+    "id": "concept:dcd636770e3b543261c7da63",
+    "name": "低置信度+短周期信号",
+    "aliases": []
+  },
+  {
+    "id": "concept:800b6124dc0e504e8d303c21",
+    "name": "ETH/BTC比率压缩",
+    "aliases": []
+  },
+  {
+    "id": "concept:ebd8d157b6a2f2cbdddbcc03",
+    "name": "波段交易入场",
+    "aliases": []
+  },
+  {
+    "id": "concept:19b428f0f8fccd1f74b9ad7e",
+    "name": "波段交易",
+    "aliases": []
+  },
+  {
+    "id": "concept:13f234f293edb26718529a44",
+    "name": "技术目标退出机制",
+    "aliases": []
+  },
+  {
+    "id": "concept:644df5bcb990ca2b74f98567",
+    "name": "长线瓶颈",
+    "aliases": []
+  },
+  {
+    "id": "concept:c65e66ef69802179ddb1e7c4",
+    "name": "前提假设退出机制",
+    "aliases": []
+  }
+]

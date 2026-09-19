@@ -1,0 +1,291 @@
+[
+  {
+    "id": "concept:5755bf7e362284235c19d030",
+    "name": "积极投资者",
+    "aliases": [
+      "Active Investor",
+      "进取型投资者"
+    ]
+  },
+  {
+    "id": "concept:3ab7875790cce49b3aa1f8e7",
+    "name": "有效市场假说",
+    "aliases": [
+      "Efficient Market Hypothesis",
+      "EMH"
+    ]
+  },
+  {
+    "id": "concept:bbf241b3b50d3d74cef074d5",
+    "name": "格雷厄姆-纽曼法",
+    "aliases": [
+      "Graham-Newman Method"
+    ]
+  },
+  {
+    "id": "concept:2aef3d46d83ee4346d1b9988",
+    "name": "套利",
+    "aliases": [
+      "Arbitrage",
+      "并购套利"
+    ]
+  },
+  {
+    "id": "concept:2eaff6e38636a9853369d8b9",
+    "name": "资产清理",
+    "aliases": [
+      "Liquidation",
+      "资产清算"
+    ]
+  },
+  {
+    "id": "concept:1903fbe6ae1f2f61cd2dc142",
+    "name": "关联对冲",
+    "aliases": [
+      "Related Hedging",
+      "关联套期保值"
+    ]
+  },
+  {
+    "id": "concept:16f5ff0d7c47c76b51d40622",
+    "name": "净流动资产证券",
+    "aliases": [
+      "Net-Current-Asset Issues",
+      "廉价股",
+      "烟蒂股"
+    ]
+  },
+  {
+    "id": "concept:01a8a6eebda07f9c0543123e",
+    "name": "股票指南筛选法",
+    "aliases": [
+      "Stock Guide Screening",
+      "六标准法"
+    ]
+  },
+  {
+    "id": "concept:aab465713aefd5df2b65e86a",
+    "name": "二类企业",
+    "aliases": [
+      "Secondary Companies",
+      "次级企业",
+      "不受欢迎的股票"
+    ]
+  },
+  {
+    "id": "concept:e87d179d70d2caf1175ad1eb",
+    "name": "商誉巨头",
+    "aliases": [
+      "Goodwill Giants",
+      "品牌巨头",
+      "大盘成长股"
+    ]
+  },
+  {
+    "id": "concept:c4c292547cdc87351b4e53a1",
+    "name": "净流动资产价值",
+    "aliases": [
+      "Net Current Asset Value",
+      "NCAV",
+      "营运资本净值"
+    ]
+  },
+  {
+    "id": "concept:ab10a0bc1a7c978aebb06ba3",
+    "name": "并购套利",
+    "aliases": [
+      "Merger Arbitrage",
+      "Risk Arbitrage",
+      "风险套利"
+    ]
+  },
+  {
+    "id": "concept:4bdfc59743c4065f859c27f9",
+    "name": "投资资本回报",
+    "aliases": [
+      "Return on Invested Capital",
+      "ROIC"
+    ]
+  },
+  {
+    "id": "concept:0071bfa34656bbb03e3478eb",
+    "name": "所有者收益",
+    "aliases": [
+      "Owner Earnings",
+      "巴菲特收益概念"
+    ]
+  },
+  {
+    "id": "concept:3a06170610555c2c9bd61d3f",
+    "name": "特许经营公司",
+    "aliases": [
+      "Franchise Companies",
+      "护城河企业"
+    ]
+  },
+  {
+    "id": "concept:816451be21e59d899e2db794",
+    "name": "模拟练习法",
+    "aliases": [
+      "Paper Trading",
+      "虚拟交易",
+      "纸面交易"
+    ]
+  },
+  {
+    "id": "concept:ba000e24d1887d41c710b876",
+    "name": "60分目标",
+    "aliases": [
+      "60-Cent Dollar",
+      "六折目标"
+    ]
+  },
+  {
+    "id": "concept:adcd4a118520600dc9362d47",
+    "name": "分部估值法",
+    "aliases": [
+      "Sum-of-the-Parts Valuation",
+      "业务分拆估值"
+    ]
+  },
+  {
+    "id": "concept:16b547b4ee6cf09f67ef402d",
+    "name": "防御型投资者",
+    "aliases": []
+  },
+  {
+    "id": "concept:ad9b6cc909c93bf512eb037a",
+    "name": "逆向策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:9c458daddaa468d371828ad5",
+    "name": "价值投资方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:9492b220df7375454ba00fd6",
+    "name": "证券分析师共识",
+    "aliases": []
+  },
+  {
+    "id": "concept:5c2f3be48fc2f989a75b838b",
+    "name": "有效市场",
+    "aliases": []
+  },
+  {
+    "id": "concept:003d2a580cfd02092e51894e",
+    "name": "价值投资体系",
+    "aliases": []
+  },
+  {
+    "id": "concept:28709cbc4706ed38f05c52bf",
+    "name": "风险分散化",
+    "aliases": []
+  },
+  {
+    "id": "concept:fbe795cb700ce7055f57e863",
+    "name": "熊市保护",
+    "aliases": []
+  },
+  {
+    "id": "concept:03f23e5a6faf49b3e74dca1b",
+    "name": "充分分散化",
+    "aliases": []
+  },
+  {
+    "id": "concept:7a65c385162cf696f8919713",
+    "name": "安全边际",
+    "aliases": []
+  },
+  {
+    "id": "concept:9ccd3cb680a6876ae1a08788",
+    "name": "极端低估识别",
+    "aliases": []
+  },
+  {
+    "id": "concept:99f6ba4266843a4908042cda",
+    "name": "选股方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:1f8fa16f06ea917aa9514f61",
+    "name": "多标准组合",
+    "aliases": []
+  },
+  {
+    "id": "concept:8a2ad340ebc1cad4e3364880",
+    "name": "长期价值增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:053ef2544140be3b909be429",
+    "name": "廉价股策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:cc7cfa0daaa7cfaf9f52341c",
+    "name": "长期耐心",
+    "aliases": []
+  },
+  {
+    "id": "concept:0470cc596a3940f61168e79b",
+    "name": "专业经验判断",
+    "aliases": []
+  },
+  {
+    "id": "concept:a0f6ba04d372ed5fde88a16c",
+    "name": "净流动资产策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:81c088887fcd159f2105d763",
+    "name": "ROIC计算",
+    "aliases": []
+  },
+  {
+    "id": "concept:16a0c794b67114600f664d2d",
+    "name": "ROIC",
+    "aliases": []
+  },
+  {
+    "id": "concept:2c47ebae611da53fd4d57050",
+    "name": "估值指标",
+    "aliases": []
+  },
+  {
+    "id": "concept:330003fd21a9ad4f237620f9",
+    "name": "巴菲特选股标准",
+    "aliases": []
+  },
+  {
+    "id": "concept:35c005adfc3273620440c3f4",
+    "name": "选股能力验证",
+    "aliases": []
+  },
+  {
+    "id": "concept:1abcada6de15f3aa18d12da5",
+    "name": "隐蔽价值发现",
+    "aliases": []
+  },
+  {
+    "id": "concept:24a0d43641df8028c2307263",
+    "name": "管理层质量",
+    "aliases": []
+  },
+  {
+    "id": "concept:883f83966fcb6902fd558375",
+    "name": "投资安全性",
+    "aliases": []
+  },
+  {
+    "id": "concept:4c9b9e0bb76dc93349dabc43",
+    "name": "指数基金",
+    "aliases": []
+  },
+  {
+    "id": "concept:c92121f02b93bb88c1af389f",
+    "name": "个股选择",
+    "aliases": []
+  }
+]

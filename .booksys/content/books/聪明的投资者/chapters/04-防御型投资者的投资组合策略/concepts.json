@@ -1,0 +1,145 @@
+[
+  {
+    "id": "concept:edbc51d5ef64dcaa04ac5e90",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor, 被动投资者, 保守型投资者"
+    ]
+  },
+  {
+    "id": "concept:b0aabc28bf325e86e4c08562",
+    "name": "股债配比规则",
+    "aliases": [
+      "25%-75% Rule, 资产配置边界"
+    ]
+  },
+  {
+    "id": "concept:aaca96cebc6ee8deffdbf417",
+    "name": "对半开资金分配",
+    "aliases": [
+      "50/50 Allocation, 均衡配置"
+    ]
+  },
+  {
+    "id": "concept:c5fbe072cc3144d163b11c98",
+    "name": "定期再平衡",
+    "aliases": [
+      "Periodic Rebalancing, 程式投资, 美元成本平均法"
+    ]
+  },
+  {
+    "id": "concept:c87121f45ac7269f2d7a8176",
+    "name": "高等级债券",
+    "aliases": [
+      "High-Grade Bonds, 投资级债券"
+    ]
+  },
+  {
+    "id": "concept:3435ca6bd4792cae0762226b",
+    "name": "美国储蓄债券",
+    "aliases": [
+      "US Savings Bonds, E系列/H系列债券"
+    ]
+  },
+  {
+    "id": "concept:74bf3b3764a98548d9551c41",
+    "name": "市政债券",
+    "aliases": [
+      "Municipal Bonds, 免税债券, 州债券"
+    ]
+  },
+  {
+    "id": "concept:06c3c02b0d67c95feb1bc63b",
+    "name": "公司债券",
+    "aliases": [
+      "Corporate Bonds"
+    ]
+  },
+  {
+    "id": "concept:6e57e72b56a9f6907d63e8e5",
+    "name": "赎回条款",
+    "aliases": [
+      "Call Provisions"
+    ]
+  },
+  {
+    "id": "concept:12c2a2683d19f6719868dab8",
+    "name": "不可转换优先股",
+    "aliases": [
+      "Non-Convertible Preferred Stock, 优先股"
+    ]
+  },
+  {
+    "id": "concept:485366cdcee91df457d1e178",
+    "name": "收益债券",
+    "aliases": [
+      "Income Bonds, 利润债券"
+    ]
+  },
+  {
+    "id": "concept:f3ef6790f11dcf3ebc9b0542",
+    "name": "资产配置",
+    "aliases": [
+      "Asset Allocation"
+    ]
+  },
+  {
+    "id": "concept:629cbb94699ea545e9823b4d",
+    "name": "债券基金",
+    "aliases": [
+      "Bond Funds, 债券共同基金"
+    ]
+  },
+  {
+    "id": "concept:42068bf95f1056f279f94d91",
+    "name": "年龄公式批判",
+    "aliases": [
+      "Age-Based Allocation Critique"
+    ]
+  },
+  {
+    "id": "concept:102aecabcd65ad7ce5fc4ef7",
+    "name": "市场情绪",
+    "aliases": []
+  },
+  {
+    "id": "concept:aae900dd4ef06f6f63a23357",
+    "name": "长期债券投资者",
+    "aliases": []
+  },
+  {
+    "id": "concept:6b67a7c420acf80d26d0cc11",
+    "name": "债券",
+    "aliases": []
+  },
+  {
+    "id": "concept:477cb4bebc917335a82df533",
+    "name": "普通股",
+    "aliases": []
+  },
+  {
+    "id": "concept:873a420777bed320e48c6c69",
+    "name": "年龄",
+    "aliases": []
+  },
+  {
+    "id": "concept:2bec8d72e1f0e43181700abd",
+    "name": "单个债券",
+    "aliases": []
+  },
+  {
+    "id": "concept:9bfd3a7e868b3d4103d8cf2c",
+    "name": "每6个月",
+    "aliases": []
+  },
+  {
+    "id": "concept:1e85de1197f27928f063dbbe",
+    "name": "高收益债券",
+    "aliases": []
+  },
+  {
+    "id": "concept:c39debe42db712a05a44c172",
+    "name": "安全边际",
+    "aliases": []
+  }
+]

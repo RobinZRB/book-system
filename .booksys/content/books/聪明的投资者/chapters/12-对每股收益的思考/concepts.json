@@ -1,0 +1,209 @@
+[
+  {
+    "id": "concept:e7fe76821a54eff39fc4fca0",
+    "name": "每股收益（EPS）",
+    "aliases": [
+      "Earnings Per Share",
+      "每股盈利"
+    ]
+  },
+  {
+    "id": "concept:6d6b4ca267c2ece57d51da62",
+    "name": "基本利润",
+    "aliases": [
+      "Primary Earnings",
+      "基本每股收益"
+    ]
+  },
+  {
+    "id": "concept:37e3ae27b0bbb953d2191ef9",
+    "name": "稀释每股收益",
+    "aliases": [
+      "Diluted EPS",
+      "完全稀释后每股收益"
+    ]
+  },
+  {
+    "id": "concept:ea2a05d1b570d7d0f0b981e5",
+    "name": "特殊费用（特殊扣除）",
+    "aliases": [
+      "Special Charges",
+      "一次性费用",
+      "非经常性项目"
+    ]
+  },
+  {
+    "id": "concept:f11f01fdc690050fba295426",
+    "name": "股权稀释",
+    "aliases": [
+      "Stock Dilution",
+      "股份掺水"
+    ]
+  },
+  {
+    "id": "concept:fd7236e0a3f81f85d1bfddfb",
+    "name": "直线折旧法",
+    "aliases": [
+      "Straight-Line Depreciation",
+      "线性折旧"
+    ]
+  },
+  {
+    "id": "concept:08fae06b33e458a62e47beb9",
+    "name": "加速折旧法",
+    "aliases": [
+      "Accelerated Depreciation"
+    ]
+  },
+  {
+    "id": "concept:a86eec138d9ec532dee88034",
+    "name": "先进先出法（FIFO）",
+    "aliases": [
+      "First-In-First-Out",
+      "先入先出"
+    ]
+  },
+  {
+    "id": "concept:44ee77dde1eada60a20fba01",
+    "name": "后进先出法（LIFO）",
+    "aliases": [
+      "Last-In-First-Out",
+      "后入先出"
+    ]
+  },
+  {
+    "id": "concept:421058b650aa48f96f909ca2",
+    "name": "平均利润法",
+    "aliases": [
+      "Average Earnings Method",
+      "多年平均利润"
+    ]
+  },
+  {
+    "id": "concept:4cef4a6207c5377159c4121b",
+    "name": "资本利润（账面回报）",
+    "aliases": [
+      "Return on Book Value",
+      "有形资产回报率"
+    ]
+  },
+  {
+    "id": "concept:211f1cecdf75dcc3ac1da9b8",
+    "name": "预计利润",
+    "aliases": [
+      "Pro Forma Earnings",
+      "假设利润",
+      "调整利润"
+    ]
+  },
+  {
+    "id": "concept:e20c3a69a2a004eb4314835e",
+    "name": "提前确认收入",
+    "aliases": [
+      "Premature Revenue Recognition",
+      "收入前置"
+    ]
+  },
+  {
+    "id": "concept:86c47b40c3fdb7de361e2b60",
+    "name": "资本化操纵",
+    "aliases": [
+      "Capitalization Manipulation",
+      "经营费用资本化"
+    ]
+  },
+  {
+    "id": "concept:8c7adbe0a862320ecd921322",
+    "name": "退休金会计",
+    "aliases": [
+      "Pension Accounting",
+      "退休金预期回报率"
+    ]
+  },
+  {
+    "id": "concept:013c926c001134365cb7da9f",
+    "name": "或有储备",
+    "aliases": [
+      "Contingency Reserves",
+      "利润平滑储备"
+    ]
+  },
+  {
+    "id": "concept:21cdc7db814092d9fcf6c271",
+    "name": "税收亏损向后转移",
+    "aliases": [
+      "Tax Loss Carryback/Carryforward",
+      "NOL结转"
+    ]
+  },
+  {
+    "id": "concept:b9821c8ff870f65fa9f445dc",
+    "name": "特殊费用",
+    "aliases": []
+  },
+  {
+    "id": "concept:2d20361e68de707930d18936",
+    "name": "折旧方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:c565bada2ee1595a7f7b087d",
+    "name": "存货计价方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:bb5d9752ac09a68e56ce76ce",
+    "name": "商业周期波动",
+    "aliases": []
+  },
+  {
+    "id": "concept:26bce36bc1158a64adbb4343",
+    "name": "高市盈率维持",
+    "aliases": []
+  },
+  {
+    "id": "concept:4a35112a2e32aa5bfaef49df",
+    "name": "两步分析法",
+    "aliases": []
+  },
+  {
+    "id": "concept:a6f0f2e9989ab076307f444d",
+    "name": "企业真实盈利能力",
+    "aliases": []
+  },
+  {
+    "id": "concept:f2e56973b90dc010a5fa27bb",
+    "name": "销售收入",
+    "aliases": []
+  },
+  {
+    "id": "concept:f500696fafe9ef347cb807b7",
+    "name": "净利润",
+    "aliases": []
+  },
+  {
+    "id": "concept:e6af0a057d4f65f56bf01334",
+    "name": "可转换证券",
+    "aliases": []
+  },
+  {
+    "id": "concept:3388a1df0a6d4ce8868b6733",
+    "name": "连环并购者",
+    "aliases": []
+  },
+  {
+    "id": "concept:ef99f01dde1ad716c9b16dd8",
+    "name": "管理层激励",
+    "aliases": []
+  },
+  {
+    "id": "concept:7f54454022413f0639186d5f",
+    "name": "会计操纵",
+    "aliases": []
+  },
+  {
+    "id": "concept:b7846e5ec6aaceb87ad1f22b",
+    "name": "投资者勤勉",
+    "aliases": []
+  }
+]

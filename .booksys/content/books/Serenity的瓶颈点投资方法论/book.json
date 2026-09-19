@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "book_id": "book:24ba9aa85bd6bb9de56ae822",
+  "title": "Serenity的瓶颈点投资方法论",
+  "chapters": [
+    {
+      "chapter_id": "chapter:7199a99ddca68fa68a92caf4",
+      "slug": "01-瓶颈点理论-核心理念与起源"
+    },
+    {
+      "chapter_id": "chapter:fa5dbd548d856a0e7b76c917",
+      "slug": "02-五因子筛选框架"
+    },
+    {
+      "chapter_id": "chapter:1e496a721f542aa0f8be1134",
+      "slug": "03-产业链逆向拆解"
+    },
+    {
+      "chapter_id": "chapter:0edb79f6fe04614b70c69448",
+      "slug": "04-六步研究流程"
+    },
+    {
+      "chapter_id": "chapter:109e99303ce7a1de31076d2b",
+      "slug": "05-证据链分级与信息源管理"
+    },
+    {
+      "chapter_id": "chapter:61b917e52775739e22ec476d",
+      "slug": "06-ai红蓝对抗"
+    },
+    {
+      "chapter_id": "chapter:ce3a42e923fb27b78ab92e35",
+      "slug": "07-光通信赛道cpo全链条"
+    },
+    {
+      "chapter_id": "chapter:0d66acb63208290799e8e8b1",
+      "slug": "08-加密资产波段思维"
+    },
+    {
+      "chapter_id": "chapter:8686218e8fd4d1d25d7eb255",
+      "slug": "09-交易哲学-机构困境与散户优势"
+    },
+    {
+      "chapter_id": "chapter:37ded1f0a5c3d63badc007ae",
+      "slug": "10-局限与风险"
+    }
+  ]
+}

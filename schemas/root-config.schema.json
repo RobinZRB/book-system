@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "booksys/root-config.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "system_root": {"type": "string", "minLength": 1},
+    "data_root": {"type": "string", "minLength": 1}
+  }
+}

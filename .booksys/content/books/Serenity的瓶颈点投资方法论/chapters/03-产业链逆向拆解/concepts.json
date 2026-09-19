@@ -1,0 +1,162 @@
+[
+  {
+    "id": "concept:56d9471053a2ea48bc115373",
+    "name": "产业链逆向拆解 (Supply Chain Reverse Engineering)",
+    "aliases": [
+      "自下而上分析, 穿透式研究"
+    ]
+  },
+  {
+    "id": "concept:b07142826ef51c01484b655b",
+    "name": "物理终端起点 (Physical Endpoint Anchoring)",
+    "aliases": [
+      "具体产品锚定"
+    ]
+  },
+  {
+    "id": "concept:a2aac7a5fbaf49fbc4253dfc",
+    "name": "物理极限驱动 (Physics-Limited Migration)",
+    "aliases": [
+      "撞墙分析, 功耗墙"
+    ]
+  },
+  {
+    "id": "concept:d5611ed6d11198a672e3255e",
+    "name": "CPO（光电共封装）(Co-Packaged Optics)",
+    "aliases": [
+      "共封装光学, 硅光子集成"
+    ]
+  },
+  {
+    "id": "concept:3adb530afacbd075e6f65fbe",
+    "name": "逐层穿透 (Layer-by-Layer Penetration)",
+    "aliases": [
+      "六层拆解, 层层追问"
+    ]
+  },
+  {
+    "id": "concept:4cd5b8a812d7b932a9370761",
+    "name": "InP衬底 (Indium Phosphide Substrate)",
+    "aliases": [
+      "磷化铟衬底, III-V族半导体"
+    ]
+  },
+  {
+    "id": "concept:d25551be3cc828e3a6409d4a",
+    "name": "认证周期 (Qualification Cycle)",
+    "aliases": [
+      "客户导入周期, 供应商锁定"
+    ]
+  },
+  {
+    "id": "concept:9273ad6f0c436133bd4d548a",
+    "name": "产业地图 (Supply Chain Map)",
+    "aliases": [
+      "供应链全景图, 瓶颈地图"
+    ]
+  },
+  {
+    "id": "concept:509a854ce9135118e86b82e4",
+    "name": "数全球玩家 (Count Global Players)",
+    "aliases": [
+      "供应商盘点, 竞争度验证"
+    ]
+  },
+  {
+    "id": "concept:8311459fa3fb2b1fc6bbe21a",
+    "name": "跨赛道适用性 (Cross-Sector Applicability)",
+    "aliases": [
+      "方法论迁移, 非光通信应用"
+    ]
+  },
+  {
+    "id": "concept:8a9b32aba7598ac5b698330a",
+    "name": "产业链逆向拆解",
+    "aliases": []
+  },
+  {
+    "id": "concept:5b002d32b3d54e094070eb8e",
+    "name": "物理终端起点",
+    "aliases": []
+  },
+  {
+    "id": "concept:77fc3b0a8411b6cfaaa0e0b4",
+    "name": "物理极限驱动",
+    "aliases": []
+  },
+  {
+    "id": "concept:8ffd7bae81e24bdb603f4d45",
+    "name": "架构迁移方向",
+    "aliases": []
+  },
+  {
+    "id": "concept:c33da4b7cda0bc3fdb9d0d30",
+    "name": "CPO需求",
+    "aliases": []
+  },
+  {
+    "id": "concept:f7d16182b6770df1ed39764c",
+    "name": "CPO",
+    "aliases": []
+  },
+  {
+    "id": "concept:ef51f5db4678733613c50c70",
+    "name": "外部激光源",
+    "aliases": []
+  },
+  {
+    "id": "concept:df0ab651ffe384e85c96276b",
+    "name": "InP衬底",
+    "aliases": []
+  },
+  {
+    "id": "concept:f7f76d18ae11d7757b3ef248",
+    "name": "高纯磷原料",
+    "aliases": []
+  },
+  {
+    "id": "concept:bc20d375a153c56654dc2eb4",
+    "name": "逐层穿透",
+    "aliases": []
+  },
+  {
+    "id": "concept:f2c24e8998a72a64adb8c077",
+    "name": "数全球玩家",
+    "aliases": []
+  },
+  {
+    "id": "concept:706c1706021ac972e6205df4",
+    "name": "认证周期",
+    "aliases": []
+  },
+  {
+    "id": "concept:d8e3a9b0c5aa59a5548439fd",
+    "name": "供给弹性",
+    "aliases": []
+  },
+  {
+    "id": "concept:dfda83947c88e0a3b9085dae",
+    "name": "产业地图",
+    "aliases": []
+  },
+  {
+    "id": "concept:8935165ca5e7e0e4380d4b13",
+    "name": "逐层穿透结果",
+    "aliases": []
+  },
+  {
+    "id": "concept:d6a78b5fa6ac8ac7c9293e26",
+    "name": "扰动快速映射",
+    "aliases": []
+  },
+  {
+    "id": "concept:62e0e8b031e9134064d960dd",
+    "name": "逆向拆解",
+    "aliases": []
+  },
+  {
+    "id": "concept:a5e6a815476a48e8177be19d",
+    "name": "跨赛道分析",
+    "aliases": []
+  }
+]

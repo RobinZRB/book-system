@@ -1,0 +1,244 @@
+[
+  {
+    "id": "concept:f5ccc69b81eb2c76bf06a23a",
+    "name": "共同基金（开放式基金）",
+    "aliases": [
+      "Mutual Fund",
+      "Open-end Fund",
+      "开放式基金"
+    ]
+  },
+  {
+    "id": "concept:64f74e4d5abcfb1f6771a54a",
+    "name": "封闭式基金",
+    "aliases": [
+      "Closed-end Fund"
+    ]
+  },
+  {
+    "id": "concept:a1ab1f1dc1fb4cde2df4132e",
+    "name": "净资产价值",
+    "aliases": [
+      "Net Asset Value",
+      "NAV"
+    ]
+  },
+  {
+    "id": "concept:f6cd44d8ed75c848125cd38c",
+    "name": "平衡基金",
+    "aliases": [
+      "Balanced Fund"
+    ]
+  },
+  {
+    "id": "concept:fbd97b9fb03e69950c95e551",
+    "name": "有佣基金",
+    "aliases": [
+      "Load Fund"
+    ]
+  },
+  {
+    "id": "concept:2703c7cc6b767df50f2adadc",
+    "name": "免佣基金",
+    "aliases": [
+      "No-Load Fund"
+    ]
+  },
+  {
+    "id": "concept:1f5675c533da66d218911c71",
+    "name": "业绩基金",
+    "aliases": [
+      "Performance Fund",
+      "Go-Go Fund"
+    ]
+  },
+  {
+    "id": "concept:8f682f0e81d45e73ebed08f0",
+    "name": "曼哈顿基金",
+    "aliases": [
+      "Manhattan Fund"
+    ]
+  },
+  {
+    "id": "concept:4f5c368871a0e49337200570",
+    "name": "指数基金",
+    "aliases": [
+      "Index Fund",
+      "被动基金"
+    ]
+  },
+  {
+    "id": "concept:df5ce71de4ed39f510c76da0",
+    "name": "羊群行为",
+    "aliases": [
+      "Herding",
+      "羊群效应"
+    ]
+  },
+  {
+    "id": "concept:5e75dea0faf1e4b888c56389",
+    "name": "孵化基金",
+    "aliases": [
+      "Incubated Fund",
+      "孵化策略"
+    ]
+  },
+  {
+    "id": "concept:32903deae72d85d4d02f2636",
+    "name": "费用拖累",
+    "aliases": [
+      "Expense Drag",
+      "成本侵蚀"
+    ]
+  },
+  {
+    "id": "concept:a911b5c94d1e97d16bfdd1b6",
+    "name": "基金筛选顺序",
+    "aliases": [
+      "Fund Selection Hierarchy"
+    ]
+  },
+  {
+    "id": "concept:b30a5721c0809c8a9bfabe85",
+    "name": "ETF（场内交易基金）",
+    "aliases": [
+      "Exchange-Traded Fund",
+      "交易所交易基金"
+    ]
+  },
+  {
+    "id": "concept:bce3bc552a0f778c6db1d6b3",
+    "name": "共同基金",
+    "aliases": []
+  },
+  {
+    "id": "concept:2abcb7ddf077f5398d956b06",
+    "name": "投资公司",
+    "aliases": []
+  },
+  {
+    "id": "concept:2e2ff6f53b548ab4f5d5b3c4",
+    "name": "过度投机",
+    "aliases": []
+  },
+  {
+    "id": "concept:793d30329ed106d156db717c",
+    "name": "灾难性损失",
+    "aliases": []
+  },
+  {
+    "id": "concept:469c70dbf9914030422d3a7e",
+    "name": "委托-代理问题",
+    "aliases": []
+  },
+  {
+    "id": "concept:982def9ae55abc0ef5b3b103",
+    "name": "封闭式基金折价",
+    "aliases": []
+  },
+  {
+    "id": "concept:eaa520fc3efe21a3384cd714",
+    "name": "安全边际",
+    "aliases": []
+  },
+  {
+    "id": "concept:7f379186e9234076f247f82f",
+    "name": "主动管理基金",
+    "aliases": []
+  },
+  {
+    "id": "concept:b6236ffbfc95d94c3ba9a1b1",
+    "name": "格雷厄姆",
+    "aliases": []
+  },
+  {
+    "id": "concept:ed2192ff5dac7d5e4a693e52",
+    "name": "基金跑输市场",
+    "aliases": []
+  },
+  {
+    "id": "concept:d7152e8a25cb3c7dbaaeedca",
+    "name": "资产过度膨胀",
+    "aliases": []
+  },
+  {
+    "id": "concept:c2c2792a1144b60d5aac4036",
+    "name": "投资者回报",
+    "aliases": []
+  },
+  {
+    "id": "concept:709d5ba46ccd94dea4c321e6",
+    "name": "业绩衰减",
+    "aliases": []
+  },
+  {
+    "id": "concept:9fe1eb8f605aa4c4471dca6b",
+    "name": "基金经理跳槽",
+    "aliases": []
+  },
+  {
+    "id": "concept:77c498caa5c67c97acbd8f2c",
+    "name": "业绩不可持续",
+    "aliases": []
+  },
+  {
+    "id": "concept:8511386950573e42ca7c483f",
+    "name": "投资者",
+    "aliases": []
+  },
+  {
+    "id": "concept:20b0a25b545cdc72b16dc6ad",
+    "name": "大众筛选顺序",
+    "aliases": []
+  },
+  {
+    "id": "concept:587e1221e3f16d9f4146e117",
+    "name": "高费用",
+    "aliases": []
+  },
+  {
+    "id": "concept:d4d3f6aafc7e65ede17d3121",
+    "name": "低回报",
+    "aliases": []
+  },
+  {
+    "id": "concept:f2b1d4eeaafd820be6925d2e",
+    "name": "晨星评级",
+    "aliases": []
+  },
+  {
+    "id": "concept:043a02e79f22382940bd5997",
+    "name": "历史评价",
+    "aliases": []
+  },
+  {
+    "id": "concept:6bf54f309aabdf6785b5950f",
+    "name": "平仓信号",
+    "aliases": []
+  },
+  {
+    "id": "concept:f4db8c130fe46ca6067d25ae",
+    "name": "基金出售",
+    "aliases": []
+  },
+  {
+    "id": "concept:74aece4cf4f3db3f3868e285",
+    "name": "耐心",
+    "aliases": []
+  },
+  {
+    "id": "concept:b17e5fe72a557312558d2ed8",
+    "name": "基金投资",
+    "aliases": []
+  },
+  {
+    "id": "concept:b2156a7dedf9a327b5b20163",
+    "name": "ETF",
+    "aliases": []
+  },
+  {
+    "id": "concept:7c1ee0845fa89d76993c3c82",
+    "name": "指数共同基金",
+    "aliases": []
+  }
+]

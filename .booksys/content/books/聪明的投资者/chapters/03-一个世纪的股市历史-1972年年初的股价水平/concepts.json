@@ -1,0 +1,163 @@
+[
+  {
+    "id": "concept:639e7f02b21b83a64459c41c",
+    "name": "股市周期",
+    "aliases": [
+      "Market Cycle",
+      "牛熊周期"
+    ]
+  },
+  {
+    "id": "concept:cec05f78411cfd39201fd72e",
+    "name": "市盈率",
+    "aliases": [
+      "Price-to-Earnings Ratio",
+      "P/E",
+      "价格收益比"
+    ]
+  },
+  {
+    "id": "concept:2c6f78e57df52249e6ecf4c2",
+    "name": "股息率",
+    "aliases": [
+      "Dividend Yield"
+    ]
+  },
+  {
+    "id": "concept:09fda0e50f7cb4c2c2bd34c0",
+    "name": "债券收益与股票收益比率",
+    "aliases": [
+      "Bond-Yield / Stock-Yield Ratio",
+      "股债收益比"
+    ]
+  },
+  {
+    "id": "concept:08bb2b88e9603df737e59f6a",
+    "name": "美元成本平均法",
+    "aliases": [
+      "Dollar-Cost Averaging",
+      "DCA",
+      "定期定额法"
+    ]
+  },
+  {
+    "id": "concept:378b79d3bcfb015bb647dbaf",
+    "name": "生存偏见",
+    "aliases": [
+      "Survivorship Bias",
+      "幸存者偏差"
+    ]
+  },
+  {
+    "id": "concept:975531ed2c9c9199f3cdd9a2",
+    "name": "牛市呓语",
+    "aliases": [
+      "Bull Market Babble",
+      "牛市狂热"
+    ]
+  },
+  {
+    "id": "concept:ee4f6edf72270467e1c02554",
+    "name": "股票回报三要素",
+    "aliases": [
+      "Three Determinants of Stock Return"
+    ]
+  },
+  {
+    "id": "concept:ccbac13d1b9e37c23b3289c8",
+    "name": "希勒市盈率",
+    "aliases": [
+      "Shiller P/E",
+      "CAPE",
+      "周期调整市盈率"
+    ]
+  },
+  {
+    "id": "concept:c3b7c3995b2499ab96f1864a",
+    "name": "物极必反",
+    "aliases": [
+      "Mean Reversion",
+      "均值回归"
+    ]
+  },
+  {
+    "id": "concept:d1a4d2d2a01a20aca9e3a04f",
+    "name": "热门股崩盘",
+    "aliases": [
+      "Hot Stock Crash",
+      "成长股暴跌"
+    ]
+  },
+  {
+    "id": "concept:db6cb116b30634da502c7685",
+    "name": "估值逆转",
+    "aliases": [
+      "Valuation Inversion"
+    ]
+  },
+  {
+    "id": "concept:de9c8c3da42560894d522cc4",
+    "name": "市场预测",
+    "aliases": [
+      "Market Forecasting",
+      "股市预测"
+    ]
+  },
+  {
+    "id": "concept:1e8f9efe4fef6b6eaa7a4e8e",
+    "name": "大繁荣时代终结",
+    "aliases": [
+      "End of Great Boom Era"
+    ]
+  },
+  {
+    "id": "concept:8b1d49a4c14910e8d62c900d",
+    "name": "股票估值吸引力",
+    "aliases": []
+  },
+  {
+    "id": "concept:87d4e096caa8d015f163e089",
+    "name": "高市盈率",
+    "aliases": []
+  },
+  {
+    "id": "concept:edfdb3baccf09d459dba3596",
+    "name": "股票长期收益高估",
+    "aliases": []
+  },
+  {
+    "id": "concept:69f46ab7e19b21bcbc55b9c6",
+    "name": "过度乐观",
+    "aliases": []
+  },
+  {
+    "id": "concept:8cbb41d3150cfc0bf78e27f4",
+    "name": "重大损失",
+    "aliases": []
+  },
+  {
+    "id": "concept:3c0e78b445e80cfc86dbc472",
+    "name": "股票长期回报",
+    "aliases": []
+  },
+  {
+    "id": "concept:5b467b26e31b46ef1b6a5d0f",
+    "name": "股票估值危险性",
+    "aliases": []
+  },
+  {
+    "id": "concept:7e5e61e9a34db2ee7dcd4a20",
+    "name": "股价高位时谨慎推行",
+    "aliases": []
+  },
+  {
+    "id": "concept:7702e608c55829956251c79e",
+    "name": "资产配置调整",
+    "aliases": []
+  },
+  {
+    "id": "concept:4ce877a94c08a1c65484cad6",
+    "name": "投资决策",
+    "aliases": []
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "concept:cb0076a2e5824a1615794d57",
+    "name": "证券分析",
+    "aliases": [
+      "Security Analysis",
+      "证券分析（狭义）"
+    ]
+  },
+  {
+    "id": "concept:1548c2a6d685a7ca2b792456",
+    "name": "金融分析",
+    "aliases": [
+      "Financial Analysis",
+      "金融分析（广义）"
+    ]
+  },
+  {
+    "id": "concept:b3dfb0c6625183d41e2e1910",
+    "name": "利息保障倍数",
+    "aliases": [
+      "Interest Coverage Ratio",
+      "固定费用保障倍数"
+    ]
+  },
+  {
+    "id": "concept:ab43372f908fe952d39322b5",
+    "name": "资本化率",
+    "aliases": [
+      "Capitalization Rate",
+      "市盈率倒数",
+      "估值乘数"
+    ]
+  },
+  {
+    "id": "concept:12dac77e798274997f5638c9",
+    "name": "市盈率",
+    "aliases": [
+      "Price/Earnings Ratio",
+      "P/E",
+      "本益比"
+    ]
+  },
+  {
+    "id": "concept:99e9b4158a0d032eff0c2fe7",
+    "name": "成长股估价公式",
+    "aliases": [
+      "Growth Stock Valuation Formula",
+      "V=EPS×(8.5+2g)"
+    ]
+  },
+  {
+    "id": "concept:f6bbbff3b9d925a5205f074c",
+    "name": "安全边际",
+    "aliases": [
+      "Margin of Safety"
+    ]
+  },
+  {
+    "id": "concept:01101feae8701b0c33b5c0e2",
+    "name": "两步评估法",
+    "aliases": [
+      "Two-Step Evaluation Process",
+      "以往业绩价值法"
+    ]
+  },
+  {
+    "id": "concept:8bcd8c468e6e7bb78fe50c9a",
+    "name": "所有者收益",
+    "aliases": [
+      "Owner Earnings",
+      "巴菲特所有者收益"
+    ]
+  },
+  {
+    "id": "concept:35eeae194290d8488481e741",
+    "name": "经济护城河",
+    "aliases": [
+      "Economic Moat",
+      "防御工事",
+      "竞争优势壁垒"
+    ]
+  },
+  {
+    "id": "concept:6a99902fc7c75c36b7edd18f",
+    "name": "OPM成瘾者",
+    "aliases": [
+      "OPM Addict",
+      "他人资金依赖者"
+    ]
+  },
+  {
+    "id": "concept:3e67d1cbf1afa263e2c28053",
+    "name": "连环并购者",
+    "aliases": [
+      "Serial Acquirer",
+      "并购成瘾企业"
+    ]
+  },
+  {
+    "id": "concept:6beeb6a92410d2049d082493",
+    "name": "股票期权",
+    "aliases": [
+      "Stock Options",
+      "员工期权",
+      "期权溢价"
+    ]
+  },
+  {
+    "id": "concept:54171987bf5bdf0a15ddefe5",
+    "name": "股息支付率",
+    "aliases": [
+      "Dividend Payout Ratio",
+      "派息率"
+    ]
+  },
+  {
+    "id": "concept:dcdda6784c3b3427e1f26097",
+    "name": "行业分析",
+    "aliases": [
+      "Industry Analysis",
+      "产业分析"
+    ]
+  },
+  {
+    "id": "concept:d72ad39f038e08a7fc450f9c",
+    "name": "债券安全性",
+    "aliases": []
+  },
+  {
+    "id": "concept:647f20cccbf957a40c04e8a0",
+    "name": "长期前景",
+    "aliases": []
+  },
+  {
+    "id": "concept:10c41d3c32b4b8d08443d372",
+    "name": "预测误差",
+    "aliases": []
+  },
+  {
+    "id": "concept:1b25d0a7c1c93ff2a8090a6b",
+    "name": "净收益",
+    "aliases": []
+  },
+  {
+    "id": "concept:bb925d2c46137e8a000565b5",
+    "name": "企业持续增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:14252ce9bdee26bd0a6636a9",
+    "name": "企业脆弱性",
+    "aliases": []
+  },
+  {
+    "id": "concept:fb089a7ce943f40032abe205",
+    "name": "资产冲销",
+    "aliases": []
+  },
+  {
+    "id": "concept:eae1fb92193e0e4d9262057b",
+    "name": "股权稀释",
+    "aliases": []
+  },
+  {
+    "id": "concept:159f7eafac2f69c15d9af036",
+    "name": "股息政策",
+    "aliases": []
+  },
+  {
+    "id": "concept:c858e8fce2bebf8762682d37",
+    "name": "杠杆因素",
+    "aliases": []
+  },
+  {
+    "id": "concept:fac74576b5cdf7622a48dc66",
+    "name": "投机收益",
+    "aliases": []
+  },
+  {
+    "id": "concept:ff12294d97c6d097d9104ab6",
+    "name": "技术发展",
+    "aliases": []
+  }
+]

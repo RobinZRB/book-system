@@ -1,0 +1,245 @@
+[
+  {
+    "id": "concept:6ac64bdf86aed4d530e5e8a4",
+    "name": "积极型投资者",
+    "aliases": [
+      "Aggressive Investor",
+      "Enterprising Investor",
+      "进取型投资者"
+    ]
+  },
+  {
+    "id": "concept:c258880ea931006512b394bc",
+    "name": "二级债券",
+    "aliases": [
+      "Second-Grade Bonds",
+      "Junk Bonds",
+      "低等级债券",
+      "垃圾债券",
+      "高收益债券"
+    ]
+  },
+  {
+    "id": "concept:b972bf8c9bfc5b275e932a07",
+    "name": "利息保障倍数",
+    "aliases": [
+      "Interest Coverage Ratio",
+      "利息覆盖倍数"
+    ]
+  },
+  {
+    "id": "concept:23e2ef02ae88f2242f3b9df5",
+    "name": "外国政府债券",
+    "aliases": [
+      "Foreign Government Bonds",
+      "主权债券"
+    ]
+  },
+  {
+    "id": "concept:3f1429596c5527fb1ba1a654",
+    "name": "新股发行",
+    "aliases": [
+      "Initial Public Offering",
+      "IPO",
+      "首次公开发行"
+    ]
+  },
+  {
+    "id": "concept:ebdc7a80993d6d9776ea5e78",
+    "name": "\"商业性投资\"谬误",
+    "aliases": [
+      "Businessman's Investment Fallacy",
+      "收益诱惑谬误"
+    ]
+  },
+  {
+    "id": "concept:038091de1396cd95dde8551e",
+    "name": "承销商效应",
+    "aliases": [
+      "Underwriter Effect",
+      "发行方优势"
+    ]
+  },
+  {
+    "id": "concept:04c48e84e4c4b45329696425",
+    "name": "垃圾债券基金",
+    "aliases": [
+      "Junk Bond Funds",
+      "高收益债券基金"
+    ]
+  },
+  {
+    "id": "concept:4484170ba072a35c70f6ba34",
+    "name": "短线交易",
+    "aliases": [
+      "Short-term Trading",
+      "Day Trading",
+      "日内交易"
+    ]
+  },
+  {
+    "id": "concept:3b26e334b08953ade5fb925d",
+    "name": "市场冲击成本",
+    "aliases": [
+      "Market Impact Cost",
+      "流动性成本"
+    ]
+  },
+  {
+    "id": "concept:140f5bd3dd4c0b4c9290cf8e",
+    "name": "巴伯-奥丁研究",
+    "aliases": [
+      "Barber-Odean Study",
+      "交易频率与收益研究"
+    ]
+  },
+  {
+    "id": "concept:7b42b3ad7e2d834fef683078",
+    "name": "长期投资者",
+    "aliases": [
+      "Long-term Investor",
+      "耐心投资者"
+    ]
+  },
+  {
+    "id": "concept:09aadf6f173658c6817dc1c2",
+    "name": "新兴市场债券",
+    "aliases": [
+      "Emerging Market Bonds",
+      "第三世界债券"
+    ]
+  },
+  {
+    "id": "concept:c0ec4924f226581877b2d3bf",
+    "name": "VA Linux IPO案例",
+    "aliases": [
+      "VA Linux Systems IPO",
+      "IPO泡沫案例"
+    ]
+  },
+  {
+    "id": "concept:78cee3e6a598ac3be3d75085",
+    "name": "防御型投资者基础策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:5952f5ce0638371e297cedee",
+    "name": "二级债券(票面价)",
+    "aliases": []
+  },
+  {
+    "id": "concept:2f92d8d9a009e26785c9fece",
+    "name": "新股发行(IPO)",
+    "aliases": []
+  },
+  {
+    "id": "concept:1598ad3fe06fbd1c88fdbe7b",
+    "name": "二级债券风险等级",
+    "aliases": []
+  },
+  {
+    "id": "concept:94e564526ea83165020e395e",
+    "name": "高等级折价债券",
+    "aliases": []
+  },
+  {
+    "id": "concept:972ce8f8a4176e1b0dff3b23",
+    "name": "本金永久性损失",
+    "aliases": []
+  },
+  {
+    "id": "concept:e76da044e629c64f7c272a4e",
+    "name": "价格与基本面脱钩",
+    "aliases": []
+  },
+  {
+    "id": "concept:8827f5c716840b10c085e225",
+    "name": "买方劣势",
+    "aliases": []
+  },
+  {
+    "id": "concept:50a0e59e7cd9d51ae86148ac",
+    "name": "牛市周期律",
+    "aliases": []
+  },
+  {
+    "id": "concept:0e6d436fa6b6ebb98027fe32",
+    "name": "主权违约风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:0d8973fad06ac659a259709b",
+    "name": "二级债券分散化难题",
+    "aliases": []
+  },
+  {
+    "id": "concept:e8aa9b2d843e0c221ec02e80",
+    "name": "直接持有二级债券",
+    "aliases": []
+  },
+  {
+    "id": "concept:2d201ec0229201e40876f54b",
+    "name": "世界通信破产",
+    "aliases": []
+  },
+  {
+    "id": "concept:92268e4937453b4a24518cbc",
+    "name": "二级债券风险警示",
+    "aliases": []
+  },
+  {
+    "id": "concept:f2220929bb954e0c8e38afd4",
+    "name": "收益系统性流失",
+    "aliases": []
+  },
+  {
+    "id": "concept:c6416e1d726a4fb0452ede4c",
+    "name": "短线交易成本",
+    "aliases": []
+  },
+  {
+    "id": "concept:4b544011beb1d1a21dd617ac",
+    "name": "交易频率与收益负相关",
+    "aliases": []
+  },
+  {
+    "id": "concept:e22209707403851d1c21409d",
+    "name": "短线交易者",
+    "aliases": []
+  },
+  {
+    "id": "concept:7f957c1d799207839776272e",
+    "name": "市值与内在价值脱节",
+    "aliases": []
+  },
+  {
+    "id": "concept:3601722938afcb65a8f941a9",
+    "name": "非同步性分散",
+    "aliases": []
+  },
+  {
+    "id": "concept:8b06a1cc06f21532c5100c23",
+    "name": "外国政府债券(传统)",
+    "aliases": []
+  },
+  {
+    "id": "concept:d63a13efa8ddfdbb1d89143d",
+    "name": "积极型投资者策略",
+    "aliases": []
+  },
+  {
+    "id": "concept:eda28f363f6b6b933429fb5d",
+    "name": "积极型投资者主动方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:79391cf3ed23622127091009",
+    "name": "Ch17案例",
+    "aliases": []
+  },
+  {
+    "id": "concept:e201a638325de2c59a0c419a",
+    "name": "安全边际",
+    "aliases": []
+  }
+]

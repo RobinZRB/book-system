@@ -1,0 +1,111 @@
+[
+  {
+    "id": "concept:233feb50a3682911d47a7e76",
+    "name": "投资",
+    "aliases": [
+      "Investment",
+      "投资操作"
+    ]
+  },
+  {
+    "id": "concept:978119144ea48ad562d5a4d0",
+    "name": "投机",
+    "aliases": [
+      "Speculation",
+      "投机操作"
+    ]
+  },
+  {
+    "id": "concept:b00f6f60a06cdca0e4703c48",
+    "name": "防御型投资者",
+    "aliases": [
+      "Defensive Investor",
+      "被动型投资者",
+      "消极型投资者"
+    ]
+  },
+  {
+    "id": "concept:3ab10164f1664ce64a360b6f",
+    "name": "进取型投资者",
+    "aliases": [
+      "Enterprising Investor",
+      "积极型投资者",
+      "激进型投资者"
+    ]
+  },
+  {
+    "id": "concept:a5a58ecf3280072f8172309a",
+    "name": "安全边际",
+    "aliases": [
+      "Margin of Safety"
+    ]
+  },
+  {
+    "id": "concept:bb3a92d108ac0f98299972d0",
+    "name": "美元成本平均法",
+    "aliases": [
+      "Dollar-Cost Averaging",
+      "DCA",
+      "定期定额投资法"
+    ]
+  },
+  {
+    "id": "concept:2caf23cb4d40c825a8d14211",
+    "name": "内在价值",
+    "aliases": [
+      "Intrinsic Value"
+    ]
+  },
+  {
+    "id": "concept:94ca25acd6f47cd0f9a29ca4",
+    "name": "聪明的投资者",
+    "aliases": [
+      "The Intelligent Investor"
+    ]
+  },
+  {
+    "id": "concept:032e265ed9770ddffa055e07",
+    "name": "债券-股票配置",
+    "aliases": [
+      "Bond-Stock Allocation"
+    ]
+  },
+  {
+    "id": "concept:3743ad70da24aa8d1b3710c1",
+    "name": "有形资产价值",
+    "aliases": [
+      "Tangible Asset Value",
+      "净资产价值"
+    ]
+  },
+  {
+    "id": "concept:0c2eac4589526b06ff9be22b",
+    "name": "投资者分类",
+    "aliases": []
+  },
+  {
+    "id": "concept:859e37e1c60e22a481c930be",
+    "name": "市场价格",
+    "aliases": []
+  },
+  {
+    "id": "concept:1398487c635aa3b4ed423e12",
+    "name": "情绪控制",
+    "aliases": []
+  },
+  {
+    "id": "concept:bf28d9658e00ec1b51583384",
+    "name": "重大损失",
+    "aliases": []
+  },
+  {
+    "id": "concept:da6e3c88ac5653528bcf42c5",
+    "name": "行业增长",
+    "aliases": []
+  },
+  {
+    "id": "concept:5a89599428e11efd7c1038d7",
+    "name": "投资利润",
+    "aliases": []
+  }
+]

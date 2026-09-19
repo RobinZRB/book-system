@@ -1,0 +1,148 @@
+[
+  {
+    "id": "concept:5729d0b6ed3adbb262088911",
+    "name": "推断过拟合 (Inference Overfitting)",
+    "aliases": [
+      "碎片拼图陷阱, 叙事构建风险"
+    ]
+  },
+  {
+    "id": "concept:a6dc3b226b4480003b367e46",
+    "name": "估值锚缺失 (Valuation Anchor Absence)",
+    "aliases": [
+      "终局估值局限, 冷门估值难题"
+    ]
+  },
+  {
+    "id": "concept:fc154ab407aeadfafccf15dd",
+    "name": "Serenity效应 (The Serenity Effect)",
+    "aliases": [
+      "方法论拥挤, 赔率侵蚀"
+    ]
+  },
+  {
+    "id": "concept:193df838b49eccd8bb4a526c",
+    "name": "幸存者偏差 (Survivorship Bias)",
+    "aliases": [
+      "Alpha vs Beta, 牛市滤镜"
+    ]
+  },
+  {
+    "id": "concept:7951120c748df890bf41e327",
+    "name": "小市值流动性风险 (Small-Cap Liquidity Risk)",
+    "aliases": [
+      "退出困境, 杠杆放大"
+    ]
+  },
+  {
+    "id": "concept:8b3ed9f8bdaadc97bd21c6c6",
+    "name": "能力圈幻觉 (Circle-of-Competence Illusion)",
+    "aliases": [
+      "知识迁移风险, 领域依赖"
+    ]
+  },
+  {
+    "id": "concept:137770ee592c3393e927259a",
+    "name": "方法失效条件矩阵 (Method Failure Condition Matrix)",
+    "aliases": [
+      "五因子归零, 失效机制"
+    ]
+  },
+  {
+    "id": "concept:ebc0c778d81dbe62d135ff6e",
+    "name": "方法论自我批判 (Methodological Self-Criticism)",
+    "aliases": [
+      "诚实框架, 内置怀疑机制"
+    ]
+  },
+  {
+    "id": "concept:092a5bd17a16810eea8ea4d0",
+    "name": "推断过拟合",
+    "aliases": []
+  },
+  {
+    "id": "concept:322a934fb871805053c33d78",
+    "name": "碎片拼图方法",
+    "aliases": []
+  },
+  {
+    "id": "concept:7d3345f3af5691800a831268",
+    "name": "红蓝对抗 (Ch6)",
+    "aliases": []
+  },
+  {
+    "id": "concept:2635e337c97d0442290da080",
+    "name": "估值锚缺失",
+    "aliases": []
+  },
+  {
+    "id": "concept:63cb10ccdb36fde88ea0115c",
+    "name": "终局估值思维的有效性",
+    "aliases": []
+  },
+  {
+    "id": "concept:2a94e31a97ba527cea477f02",
+    "name": "Serenity效应",
+    "aliases": []
+  },
+  {
+    "id": "concept:98dd6e05272b20e0081ccfe9",
+    "name": "方法论大规模采用",
+    "aliases": []
+  },
+  {
+    "id": "concept:abcd161c6b8757854231cea4",
+    "name": "后人赔率低于前人赔率",
+    "aliases": []
+  },
+  {
+    "id": "concept:bd4b7d7faa7d05cac6f21485",
+    "name": "幸存者偏差",
+    "aliases": []
+  },
+  {
+    "id": "concept:f00a547c3e35b76b8b20d5c4",
+    "name": "方法论有效性检验",
+    "aliases": []
+  },
+  {
+    "id": "concept:5c0ed0c462c1055c3669c0ed",
+    "name": "小市值流动性风险",
+    "aliases": []
+  },
+  {
+    "id": "concept:d4708a9299ab14b6fa3dcd8c",
+    "name": "散户优势（可进小市值）",
+    "aliases": []
+  },
+  {
+    "id": "concept:16c34bc6cf2edc48dc2f03ec",
+    "name": "能力圈幻觉",
+    "aliases": []
+  },
+  {
+    "id": "concept:281e3de9a7aecd48eaa3038d",
+    "name": "跨产业过度自信",
+    "aliases": []
+  },
+  {
+    "id": "concept:64a288be31da882f3757fbfb",
+    "name": "方法失效条件矩阵",
+    "aliases": []
+  },
+  {
+    "id": "concept:1d3c96673aa86a411b741ec4",
+    "name": "五因子归零机制",
+    "aliases": []
+  },
+  {
+    "id": "concept:740a74fe1f8236a2d972e180",
+    "name": "方法论自我批判",
+    "aliases": []
+  },
+  {
+    "id": "concept:69a2a93b5891ffc9b8b094ad",
+    "name": "整个瓶颈点方法论的可靠性",
+    "aliases": []
+  }
+]

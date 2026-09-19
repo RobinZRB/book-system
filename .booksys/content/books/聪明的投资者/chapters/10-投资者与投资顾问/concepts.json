@@ -1,0 +1,246 @@
+[
+  {
+    "id": "concept:e370ad8ee03950b57e14bb94",
+    "name": "投资顾问",
+    "aliases": [
+      "Investment Advisor",
+      "投资咨询师"
+    ]
+  },
+  {
+    "id": "concept:d91bb1e73a0e6855c5fc3030",
+    "name": "程式投资",
+    "aliases": [
+      "Formula Investment",
+      "程式化投资",
+      "保守投资"
+    ]
+  },
+  {
+    "id": "concept:8c436db4496d602c062c9f02",
+    "name": "投资咨询公司",
+    "aliases": [
+      "Investment Counsel Firm",
+      "专业投资顾问公司"
+    ]
+  },
+  {
+    "id": "concept:efc92d840ab994a450cbe519",
+    "name": "金融服务公司",
+    "aliases": [
+      "Financial Service",
+      "投资服务公司"
+    ]
+  },
+  {
+    "id": "concept:4ea4d95ee3a7e3f512134296",
+    "name": "经纪公司",
+    "aliases": [
+      "Brokerage Firm",
+      "证券公司"
+    ]
+  },
+  {
+    "id": "concept:16b8b9305d6e6317f8bcd957",
+    "name": "客户经纪人",
+    "aliases": [
+      "Customer's Broker",
+      "注册代表",
+      "账户管理者"
+    ]
+  },
+  {
+    "id": "concept:c90abc1a6b4a8da7f19804a9",
+    "name": "金融分析师",
+    "aliases": [
+      "Financial Analyst",
+      "证券分析师",
+      "Security Analyst"
+    ]
+  },
+  {
+    "id": "concept:67e48c451343d759a5e5d78d",
+    "name": "CFA证书",
+    "aliases": [
+      "Chartered Financial Analyst",
+      "特许金融分析师"
+    ]
+  },
+  {
+    "id": "concept:a5c8160eda9356eefd320233",
+    "name": "投资银行",
+    "aliases": [
+      "Investment Bank",
+      "承销商"
+    ]
+  },
+  {
+    "id": "concept:2d460b02620d9fe011eea321",
+    "name": "佣金利益冲突",
+    "aliases": [
+      "Commission Conflict of Interest",
+      "经纪商利益冲突"
+    ]
+  },
+  {
+    "id": "concept:886b5bffdb512025d36a7dc4",
+    "name": "金融规划师",
+    "aliases": [
+      "Financial Planner",
+      "理财规划师",
+      "CFP"
+    ]
+  },
+  {
+    "id": "concept:114835b0ac6568dc963c9b0f",
+    "name": "顾问尽职调查",
+    "aliases": [
+      "Advisor Due Diligence",
+      "顾问背景核查"
+    ]
+  },
+  {
+    "id": "concept:af467c3bad5d6315b5e138d8",
+    "name": "顾问面试框架",
+    "aliases": [
+      "Advisor Interview Framework"
+    ]
+  },
+  {
+    "id": "concept:ad4af9a378217f8c75c80495",
+    "name": "警告性词句",
+    "aliases": [
+      "Warning Phrases",
+      "Red Flags",
+      "投资欺诈警示"
+    ]
+  },
+  {
+    "id": "concept:54d03cf2a20d90005b35b4df",
+    "name": "综合财务计划",
+    "aliases": [
+      "Comprehensive Financial Plan",
+      "全面理财规划"
+    ]
+  },
+  {
+    "id": "concept:d15d4fe5cfeef0ea5d0dc01b",
+    "name": "自我管理",
+    "aliases": [
+      "Self-Management",
+      "行为约束"
+    ]
+  },
+  {
+    "id": "concept:d8740fe40b0224bc8954185f",
+    "name": "资产分配计划",
+    "aliases": [
+      "Asset Allocation Plan"
+    ]
+  },
+  {
+    "id": "concept:b092f5863b79e3d0ab896a88",
+    "name": "投资失误",
+    "aliases": []
+  },
+  {
+    "id": "concept:84796532050368e78ba706d0",
+    "name": "超额回报承诺者",
+    "aliases": []
+  },
+  {
+    "id": "concept:6943c1331380070aadb385ed",
+    "name": "保守稳健",
+    "aliases": []
+  },
+  {
+    "id": "concept:7f7361d5f4a34d94bfdde465",
+    "name": "经济信息",
+    "aliases": []
+  },
+  {
+    "id": "concept:2a0d445dc89fbdcbd0ddbc3c",
+    "name": "市场预测",
+    "aliases": []
+  },
+  {
+    "id": "concept:c38329b32fcf1f9d55ff42ea",
+    "name": "肤浅原则",
+    "aliases": []
+  },
+  {
+    "id": "concept:b0f3575730b5a8b32295f9b8",
+    "name": "投机性思维",
+    "aliases": []
+  },
+  {
+    "id": "concept:eb89f2228989a5944c75b19f",
+    "name": "投资者态度",
+    "aliases": []
+  },
+  {
+    "id": "concept:931005276950e6447c685666",
+    "name": "市场分析师情绪",
+    "aliases": []
+  },
+  {
+    "id": "concept:2cfdcbebfb04b6f7f2b901f0",
+    "name": "金融分析师职业",
+    "aliases": []
+  },
+  {
+    "id": "concept:84bb4128e292eb7243ec83bb",
+    "name": "顾问与推销员",
+    "aliases": []
+  },
+  {
+    "id": "concept:08fbad449f5619984c644aba",
+    "name": "客户资产安全",
+    "aliases": []
+  },
+  {
+    "id": "concept:088c88f6fe106237550396eb",
+    "name": "防御型-顾问关系",
+    "aliases": []
+  },
+  {
+    "id": "concept:14a4f7d8566b6d28b976fac3",
+    "name": "程式化建议",
+    "aliases": []
+  },
+  {
+    "id": "concept:333f763a7b6aefe3b20e4ae9",
+    "name": "积极型投资者",
+    "aliases": []
+  },
+  {
+    "id": "concept:95d1c2d3062fe894e226afd7",
+    "name": "独立判断能力",
+    "aliases": []
+  },
+  {
+    "id": "concept:f967397cb2d856fb74208d57",
+    "name": "信任+验证原则",
+    "aliases": []
+  },
+  {
+    "id": "concept:c66be60292b94334c1d36f1b",
+    "name": "不合格顾问",
+    "aliases": []
+  },
+  {
+    "id": "concept:64c07db667ad5a510ac6fbe3",
+    "name": "投资欺诈",
+    "aliases": []
+  },
+  {
+    "id": "concept:b0f087c6924827d214772e37",
+    "name": "三项基础文件",
+    "aliases": []
+  },
+  {
+    "id": "concept:f6a3876d5fd841116f1e686f",
+    "name": "伪分散化",
+    "aliases": []
+  }
+]
