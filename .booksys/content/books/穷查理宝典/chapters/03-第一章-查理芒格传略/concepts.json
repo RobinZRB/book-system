@@ -1,0 +1,157 @@
+[
+  {
+    "id": "concept:757a65f2aeb6af01f5a35551",
+    "name": "每日阅读与多元阅读习惯",
+    "aliases": [
+      "Daily Reading",
+      "跨学科阅读",
+      "传记阅读"
+    ]
+  },
+  {
+    "id": "concept:64eeaeabf5aca228ff241124",
+    "name": "理性：生意场上的核心品质",
+    "aliases": [
+      "Rationality",
+      "理性"
+    ]
+  },
+  {
+    "id": "concept:1601c33e48bfde5529440fd9",
+    "name": "诚实是最好的策略",
+    "aliases": [
+      "Integrity as Strategy",
+      "诚实正直",
+      "不掩盖错误",
+      "诚实正直作为策略"
+    ]
+  },
+  {
+    "id": "concept:7b1d4fa76d1d6626072b941a",
+    "name": "与“已逝的伟人”交朋友（传记学习法）",
+    "aliases": [
+      "Befriending Dead Greats",
+      "传记学习法"
+    ]
+  },
+  {
+    "id": "concept:e0b61116c169f59e6d819033",
+    "name": "终身学习",
+    "aliases": [
+      "Lifelong Learning",
+      "活到老学到老",
+      "终身学习（活到老学到老）",
+      "成为学习机器",
+      "终身学习、成为学习机器"
+    ]
+  },
+  {
+    "id": "concept:d89b20d19b67c841c4bf79ff",
+    "name": "晚年的最佳保护铠甲（悉心度过的生活）",
+    "aliases": [
+      "Best Armor of Old Age",
+      "论老年",
+      "西塞罗论老年"
+    ]
+  },
+  {
+    "id": "concept:fce59babbb267541cd0bc4c5",
+    "name": "反面教材教学法（餐桌德育故事）",
+    "aliases": [
+      "Negative Example Teaching",
+      "餐桌德育故事",
+      "德育故事"
+    ]
+  },
+  {
+    "id": "concept:db512d59e2919c40e81db12f",
+    "name": "把工作一次做好与承担责任（蓝色海盗号）",
+    "aliases": [
+      "Do It Right the First Time",
+      "蓝色海盗号",
+      "承担责任"
+    ]
+  },
+  {
+    "id": "concept:f740a41f8785f12cbe3ece6a",
+    "name": "专注与心无旁骛",
+    "aliases": [
+      "Concentration",
+      "心不在焉背后的专注"
+    ]
+  },
+  {
+    "id": "concept:e2821755ac9860c23fb1973f",
+    "name": "选择客户的原则（别只看到钱）",
+    "aliases": [
+      "Choose Clients You'd Befriend",
+      "别只看到钱"
+    ]
+  },
+  {
+    "id": "concept:be64237729f93492271bf6c9",
+    "name": "把案头工作做好（带来新客户的最佳办法）",
+    "aliases": [
+      "Do the Work Well",
+      "芒格托尔斯经营原则"
+    ]
+  },
+  {
+    "id": "concept:a943ae2738ca987df8c9b69c",
+    "name": "合伙人的角色扮演（指挥/服从/平等型）",
+    "aliases": [
+      "Roles as a Partner",
+      "服从型合伙人",
+      "指挥型合伙人"
+    ]
+  },
+  {
+    "id": "concept:24f3a59669fa34c66484bffc",
+    "name": "怀疑态度与逆其道而行（独立思考）",
+    "aliases": [
+      "Skepticism and Contrarianism",
+      "逆其道而行"
+    ]
+  },
+  {
+    "id": "concept:6d37d6800f0d9254798e12d5",
+    "name": "财务独立与保守支出（祖父铁律）",
+    "aliases": [
+      "Financial Independence",
+      "专注当前任务，控制支出"
+    ]
+  },
+  {
+    "id": "concept:e2a3fb866e89e0507cef9f95",
+    "name": "慈善观：从资金中创造价值、回报文明",
+    "aliases": [
+      "Philanthropy",
+      "一流慈善基金的投资实践"
+    ]
+  },
+  {
+    "id": "concept:984779e00856733106c84ee6",
+    "name": "抓住少数机会重注（准备+耐心+重注）",
+    "aliases": [
+      "Seize Rare Opportunities",
+      "重重地押下赌注"
+    ]
+  },
+  {
+    "id": "concept:612f675a9538cc323955eb40",
+    "name": "自嘲与幽默（芒格的品格）",
+    "aliases": [
+      "Self-Deprecation",
+      "自嘲"
+    ]
+  },
+  {
+    "id": "concept:73b495873487a3df4315a2a7",
+    "name": "集中投资与承受业绩波动（惠勒芒格的业绩纪律）",
+    "aliases": [
+      "Concentrated Investing",
+      "惠勒芒格公司",
+      "业绩纪律"
+    ]
+  }
+]

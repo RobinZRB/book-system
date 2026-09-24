@@ -1,0 +1,112 @@
+[
+  {
+    "id": "concept:38bce8fc3aacc9344a4b8d3f",
+    "name": "股票期权不费用化漏洞",
+    "aliases": [
+      "employee stock option expensing",
+      "期权收益不计入薪酬支出",
+      "期权费用化的特殊会计处理"
+    ]
+  },
+  {
+    "id": "concept:12c57e5201f71bcf4660204e",
+    "name": "现代金融工程术",
+    "aliases": [
+      "modern financial engineering",
+      "粉饰报表的“合法”手段"
+    ]
+  },
+  {
+    "id": "concept:e3c6f387ca7533236eab25ef",
+    "name": "明智的克制型造假",
+    "aliases": [
+      "谨慎虚增利润",
+      "reckless restraint"
+    ]
+  },
+  {
+    "id": "concept:b226016b6a1246adb3247afc",
+    "name": "细水长流式利润虚增",
+    "aliases": [
+      "多年渐进式欺诈方案",
+      "葡萄干里掺大便",
+      "gradual fraud plan"
+    ]
+  },
+  {
+    "id": "concept:73c9f35b8e864e3c38390419",
+    "name": "庞氏骗局效应",
+    "aliases": [
+      "Ponzi scheme",
+      "连锁信效应",
+      "为现有股东牟利的自我强化机制"
+    ]
+  },
+  {
+    "id": "concept:367d41441e20c0a2e75ec054",
+    "name": "几何级数增长在有限地球上的反噬",
+    "aliases": [
+      "geometric growth",
+      "复利魔力的阴暗面"
+    ]
+  },
+  {
+    "id": "concept:cecaa33f7f0166cf3b4451ea",
+    "name": "巴甫洛夫联想使投资者误信伪造利润",
+    "aliases": [
+      "Pavlovian association reflex",
+      "现金等价物引发的联想"
+    ]
+  },
+  {
+    "id": "concept:fca9b68c78c6fa8d069e3600",
+    "name": "会计师的利益冲突",
+    "aliases": [
+      "who pays the piper",
+      "谁给我面包吃我就给谁唱歌",
+      "准则制定权"
+    ]
+  },
+  {
+    "id": "concept:d939015aae3767f66d3ffd1f",
+    "name": "信任但去证实",
+    "aliases": [
+      "trust but verify",
+      "用所得税现金验证披露利润"
+    ]
+  },
+  {
+    "id": "concept:7927cd5b499987a8fe31bd16",
+    "name": "做假账如同抽走钢筋",
+    "aliases": [
+      "假账比豆腐渣工程更易扩散",
+      "结构完整性"
+    ]
+  },
+  {
+    "id": "concept:2659228347e6eda8a0195ceb",
+    "name": "索福克勒斯式悲剧框架",
+    "aliases": [
+      "Sophocles",
+      "单一漏洞招致命运惩罚",
+      "classical tragedy"
+    ]
+  },
+  {
+    "id": "concept:2e25690cef2bee5f0e2c3f1d",
+    "name": "会计准则与监管的缺位",
+    "aliases": [
+      "FASB",
+      "SEC",
+      "法规漏洞百出"
+    ]
+  },
+  {
+    "id": "concept:4f5918d08b5de03a1815fdb2",
+    "name": "以期权获利替代现金奖金虚增利润",
+    "aliases": [
+      "利润可虚增四倍",
+      "期权代替奖金"
+    ]
+  }
+]

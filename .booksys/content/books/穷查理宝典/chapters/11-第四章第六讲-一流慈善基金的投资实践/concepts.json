@@ -1,0 +1,119 @@
+[
+  {
+    "id": "concept:6b331d560092141c78b8ea14",
+    "name": "基金中的基金模式",
+    "aliases": [
+      "Fund of Funds",
+      "基金中的基金",
+      "康非德式方法在慈善基金的复苏"
+    ]
+  },
+  {
+    "id": "concept:8a170f67ed219e962bb901ee",
+    "name": "伯尼·康非德式方法",
+    "aliases": [
+      "Bernie Cornfeld",
+      "IOS",
+      "投资者海外服务公司",
+      "基金推销骗局"
+    ]
+  },
+  {
+    "id": "concept:4d543f872ac24481ce934a07",
+    "name": "投资顾问的层级结构",
+    "aliases": [
+      "顾问的顾问",
+      "第三级顾问",
+      "证券分析专家",
+      "代理链条"
+    ]
+  },
+  {
+    "id": "concept:62e8da52f490cf7f7c1fd57a",
+    "name": "摩擦成本",
+    "aliases": [
+      "croupier fees",
+      "摩擦成本",
+      "软钱",
+      "年均3%成本",
+      "荷官费用与摩擦成本",
+      "Friction Cost",
+      "荷官费用"
+    ]
+  },
+  {
+    "id": "concept:d229618551f83083abcdf392",
+    "name": "慈善基金会5%法定捐赠要求",
+    "aliases": [
+      "5% payout requirement",
+      "每年不低于本金5%用于慈善"
+    ]
+  },
+  {
+    "id": "concept:2125261bc3a6d99e606fe888",
+    "name": "过度分散投资",
+    "aliases": [
+      "over-diversification",
+      "高度分散",
+      "正统分散观点"
+    ]
+  },
+  {
+    "id": "concept:c7dd97d0c374b0e5c313eebc",
+    "name": "过度自信与过度专业的危害",
+    "aliases": [
+      "overconfidence",
+      "通用汽车两门车",
+      "长期资本管理公司",
+      "LTCM"
+    ]
+  },
+  {
+    "id": "concept:9e15609687a112fc01407581",
+    "name": "指数化投资",
+    "aliases": [
+      "index investing",
+      "指数基金",
+      "选项一"
+    ]
+  },
+  {
+    "id": "concept:4c12f089ce00ac75c60bf20d",
+    "name": "杠杆收购基金的两大风险",
+    "aliases": [
+      "LBO",
+      "杠杆收购",
+      "经济不景气灾难",
+      "过度竞争"
+    ]
+  },
+  {
+    "id": "concept:7b399f035a01116b54b84e33",
+    "name": "激励导致的偏见与捞灰金",
+    "aliases": [
+      "Incentive-Caused Bias",
+      "捞灰金",
+      "gray skimming",
+      "代理问题",
+      "仆人变主人工具"
+    ]
+  },
+  {
+    "id": "concept:81206259a70d6e3c53b09c8d",
+    "name": "资产管理的反社会效应",
+    "aliases": [
+      "反社会效应",
+      "青年才俊醉心资产管理",
+      "职业榜样问题"
+    ]
+  },
+  {
+    "id": "concept:a11df22369ad81277668b946",
+    "name": "德鲁克观点：美国制度特别照顾股东",
+    "aliases": [
+      "Peter Drucker",
+      "股东利益保护",
+      "海外直接投资的风险"
+    ]
+  }
+]

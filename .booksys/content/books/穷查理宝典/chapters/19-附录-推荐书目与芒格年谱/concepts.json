@@ -1,0 +1,124 @@
+[
+  {
+    "id": "concept:e26043fb9f3b0cfb64568257",
+    "name": "芒格的每日阅读观（「长了两条腿的书」）",
+    "aliases": [
+      "a book with two legs",
+      "查理·芒格阅读观"
+    ]
+  },
+  {
+    "id": "concept:854a66c9c582db7f463c6c97",
+    "name": "跨学科/多元阅读取向",
+    "aliases": [
+      "multidisciplinary reading"
+    ]
+  },
+  {
+    "id": "concept:a1ec5dc153dc4ed9a0cd117a",
+    "name": "传记与自传偏好",
+    "aliases": [
+      "biography preference"
+    ]
+  },
+  {
+    "id": "concept:8dd5f382b64d557aafb68676",
+    "name": "科学·复杂系统·进化阅读",
+    "aliases": [
+      "Deep Simplicity",
+      "The Selfish Gene",
+      "Genome",
+      "The Third Chimpanzee"
+    ]
+  },
+  {
+    "id": "concept:e17956a76d1f5e9ed319311a",
+    "name": "心理学阅读（《影响力》）",
+    "aliases": [
+      "Influence: The Psychology of Persuasion",
+      "罗伯特·西奥迪尼"
+    ]
+  },
+  {
+    "id": "concept:9bc1256a0ca7945d5f3a8461",
+    "name": "历史与文明阅读",
+    "aliases": [
+      "Guns Germs and Steel",
+      "How the Scots Invented the Modern World",
+      "The Wealth and Poverty of Nations",
+      "枪炮病菌与钢铁"
+    ]
+  },
+  {
+    "id": "concept:69153bf481fdebc7afc7a0b1",
+    "name": "商业·投资·谈判阅读",
+    "aliases": [
+      "The Warren Buffett Portfolio",
+      "Only the Paranoid Survive",
+      "Getting to Yes",
+      "F.I.A.S.C.O."
+    ]
+  },
+  {
+    "id": "concept:8ac5098f9e3f78d5b74dfd83",
+    "name": "编辑推荐的三本书",
+    "aliases": [
+      "Les Schwab: Pride in Performance",
+      "Men and Rubber",
+      "Men to Match My Mountain"
+    ]
+  },
+  {
+    "id": "concept:02b9f8cdbd80f891e710659c",
+    "name": "年谱阶段①：早年与教育（1924—1948）",
+    "aliases": [
+      "奥马哈出生",
+      "密歇根大学数学",
+      "哈佛法学院毕业"
+    ]
+  },
+  {
+    "id": "concept:39964e002ca1c8be85cc63d0",
+    "name": "年谱阶段②：律师与合伙公司时期（1948—1965）",
+    "aliases": [
+      "加州律师执照",
+      "惠勒芒格公司",
+      "芒格托尔斯律所"
+    ]
+  },
+  {
+    "id": "concept:5c6dc8abd9028bf03a970e02",
+    "name": "年谱阶段③：伯克希尔合伙时期（1959—1980年代）",
+    "aliases": [
+      "蓝筹印花",
+      "喜诗糖果",
+      "西科金融"
+    ]
+  },
+  {
+    "id": "concept:a8ffebb28183f997f44870ce",
+    "name": "年谱阶段④：慈善与晚年（1980年代—2020）",
+    "aliases": [
+      "哈佛西湖校董",
+      "80岁生日",
+      "90岁生日",
+      "疫情缺席年会"
+    ]
+  },
+  {
+    "id": "concept:234b93dfb5c9332aef97f7cd",
+    "name": "关键节点：1959年与巴菲特相识",
+    "aliases": [
+      "奥马哈晚宴",
+      "Warren Buffett"
+    ]
+  },
+  {
+    "id": "concept:df87bbf4a85ec550f3e3b8fc",
+    "name": "关键节点：2008年推荐比亚迪与2020年疫情缺席年会",
+    "aliases": [
+      "BYD",
+      "伯克希尔年会"
+    ]
+  }
+]

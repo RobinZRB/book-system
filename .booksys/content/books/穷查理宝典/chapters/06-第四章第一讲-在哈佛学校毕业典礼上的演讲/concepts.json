@@ -1,0 +1,118 @@
+[
+  {
+    "id": "concept:c10bf91f2aa58839752c421f",
+    "name": "卡森的痛苦药方",
+    "aliases": [
+      "Carson's Prescription for a Miserable Life",
+      "使用化学物质",
+      "妒忌",
+      "怨恨"
+    ]
+  },
+  {
+    "id": "concept:75cbf45ddf8240ccac34edc8",
+    "name": "反复无常（不可靠）",
+    "aliases": [
+      "Inconsistency",
+      "不虔诚地做你正在做的事"
+    ]
+  },
+  {
+    "id": "concept:ddb77c76bef73f5072c89ce0",
+    "name": "拒绝从他人经验中广泛吸取教训",
+    "aliases": [
+      "不从前人成功或失败的经验学习",
+      "二流成就的来源"
+    ]
+  },
+  {
+    "id": "concept:0bbdc4a32a24092ba7364b88",
+    "name": "遭遇挫折一蹶不振",
+    "aliases": [
+      "意志消沉",
+      "陷入痛苦的泥沼"
+    ]
+  },
+  {
+    "id": "concept:b686c56f75ff8af16b54fb2c",
+    "name": "拒绝逆向思考（贬低乡下人智慧）",
+    "aliases": [
+      "忽略乡下人故事",
+      "知道会死在哪里就不去那里"
+    ]
+  },
+  {
+    "id": "concept:07e3377a6b21119005bc1721",
+    "name": "从别人的灾难中学习",
+    "aliases": [
+      "借鉴前人教训",
+      "人类常见的灾难全都毫无创意"
+    ]
+  },
+  {
+    "id": "concept:be851e9593e75077766b6254",
+    "name": "客观态度（寻求证伪证据）",
+    "aliases": [
+      "Objectivity",
+      "达尔文的工作方式",
+      "寻求证据否定已有理论"
+    ]
+  },
+  {
+    "id": "concept:811b28d3662952daf42eff4f",
+    "name": "可靠（为人可靠）",
+    "aliases": [
+      "Reliability",
+      "承担工作的责任",
+      "做可靠的人"
+    ]
+  },
+  {
+    "id": "concept:c33838f5a2330d22596c1b69",
+    "name": "乡下人的智慧（避免失败法）",
+    "aliases": [
+      "要是知道我会死在哪里就好啦",
+      "避免失败的目标",
+      "Inversion example"
+    ]
+  },
+  {
+    "id": "concept:2fa0984b58d1098dcc4c0938",
+    "name": "避免极端意识形态",
+    "aliases": [
+      "忠实于年轻时的观念",
+      "拒绝新知",
+      "远离极端无知",
+      "意识形态偏见对认知的扭曲",
+      "意识形态对客观态度的损害",
+      "警惕强烈的意识形态"
+    ]
+  },
+  {
+    "id": "concept:102ffc664b6e31ac03a7b76f",
+    "name": "正确的爱与被爱（幸福建议）",
+    "aliases": [
+      "如何保证人生幸福",
+      "诚实",
+      "终身学习"
+    ]
+  },
+  {
+    "id": "concept:bb294c3f051ca3eb8b0400d7",
+    "name": "克洛伊斯的“到目前为止”教训",
+    "aliases": [
+      "Croesus",
+      "生命未结束前无人幸福",
+      "在生命没有结束之前，没有人的一生被称为幸福"
+    ]
+  },
+  {
+    "id": "concept:832ec576be7b1f357cc7643e",
+    "name": "吉卜林《如果》避开生活的圈套",
+    "aliases": [
+      "If by Rudyard Kipling",
+      "避开生活的圈套",
+      "以吉卜林的方式"
+    ]
+  }
+]

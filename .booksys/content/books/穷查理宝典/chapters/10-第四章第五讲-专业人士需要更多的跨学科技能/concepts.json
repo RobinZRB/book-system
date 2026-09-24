@@ -1,0 +1,112 @@
+[
+  {
+    "id": "concept:3a97b56e002469364cc8e25e",
+    "name": "软科学",
+    "aliases": [
+      "Soft Sciences",
+      "一切没有像生物学那么基础的学科，彼此相互独立"
+    ]
+  },
+  {
+    "id": "concept:c30a26a102262524079a0fa3",
+    "name": "硬科学的基本治学精神与方法",
+    "aliases": [
+      "Hard Science's Scholarly Spirit and Methods",
+      "按基础性排序、弄清知识来源、提出假设验证"
+    ]
+  },
+  {
+    "id": "concept:19375e87267157d56008e393",
+    "name": "飞行员训练六要素系统",
+    "aliases": [
+      "Six-Element Pilot Training System",
+      "全面知识、熟练应用、正逆思维、多学科训练、检查清单、经常使用模拟器"
+    ]
+  },
+  {
+    "id": "concept:aee129dd5c8b2db1f2203710",
+    "name": "拿来主义",
+    "aliases": [
+      "Grab-and-Use Approach",
+      "补充法",
+      "各学科只看中其他学科什么知识只管拿过来用",
+      "拿来主义（补充法）",
+      "Kiplingism",
+      "吉卜林主义",
+      "拿来主义（吉卜林主义）"
+    ]
+  },
+  {
+    "id": "concept:6c08e82a8105eb5194cf6024",
+    "name": "检查清单习惯",
+    "aliases": [
+      "Checklist Habit",
+      "核对检查清单的终身习惯"
+    ]
+  },
+  {
+    "id": "concept:966a0405d6f8aab2d1c5935d",
+    "name": "正向思维与逆向思维",
+    "aliases": [
+      "Forward and Inversion Thinking",
+      "像代数学家那样时而正向时而逆向思考"
+    ]
+  },
+  {
+    "id": "concept:4452405b26bfcf48ff658054",
+    "name": "公用品悲剧",
+    "aliases": [
+      "Tragedy of the Commons",
+      "加勒特·哈丁 1968 年《科学》论文"
+    ]
+  },
+  {
+    "id": "concept:54c7f781b92454bdbff6a7e4",
+    "name": "无形的脚",
+    "aliases": [
+      "Invisible Foot",
+      "经济学吸取公用品悲剧教训，与亚当·斯密无形的手并存"
+    ]
+  },
+  {
+    "id": "concept:0eef5850d7a4df96500bd1b3",
+    "name": "行为经济学",
+    "aliases": [
+      "Behavioral Economics",
+      "明智地向心理学寻求帮助的分支学科"
+    ]
+  },
+  {
+    "id": "concept:7d70028fc7c235d72edfa997",
+    "name": "代理成本",
+    "aliases": [
+      "Agency Cost",
+      "鞋厂老太太案例中的无法避免的代理成本"
+    ]
+  },
+  {
+    "id": "concept:73298e9ce505d22cdacdddc3",
+    "name": "边际效应优势",
+    "aliases": [
+      "Marginal Effect Advantage",
+      "卖给拥有最大边际效应优势的竞争对手"
+    ]
+  },
+  {
+    "id": "concept:7bf4dce435337b5715ab3559",
+    "name": "学科割裂",
+    "aliases": [
+      "Compartmentalization of Disciplines",
+      "怀特海：各个学科之间的割裂是非常有害的"
+    ]
+  },
+  {
+    "id": "concept:e8b99d89795471f2cbd9809b",
+    "name": "普世智慧",
+    "aliases": [
+      "Worldly Wisdom",
+      "大量跨学科知识组成的普世智慧，没有捷径",
+      "基本的、普世的智慧"
+    ]
+  }
+]

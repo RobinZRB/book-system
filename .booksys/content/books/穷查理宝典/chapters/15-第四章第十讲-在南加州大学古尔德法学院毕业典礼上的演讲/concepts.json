@@ -1,0 +1,128 @@
+[
+  {
+    "id": "concept:ece9e9ffdc1bdae5009919b0",
+    "name": "配得起你想要的东西（黄金法则）",
+    "aliases": [
+      "Golden Rule",
+      "己所不欲勿施于人",
+      "让你自己配得起它"
+    ]
+  },
+  {
+    "id": "concept:7f85a2d4ffa2b07a4020f43e",
+    "name": "正确的爱应以仰慕为基础（避免有病的爱）",
+    "aliases": [
+      "有病的爱",
+      "《人性的枷锁》",
+      "爱那些对我们有教育意义的先贤"
+    ]
+  },
+  {
+    "id": "concept:10170ea6ac67f7d8a78ed7b4",
+    "name": "言出必行、保持可靠（避免言而无信）",
+    "aliases": [
+      "可靠",
+      "trustworthy",
+      "言而无信会招致悲惨下场"
+    ]
+  },
+  {
+    "id": "concept:2d45ea6a0a8a4eddb993fd8e",
+    "name": "铁律：能比对手更好地反驳自己才配拥有观点",
+    "aliases": [
+      "铁律",
+      "反向辩护",
+      "我只有比对手更好地反驳自己才有资格发表意见"
+    ]
+  },
+  {
+    "id": "concept:d89b99ff934b9a058014bf22",
+    "name": "自我服务偏好（自我服务偏见）",
+    "aliases": [
+      "Self-Serving Bias",
+      "自我服务偏见",
+      "自我中心的潜意识倾向"
+    ]
+  },
+  {
+    "id": "concept:1b049d365f00270351b5028c",
+    "name": "诉诸利益而非诉诸理性（富兰克林）",
+    "aliases": [
+      "Appeal to interest, not reason",
+      "本杰明·富兰克林",
+      "说服技巧"
+    ]
+  },
+  {
+    "id": "concept:6a3aa869708581ced979378f",
+    "name": "避开变态的激励机制与变态工作关系",
+    "aliases": [
+      "Perverse Incentives",
+      "在仰慕的人手下工作",
+      "避免越糟回报越多的系统"
+    ]
+  },
+  {
+    "id": "concept:ada03ec20db072767d60847f",
+    "name": "核对检查清单、保持客观公正",
+    "aliases": [
+      "Checklist",
+      "达尔文式留意反面证据",
+      "客观公正的习惯"
+    ]
+  },
+  {
+    "id": "concept:909c7728c34f3b2e76952896",
+    "name": "将不平等最大化（非平等主义）",
+    "aliases": [
+      "Maximize inequality",
+      "非平等主义",
+      "约翰·伍登"
+    ]
+  },
+  {
+    "id": "concept:508e2d8d1d9b1dd7210266a1",
+    "name": "普朗克知识 vs 司机知识",
+    "aliases": [
+      "Planck knowledge",
+      "Chauffeur knowledge",
+      "真懂 vs 鹦鹉学舌"
+    ]
+  },
+  {
+    "id": "concept:ef68b788bf8c958e2acbab80",
+    "name": "强烈的兴趣加上极度勤奋",
+    "aliases": [
+      "强烈的兴趣",
+      "勤奋",
+      "兴趣驱动出色"
+    ]
+  },
+  {
+    "id": "concept:87683ef91c6b54147b40bd30",
+    "name": "爱比克泰德态度：把不幸当作锻炼",
+    "aliases": [
+      "Epictetus",
+      "利用不幸提高自我",
+      "每一次不幸都是吸取教训的良机"
+    ]
+  },
+  {
+    "id": "concept:e4085f2a9e2657b96c579e4a",
+    "name": "节俭是责任的仆人、永远期待麻烦",
+    "aliases": [
+      "Frugality is the servant of duty",
+      "芒格法官",
+      "豪斯曼：我总是想着麻烦"
+    ]
+  },
+  {
+    "id": "concept:fe3fdf185679a74e90e8edb2",
+    "name": "追求无缝的、非官僚的信任之网",
+    "aliases": [
+      "web of trust",
+      "玛约医疗中心",
+      "信任之网"
+    ]
+  }
+]

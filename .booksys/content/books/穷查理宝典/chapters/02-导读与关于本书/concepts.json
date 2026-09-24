@@ -1,0 +1,72 @@
+[
+  {
+    "id": "concept:4e291964deb315353db542d3",
+    "name": "老派美国中西部价值观",
+    "aliases": [
+      "Old-school American Midwest values",
+      "言出必行",
+      "遇事冷静镇定",
+      "愿意检验自己的信念"
+    ]
+  },
+  {
+    "id": "concept:dde5439c018e52b633623739",
+    "name": "独立是赚钱的目的",
+    "aliases": [
+      "Independence",
+      "通过发财致富来变得独立",
+      "凯恩斯式目标"
+    ]
+  },
+  {
+    "id": "concept:44b468a643a9bf47134b663c",
+    "name": "用讲故事代替抽象说教",
+    "aliases": [
+      "Storytelling approach",
+      "趣闻轶事",
+      "传统讲故事人的角色"
+    ]
+  },
+  {
+    "id": "concept:0aa3ee7a2cb9ba2ab2b6254d",
+    "name": "查理十一讲",
+    "aliases": [
+      "Charlie's 11 talks",
+      "从“查理十讲”增订而来",
+      "书的后半部分"
+    ]
+  },
+  {
+    "id": "concept:35f0abfebe905b77603815f5",
+    "name": "生活的决定比投资的决定更重要",
+    "aliases": [
+      "life decisions outweigh investment decisions",
+      "不以 beta 系数为中心"
+    ]
+  },
+  {
+    "id": "concept:3f7631b54769b0b95f41946a",
+    "name": "跨学科是条不归路",
+    "aliases": [
+      "砍断双手的比喻",
+      "轻车熟路地走上跨学科途径"
+    ]
+  },
+  {
+    "id": "concept:285b4f127bdb20e1945d2bf6",
+    "name": "重复是教导的核心",
+    "aliases": [
+      "Repetition is core of teaching",
+      "有意地反复使用用语和例子"
+    ]
+  },
+  {
+    "id": "concept:652f5073cbfd4f53580ab2d9",
+    "name": "建立 2 万亿美元企业的思想实验",
+    "aliases": [
+      "格罗兹的咖啡因糖水",
+      "关于现实思维的现实思考",
+      "Practical Thought About Practical Thought"
+    ]
+  }
+]

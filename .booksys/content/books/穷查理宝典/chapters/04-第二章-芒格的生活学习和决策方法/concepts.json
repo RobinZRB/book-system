@@ -1,0 +1,140 @@
+[
+  {
+    "id": "concept:f16c25a2ab4d06142f3665a1",
+    "name": "多元思维模型",
+    "aliases": [
+      "Mental Models",
+      "Multidisciplinary Mental Models",
+      "多元思维格栅",
+      "Latticework of Mental Models",
+      "多元思维模型与避免“铁锤人”",
+      "多元思维模型（铁锤人）"
+    ]
+  },
+  {
+    "id": "concept:d3c62fc1179ed3f1fec9bce5",
+    "name": "能力圈",
+    "aliases": [
+      "Circle of Competence",
+      "能力范围",
+      "能力圈及其边界"
+    ]
+  },
+  {
+    "id": "concept:910034d2234b60dd203361bf",
+    "name": "双轨分析",
+    "aliases": [
+      "Two-Track Analysis",
+      "理性分析加潜意识心理因素评估"
+    ]
+  },
+  {
+    "id": "concept:ba03e2fa0f1bfd30f73c9b7b",
+    "name": "投资评估过程",
+    "aliases": [
+      "Investment Assessment Process",
+      "三步筛选法"
+    ]
+  },
+  {
+    "id": "concept:42d0c7b809af75ce224de2dc",
+    "name": "投资原则检查清单",
+    "aliases": [
+      "Investment Checklist",
+      "检查清单检验法"
+    ]
+  },
+  {
+    "id": "concept:ee0d1a3b5f50d3fe21447066",
+    "name": "坐等投资法",
+    "aliases": [
+      "Sit-on-Your-Ass Investing",
+      "坐下等待法",
+      "等待好球"
+    ]
+  },
+  {
+    "id": "concept:402c1842582fb32ec3419504",
+    "name": "泰德·威廉姆斯的77格击球区",
+    "aliases": [
+      "Ted Williams' 77-Cell Batting Zone",
+      "最佳击球格",
+      "好球区"
+    ]
+  },
+  {
+    "id": "concept:a6810efcc1a0597eccd37159",
+    "name": "护城河",
+    "aliases": [
+      "Moat",
+      "竞争优势",
+      "企业无形的沟壕"
+    ]
+  },
+  {
+    "id": "concept:5f9e80c5677a1bc24428200b",
+    "name": "竞争性毁灭",
+    "aliases": [
+      "Competitive Destruction",
+      "竞争性破坏"
+    ]
+  },
+  {
+    "id": "concept:a64d5432f65e24566f673caa",
+    "name": "安全边际与冗余备份模型",
+    "aliases": [
+      "Margin of Safety",
+      "Redundancy Model",
+      "冗余思维模型"
+    ]
+  },
+  {
+    "id": "concept:0c16f1357a754ac57c38e69a",
+    "name": "反过来想，总是反过来想",
+    "aliases": [
+      "Invert, Always Invert",
+      "逆向思考",
+      "避免犯傻的芒格体系",
+      "Invert, always invert",
+      "逆向思维",
+      "逆向思考法（反过来想）",
+      "逆向思维（反过来想）",
+      "逆向思考（反过来想）",
+      "逆向思维（反过来想，总是反过来想）"
+    ]
+  },
+  {
+    "id": "concept:42c07fdf6cffc5fa8c00c1aa",
+    "name": "市场先生",
+    "aliases": [
+      "Mr. Market",
+      "躁狂抑郁的市场"
+    ]
+  },
+  {
+    "id": "concept:36602ecee968a37be0908dcc",
+    "name": "价格是你付出的，价值是你得到的",
+    "aliases": [
+      "Price Is What You Pay, Value Is What You Get",
+      "价值投资本质"
+    ]
+  },
+  {
+    "id": "concept:f4b3ea81e835503016a7e523",
+    "name": "商业生态系统观",
+    "aliases": [
+      "Business as an Ecosystem",
+      "生态投资分析法"
+    ]
+  },
+  {
+    "id": "concept:b64a98759d1c614e84262cab",
+    "name": "物理学妒忌",
+    "aliases": [
+      "Avoiding Physics Envy",
+      "别把复杂系统过度简化",
+      "避免“物理学妒忌”",
+      "Physics Envy"
+    ]
+  }
+]

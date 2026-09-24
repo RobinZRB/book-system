@@ -1,0 +1,111 @@
+[
+  {
+    "id": "concept:ef02a6d91a39888bd3a73dfe",
+    "name": "价值投资理念",
+    "aliases": [
+      "Value Investing",
+      "巴菲特/芒格价值投资体系"
+    ]
+  },
+  {
+    "id": "concept:6bf7a57a668ad8c5dc3d0a81",
+    "name": "股票即公司的部分所有权",
+    "aliases": [
+      "股票本质是公司的部分所有权",
+      "公司价值决定股价"
+    ]
+  },
+  {
+    "id": "concept:c264895bf96ef3ea9d52f2b4",
+    "name": "波动性即风险的华尔街谬论",
+    "aliases": [
+      "波动性就是风险",
+      "以业绩波动性评判投资表现"
+    ]
+  },
+  {
+    "id": "concept:8ed86e6e606c243c2e73c517",
+    "name": "永久性亏损才是真正风险",
+    "aliases": [
+      "股价下跌不是风险而是机会",
+      "永久亏损 vs 价格波动"
+    ]
+  },
+  {
+    "id": "concept:8bd7151e40eb28659a1c26f9",
+    "name": "人类失败案例检查清单",
+    "aliases": [
+      "正确决策的检查清单",
+      "失败原因排列成清单"
+    ]
+  },
+  {
+    "id": "concept:59109d53d1a553a99d5b66f7",
+    "name": "芒格定义的理性",
+    "aliases": [
+      "Rationality",
+      "理性（苛刻定义）",
+      "一眼看到事物本质"
+    ]
+  },
+  {
+    "id": "concept:f9558b3abf12a6e52e7c3f13",
+    "name": "两分钟效应",
+    "aliases": [
+      "Two-Minute Effect",
+      "巴菲特称查理最短说清商业本质"
+    ]
+  },
+  {
+    "id": "concept:a26633328bf722c6cdcae482",
+    "name": "金融衍生品灾难预警",
+    "aliases": [
+      "金融式大规模杀伤武器",
+      "衍生品泛滥预言",
+      "2008金融危机验证"
+    ]
+  },
+  {
+    "id": "concept:bf85073980edef16cd3c1446",
+    "name": "对知识的诚实",
+    "aliases": [
+      "Intellectual Honesty",
+      "知之为知之不知为不知",
+      "收集证否证据随时修正"
+    ]
+  },
+  {
+    "id": "concept:d96e7cb32e71b0f8dfbcbba2",
+    "name": "客观精神可后天训练",
+    "aliases": [
+      "培养客观精神",
+      "看到别人看不到的东西"
+    ]
+  },
+  {
+    "id": "concept:01af0ba57c79f6d6f8163159",
+    "name": "商才士魂",
+    "aliases": [
+      "商人才能与士大夫灵魂",
+      "查理是中国传统士大夫化身"
+    ]
+  },
+  {
+    "id": "concept:fee32905c76952c7476c5d46",
+    "name": "凡事看长远的长期投资",
+    "aliases": [
+      "看长远",
+      "长期持有被低估股票",
+      "避免不停交易"
+    ]
+  },
+  {
+    "id": "concept:eeddc66fcc6e7e9bfd17b57e",
+    "name": "早期合伙人公司结构",
+    "aliases": [
+      "巴菲特/芒格合伙人公司",
+      "去除对冲基金弊端",
+      "长期投资保证"
+    ]
+  }
+]

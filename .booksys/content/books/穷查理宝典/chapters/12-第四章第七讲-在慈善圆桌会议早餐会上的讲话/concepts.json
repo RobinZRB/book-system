@@ -1,0 +1,98 @@
+[
+  {
+    "id": "concept:57bec3a5a2ee3bbc8325fb2c",
+    "name": "财富效应",
+    "aliases": [
+      "Wealth Effect"
+    ]
+  },
+  {
+    "id": "concept:d6774aaf3b7d8b69d32a124e",
+    "name": "黑金",
+    "aliases": [
+      "bezzle",
+      "尚未败露的贪污得来的钱"
+    ]
+  },
+  {
+    "id": "concept:4ef0447467039f4712050a6c",
+    "name": "灰金",
+    "aliases": [
+      "gray gold"
+    ]
+  },
+  {
+    "id": "concept:9c00baa88885404f094a73ab",
+    "name": "捞灰金",
+    "aliases": [
+      "febezzlement",
+      "创造灰金的过程",
+      "Febezzlement",
+      "捞灰金效应"
+    ]
+  },
+  {
+    "id": "concept:65cdb5ea1a98526e333a854f",
+    "name": "灰金客",
+    "aliases": [
+      "febezzler",
+      "捞灰金的人"
+    ]
+  },
+  {
+    "id": "concept:e40188bee18bf3953307382e",
+    "name": "凯恩斯乘数效应",
+    "aliases": [
+      "Keynesian multiplier",
+      "凯恩斯乘数"
+    ]
+  },
+  {
+    "id": "concept:cda3d717fb4f5ea3bf97757a",
+    "name": "傻子消费",
+    "aliases": [
+      "非理性的花销",
+      "foolish spending"
+    ]
+  },
+  {
+    "id": "concept:7f27117fd59e8ff54816b4a2",
+    "name": "退休金财富效应",
+    "aliases": [
+      "401(k)财富效应",
+      "pension wealth effect"
+    ]
+  },
+  {
+    "id": "concept:6c722c7be8b15fba227dc5b0",
+    "name": "集体非理性",
+    "aliases": [
+      "collective irrationality",
+      "旅鼠倾向"
+    ]
+  },
+  {
+    "id": "concept:87cb41ddd4afcac3bf940c1c",
+    "name": "思维实验",
+    "aliases": [
+      "thought experiment",
+      "退休金买古代艺术品实验"
+    ]
+  },
+  {
+    "id": "concept:b713a9f48273c0f7bd663146",
+    "name": "道德效应",
+    "aliases": [
+      "moral effect",
+      "复式簿记推动道德"
+    ]
+  },
+  {
+    "id": "concept:9f4be72a89fdea07a6847f48",
+    "name": "股票期权灰金效应",
+    "aliases": [
+      "职工股票期权财富效应",
+      "stock option wealth effect"
+    ]
+  }
+]

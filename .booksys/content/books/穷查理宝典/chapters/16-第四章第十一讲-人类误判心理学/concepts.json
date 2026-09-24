@@ -1,0 +1,186 @@
+[
+  {
+    "id": "concept:2e62148261a146e4ab88fdce",
+    "name": "奖励和惩罚超级反应倾向",
+    "aliases": [
+      "Reward and Punishment Superresponse Tendency",
+      "激励机制的超级威力",
+      "激励超级反应倾向"
+    ]
+  },
+  {
+    "id": "concept:27210097f3ad0d9be617620f",
+    "name": "激励机制引起的偏见",
+    "aliases": [
+      "Incentive-Caused Bias",
+      "激励导致的偏见",
+      "受激励驱使的偏见",
+      "激励机制造成的偏见"
+    ]
+  },
+  {
+    "id": "concept:f093991ef00cd0515d8ab5f9",
+    "name": "喜欢/热爱倾向",
+    "aliases": [
+      "Liking/Loving Tendency",
+      "喜爱倾向",
+      "倾慕倾向"
+    ]
+  },
+  {
+    "id": "concept:15dc5ac368a55fee3fb963b5",
+    "name": "讨厌/憎恨倾向",
+    "aliases": [
+      "Disliking/Hating Tendency",
+      "憎恨倾向",
+      "厌恶倾向"
+    ]
+  },
+  {
+    "id": "concept:772173ba9088ef8c4ab163c5",
+    "name": "回馈倾向",
+    "aliases": [
+      "Reciprocation Tendency",
+      "以德报德以牙还牙倾向",
+      "投桃报李倾向"
+    ]
+  },
+  {
+    "id": "concept:20c350b9593159fddb8b2616",
+    "name": "避免怀疑倾向",
+    "aliases": [
+      "Doubt-Avoiding Tendency",
+      "消除怀疑倾向"
+    ]
+  },
+  {
+    "id": "concept:7645d6b49c1340030c81d6c4",
+    "name": "避免不一致性倾向",
+    "aliases": [
+      "Inconsistency-Avoiding Tendency",
+      "维持现状倾向",
+      "抗改变倾向",
+      "第一结论偏见",
+      "确认偏见"
+    ]
+  },
+  {
+    "id": "concept:b4882ed25110978cf6c94890",
+    "name": "受简单联想影响的倾向",
+    "aliases": [
+      "Influence-from-Mere-Association Tendency",
+      "简单联想倾向",
+      "波斯信使综合征"
+    ]
+  },
+  {
+    "id": "concept:4de02473d2000793ef202243",
+    "name": "简单的、避免痛苦的心理否认",
+    "aliases": [
+      "Simple, Pain-Avoiding Psychological Denial",
+      "心理否认",
+      "避免痛苦的心理否认"
+    ]
+  },
+  {
+    "id": "concept:f17e5e309cba745ca7391282",
+    "name": "自视过高倾向",
+    "aliases": [
+      "Excessive Self-Regard Tendency",
+      "禀赋效应",
+      "托尔斯泰效应"
+    ]
+  },
+  {
+    "id": "concept:e6f13f2aac01cbbfe23a4c3f",
+    "name": "过度乐观倾向",
+    "aliases": [
+      "Overoptimism Tendency"
+    ]
+  },
+  {
+    "id": "concept:c8620d26f7ae1d74deb16d1b",
+    "name": "被剥夺超级反应倾向",
+    "aliases": [
+      "Deprival Superreaction Tendency",
+      "被剥夺超级反应",
+      "Deprival-Superreaction Tendency",
+      "剥夺性超级反应综合征"
+    ]
+  },
+  {
+    "id": "concept:5920dfaad9fe3f604706d6c7",
+    "name": "社会认同倾向",
+    "aliases": [
+      "Social-Proof Tendency",
+      "从众倾向",
+      "社会认可倾向",
+      "社会认同"
+    ]
+  },
+  {
+    "id": "concept:0dabe8e989b89ba7a0a6dae8",
+    "name": "对比错误反应倾向",
+    "aliases": [
+      "Contrast-Misreaction Tendency",
+      "对比误反应倾向",
+      "对比效应"
+    ]
+  },
+  {
+    "id": "concept:b366b3ffc24c62bece3234e4",
+    "name": "压力影响倾向",
+    "aliases": [
+      "Stress-Influence Tendency",
+      "巴甫洛夫压力实验",
+      "急性应激性抑郁症"
+    ]
+  },
+  {
+    "id": "concept:a34ddbc8913e84daf577cf7c",
+    "name": "权威—错误影响倾向",
+    "aliases": [
+      "Authority-Misinfluence Tendency",
+      "权威错误影响倾向"
+    ]
+  },
+  {
+    "id": "concept:1cfa2c7eecd7832d437046d4",
+    "name": "错误衡量易得性倾向",
+    "aliases": [
+      "Misjudging by Availability",
+      "Availability-Misweighting Tendency",
+      "易得性错误衡量倾向"
+    ]
+  },
+  {
+    "id": "concept:a1b44700f5414055e0d95cad",
+    "name": "重视理由倾向",
+    "aliases": [
+      "Reason-Respecting Tendency",
+      "爱听理由倾向"
+    ]
+  },
+  {
+    "id": "concept:f932c7068f5d45633bbbca83",
+    "name": "lollapalooza倾向",
+    "aliases": [
+      "Lollapalooza Tendency",
+      "多因素叠加极端后果倾向",
+      "数种心理倾向共同作用倾向",
+      "Lollapalooza效应",
+      "lollapalooza效应"
+    ]
+  },
+  {
+    "id": "concept:67f0ce627727f387f4463cc7",
+    "name": "铁锤人倾向",
+    "aliases": [
+      "Man-with-a-Hammer Tendency",
+      "铁锤人综合征",
+      "拿着锤子的人看什么都像钉子",
+      "Man with a Hammer Tendency",
+      "拿锤子的人"
+    ]
+  }
+]

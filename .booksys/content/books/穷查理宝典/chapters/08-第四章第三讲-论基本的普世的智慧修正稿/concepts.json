@@ -1,0 +1,164 @@
+[
+  {
+    "id": "concept:adfd769c278ed57fdc8d432e",
+    "name": "奥斯勒的多元主义警示",
+    "aliases": [
+      "William Osler",
+      "现代医学之父",
+      "专业化禁锢思想"
+    ]
+  },
+  {
+    "id": "concept:53d0a45a65e7a6e52951abf8",
+    "name": "定约桥牌的跨学科隐喻",
+    "aliases": [
+      "contract bridge metaphor",
+      "正反两面思考",
+      "赢墩方法"
+    ]
+  },
+  {
+    "id": "concept:c4196b630ecf381fd7f94551",
+    "name": "小红母鸡的自学主张",
+    "aliases": [
+      "The Little Red Hen",
+      "马克·吐温 不让上学影响学习",
+      "教授没教对就自己改"
+    ]
+  },
+  {
+    "id": "concept:3b465f2bcc5663a1e71a8f23",
+    "name": "好时石磨与味道壁垒",
+    "aliases": [
+      "Hershey",
+      "可可脂石磨",
+      "味道护城河"
+    ]
+  },
+  {
+    "id": "concept:8de41b7484d403e12214802d",
+    "name": "国际香料香精的无专利收费模式",
+    "aliases": [
+      "International Flavors & Fragrances",
+      "IFF",
+      "永久授权费"
+    ]
+  },
+  {
+    "id": "concept:07723bae47e2129f179d1517",
+    "name": "价值线图表与复利模型",
+    "aliases": [
+      "Value Line",
+      "对数线图表",
+      "复利模型"
+    ]
+  },
+  {
+    "id": "concept:b54f9d9338c4ed84bd9fde3d",
+    "name": "商标创造的激励机制（卡奈森案例）",
+    "aliases": [
+      "Carnation",
+      "商标激励",
+      "trademark incentive"
+    ]
+  },
+  {
+    "id": "concept:021ba88f2be72bdf04ae57d6",
+    "name": "先天的语言本能",
+    "aliases": [
+      "The Language Instinct",
+      "Steven Pinker",
+      "达尔文自然选择",
+      "语言基因"
+    ]
+  },
+  {
+    "id": "concept:0b5c77160c8d2127f43ed86d",
+    "name": "心理否认与痛苦致精神失常",
+    "aliases": [
+      "psychological denial",
+      "巴甫洛夫狗实验",
+      "pain-causing mental breakdown"
+    ]
+  },
+  {
+    "id": "concept:969df3ed60970183e861e263",
+    "name": "妒忌被心理学教材忽视",
+    "aliases": [
+      "envy",
+      "十诫",
+      "摩西了解妒忌"
+    ]
+  },
+  {
+    "id": "concept:f1411c8221a01066631e7cb7",
+    "name": "米尔格拉姆实验的lollapalooza重读",
+    "aliases": [
+      "Milgram experiment",
+      "权威实验",
+      "lollapalooza效应",
+      "检查清单"
+    ]
+  },
+  {
+    "id": "concept:bf1f1241ef976a66120ec70a",
+    "name": "库克船长酸泡菜的心理学应用",
+    "aliases": [
+      "James Cook",
+      "坏血病",
+      "酸泡菜",
+      "scurvy"
+    ]
+  },
+  {
+    "id": "concept:5a2743fe6e51e756ac089625",
+    "name": "迪士尼的自我催化模型",
+    "aliases": [
+      "Disney",
+      "autocatalysis",
+      "自我催化",
+      "米奇老鼠",
+      "池塘里的鸭子"
+    ]
+  },
+  {
+    "id": "concept:2a91af1cb1060716eba62113",
+    "name": "《聪明的投资者》三思想",
+    "aliases": [
+      "The Intelligent Investor",
+      "市场先生",
+      "安全边际",
+      "股票是企业一部分",
+      "Benjamin Graham"
+    ]
+  },
+  {
+    "id": "concept:730a116b22b8605aa0102948",
+    "name": "海军的不究过错规则",
+    "aliases": [
+      "Navy rule",
+      "不追究过错原因",
+      "船长搁浅"
+    ]
+  },
+  {
+    "id": "concept:7cfed6e054751766aeea5ad4",
+    "name": "现代达尔文综合理论",
+    "aliases": [
+      "Modern Synthesis",
+      "Modern Darwinism",
+      "道金斯",
+      "Richard Dawkins"
+    ]
+  },
+  {
+    "id": "concept:ebb031eca66b93b7b7954030",
+    "name": "补救式普世智慧课程主张",
+    "aliases": [
+      "remedial worldly wisdom",
+      "四门基础学科",
+      "芝加哥大学废除心理学系",
+      "Robert Cialdini"
+    ]
+  }
+]

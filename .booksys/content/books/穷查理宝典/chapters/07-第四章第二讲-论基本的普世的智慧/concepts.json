@@ -1,0 +1,139 @@
+[
+  {
+    "id": "concept:100fef521f51ccdbaaba2094",
+    "name": "祖母的规矩",
+    "aliases": [
+      "Grandma's Rule",
+      "先吃胡萝卜才能吃甜点",
+      "祖母的规矩：铁律"
+    ]
+  },
+  {
+    "id": "concept:77e01a7cf818b5329f277b65",
+    "name": "费马-帕斯卡系统与基本排列组合原理",
+    "aliases": [
+      "Fermat-Pascal System",
+      "Basic Permutations and Combinations",
+      "决策树理论",
+      "复利原理"
+    ]
+  },
+  {
+    "id": "concept:c20c1063d42c844788db35b8",
+    "name": "会计的局限与五何原则",
+    "aliases": [
+      "Limitations of Accounting",
+      "Five Ws principle",
+      "复式簿记",
+      "卡尔·布劳恩的会计系统"
+    ]
+  },
+  {
+    "id": "concept:8b2f7783586cb62d12026255",
+    "name": "工程学思维模型（质量控制、后备系统、断裂点、临界质量）",
+    "aliases": [
+      "Quality Control Theory",
+      "W. Edwards Deming",
+      "戴明环",
+      "PDCA循环",
+      "Backup Systems",
+      "Breaking Point",
+      "Critical Mass"
+    ]
+  },
+  {
+    "id": "concept:e80f94b8852de88ca852e278",
+    "name": "人类误判心理学",
+    "aliases": [
+      "Psychology of Human Misjudgment",
+      "人类误判心理学",
+      "约20个小原则",
+      "误判心理学",
+      "人类误判心理学（专为本书而写）"
+    ]
+  },
+  {
+    "id": "concept:a46609a67b0b74b400a61ae0",
+    "name": "微观经济学作为生态系统",
+    "aliases": [
+      "Microeconomics as an Ecosystem",
+      "把自由市场经济当作生态系统"
+    ]
+  },
+  {
+    "id": "concept:6a92deda3fe272ec153956f5",
+    "name": "规模优势",
+    "aliases": [
+      "Economies of Scale",
+      "经验曲线",
+      "赢家通吃",
+      "信息优势"
+    ]
+  },
+  {
+    "id": "concept:8eec83fd8ca2b60e42414846",
+    "name": "巴甫洛夫联想",
+    "aliases": [
+      "Pavlovian Association",
+      "巴甫洛夫联想原则",
+      "对逆耳忠言的抵触",
+      "巴甫洛夫条件反射"
+    ]
+  },
+  {
+    "id": "concept:1afe243559ea92d1e216143a",
+    "name": "官僚机构与激励失灵",
+    "aliases": [
+      "Bureaucracy and Incentive Failure",
+      "激励机制失灵",
+      "人浮于事"
+    ]
+  },
+  {
+    "id": "concept:a351e8c88682c9efb64bca0a",
+    "name": "连锁店模型",
+    "aliases": [
+      "Chain Store Model",
+      "沃尔玛模式",
+      "集中采购优势"
+    ]
+  },
+  {
+    "id": "concept:b4463a34afb9031570cef7b0",
+    "name": "冲浪模型（先行者优势）",
+    "aliases": [
+      "Surfing Model",
+      "First-Mover Advantage",
+      "冲上浪尖"
+    ]
+  },
+  {
+    "id": "concept:5d4c110ae548b154295b8743",
+    "name": "彩池投注系统（市场部分有效）",
+    "aliases": [
+      "Parimutuel Betting System",
+      "有效市场理论",
+      "市场部分有效部分低效"
+    ]
+  },
+  {
+    "id": "concept:0a99b129ae14a523d4a3cec4",
+    "name": "集中下注（定错价格的良机）",
+    "aliases": [
+      "Bet Heavily on Mispriced Opportunities",
+      "定错价格的赌注",
+      "考勤卡20次投资"
+    ]
+  },
+  {
+    "id": "concept:b2935ec1b1ca702f01dd256f",
+    "name": "格雷厄姆：安全边际与市场先生",
+    "aliases": [
+      "Benjamin Graham",
+      "Margin of Safety",
+      "Mr. Market",
+      "盖格探测器",
+      "私人拥有价值"
+    ]
+  }
+]

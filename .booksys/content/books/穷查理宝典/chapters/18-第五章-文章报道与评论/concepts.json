@@ -1,0 +1,170 @@
+[
+  {
+    "id": "concept:ae2eac6b7fdd2018290dba9a",
+    "name": "乐观主义会计的危害与悲观谨慎原则",
+    "aliases": [
+      "No Room for Optimism in Accounting",
+      "悲观谨慎的会计"
+    ]
+  },
+  {
+    "id": "concept:98e70487d0af0641043d70f9",
+    "name": "公认会计准则(GAAP)的系统性缺陷",
+    "aliases": [
+      "GAAP",
+      "公认会计准则",
+      "会计准则被既得利益集团扭曲"
+    ]
+  },
+  {
+    "id": "concept:5fbf73314534af409c05031a",
+    "name": "按市价入账与按模型定价(Mark-to-Model)",
+    "aliases": [
+      "Mark-to-Market",
+      "Mark-to-Model",
+      "按市价入账",
+      "按模型定价"
+    ]
+  },
+  {
+    "id": "concept:fca93be9920b9a7acb4f72a5",
+    "name": "原则导向会计与规则导向会计之争",
+    "aliases": [
+      "Principles-based Accounting",
+      "Rules-based Accounting",
+      "原则导向",
+      "规则导向"
+    ]
+  },
+  {
+    "id": "concept:8e2d80f75004413004c4d550",
+    "name": "储蓄贷款协会(S&L)危机中的行业游说与假账",
+    "aliases": [
+      "互助储蓄与贷款联盟请辞信",
+      "S&L crisis",
+      "储蓄贷款危机"
+    ]
+  },
+  {
+    "id": "concept:ba4cdb57f8bc918a92fa0fe8",
+    "name": "政治俘获：行业协会如何误导政府",
+    "aliases": [
+      "Political Capture",
+      "行业协会游说",
+      "监管俘获"
+    ]
+  },
+  {
+    "id": "concept:3774df458f5fa9b4ee2eb263",
+    "name": "反托拉斯法的滥用与一价全包产品竞争",
+    "aliases": [
+      "Antitrust Abuse",
+      "微软反托拉斯案",
+      "一价全包产品",
+      "bundling"
+    ]
+  },
+  {
+    "id": "concept:99fd24aa25c9d80dfc919ad4",
+    "name": "浮存金(Float)：保险公司的免费资金",
+    "aliases": [
+      "Float",
+      "保险浮存金",
+      "未付保险负债"
+    ]
+  },
+  {
+    "id": "concept:4a7552fd4f6acccb8f059fb5",
+    "name": "OPM（别人的钱）与零成本杠杆",
+    "aliases": [
+      "OPM",
+      "Other People's Money",
+      "别人的钱",
+      "递延税款杠杆"
+    ]
+  },
+  {
+    "id": "concept:8dda2a43cf06bd7f9c135d92",
+    "name": "复利机器：伟大企业的长期持有",
+    "aliases": [
+      "Compounding Machine",
+      "复利终值",
+      "喜诗糖果案例"
+    ]
+  },
+  {
+    "id": "concept:f310f83eee70a1727801743d",
+    "name": "资本利得税实为交易税与买入持有策略",
+    "aliases": [
+      "资本利得税是交易税",
+      "买入并永久持有",
+      "不卖出不缴税"
+    ]
+  },
+  {
+    "id": "concept:5ac92ba17b6c04c6c20c2c63",
+    "name": "伯克希尔体系(Berkshire System)的要素",
+    "aliases": [
+      "Berkshire System",
+      "伯克希尔管理体系",
+      "去中心化子公司自治"
+    ]
+  },
+  {
+    "id": "concept:f9445ee2c4565677c9e240a6",
+    "name": "伍登效应：集中权力于少数优秀CEO",
+    "aliases": [
+      "Wooden Effect",
+      "约翰·伍登制胜法",
+      "优秀CEO长期掌权"
+    ]
+  },
+  {
+    "id": "concept:c934a1283e8c33973c84086f",
+    "name": "不作为的错误：伯克希尔重大失误多为不买入",
+    "aliases": [
+      "Errors of Omission",
+      "不作为的错误",
+      "错过沃尔玛"
+    ]
+  },
+  {
+    "id": "concept:fdef0937f578741d4e4d4e26",
+    "name": "贝西克兰寓言：金融衍生品即国家赌博的崩溃",
+    "aliases": [
+      "Beciland",
+      "贝西克兰兴衰记",
+      "投机商号系统",
+      "金融衍生品=赌博"
+    ]
+  },
+  {
+    "id": "concept:24262505a3f0ba2defeaf7b0",
+    "name": "脑残国悲剧：高财技骗局与次级贷衍生品",
+    "aliases": [
+      "脑残国",
+      "高财技",
+      "担保债券凭证",
+      "次级贷款",
+      "CDO"
+    ]
+  },
+  {
+    "id": "concept:3c890d1740a4b05e9d62d5a6",
+    "name": "捞灰金被放大造成的宏观经济后果",
+    "aliases": [
+      "Embezzlement",
+      "加尔布雷思",
+      "未败露的捞灰金刺激消费"
+    ]
+  },
+  {
+    "id": "concept:bc85b65274ef540b113034b9",
+    "name": "凯恩斯警告：资本发展沦为赌博副产品",
+    "aliases": [
+      "Keynes",
+      "资本发展是赌博的副产品",
+      "病入膏肓"
+    ]
+  }
+]

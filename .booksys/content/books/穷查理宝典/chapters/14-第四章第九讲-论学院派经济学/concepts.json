@@ -1,0 +1,111 @@
+[
+  {
+    "id": "concept:073cf0862cbde3c827554be9",
+    "name": "宏观经济学过度强调",
+    "aliases": [
+      "over-emphasis on macroeconomics",
+      "太过强调宏观经济学"
+    ]
+  },
+  {
+    "id": "concept:7e59f5ae5c84e5b34a38c7e6",
+    "name": "跨学科综合的缺乏",
+    "aliases": [
+      "too little synthesis",
+      "经济学的综合太少",
+      "缺乏综合教育"
+    ]
+  },
+  {
+    "id": "concept:91a8e84e60e05525170953e5",
+    "name": "心理学的极度无知",
+    "aliases": [
+      "extreme ignorance of psychology",
+      "对心理学的极度无知",
+      "心理学无知"
+    ]
+  },
+  {
+    "id": "concept:c2e9ffda17b74c3f49b66ab5",
+    "name": "二级与更高级别效应",
+    "aliases": [
+      "second-order effects",
+      "higher-order effects",
+      "结果的后果的后果",
+      "二级效应"
+    ]
+  },
+  {
+    "id": "concept:70b29c3521acee85caf78d05",
+    "name": "美德效应",
+    "aliases": [
+      "virtue effect",
+      "经济生活中的美德效应"
+    ]
+  },
+  {
+    "id": "concept:276a3df675c18e0fe0801ee2",
+    "name": "恶行效应",
+    "aliases": [
+      "vice effect",
+      "经济生活中的恶行效应"
+    ]
+  },
+  {
+    "id": "concept:8c714f76740edbe72f61792e",
+    "name": "嵌入性庞氏骗局",
+    "aliases": [
+      "embedded Ponzi scheme",
+      "隐去的第十项缺陷",
+      "微观层面的嵌入性庞氏骗局效应"
+    ]
+  },
+  {
+    "id": "concept:e5e2a9bc5ffd45e28be8515d",
+    "name": "硬科学全归因治学方法",
+    "aliases": [
+      "full attribution method",
+      "全归因治学方法",
+      "硬科学基本的全归因治学方法"
+    ]
+  },
+  {
+    "id": "concept:6ac0884d1e6f8eaa3082df37",
+    "name": "有效市场教条",
+    "aliases": [
+      "efficient market theory",
+      "efficient market dogma",
+      "有效市场理论",
+      "有效市场假说",
+      "Efficient Market Theory"
+    ]
+  },
+  {
+    "id": "concept:cf7927675a83b57b2f8f5424",
+    "name": "激励机制",
+    "aliases": [
+      "incentives",
+      "激励导致的偏见",
+      "激励机制也是一种超级力量"
+    ]
+  },
+  {
+    "id": "concept:60c78bc02a61cf73c2768533",
+    "name": "比较优势",
+    "aliases": [
+      "comparative advantage",
+      "李嘉图的比较优势原理",
+      "相对优势"
+    ]
+  },
+  {
+    "id": "concept:a04a13dd2934ace66a11a47b",
+    "name": "捞黑金",
+    "aliases": [
+      "bezzle",
+      "black embezzlement",
+      "黑金",
+      "尚未败露的贪污"
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "book_id": "book:cccf3ebfea19e8c5efba416d",
+  "title": "穷查理宝典",
+  "chapters": [
+    {
+      "chapter_id": "chapter:72202a11164010a4a01d0d44",
+      "slug": "00-中文版序言-书中自有黄金屋"
+    },
+    {
+      "chapter_id": "chapter:4df6999992c09196fb3c745b",
+      "slug": "01-序言与驳辞-巴菲特论芒格与芒格论巴菲特"
+    },
+    {
+      "chapter_id": "chapter:807d09ca7c10efd3e5c05268",
+      "slug": "02-导读与关于本书"
+    },
+    {
+      "chapter_id": "chapter:a66ed0a0eae4c48ff51269d9",
+      "slug": "03-第一章-查理芒格传略"
+    },
+    {
+      "chapter_id": "chapter:adb459bb6bdf53a3894c1b11",
+      "slug": "04-第二章-芒格的生活学习和决策方法"
+    },
+    {
+      "chapter_id": "chapter:79da3e451f2bce63ddab154a",
+      "slug": "05-第三章-芒格主义-查理的即席谈话"
+    },
+    {
+      "chapter_id": "chapter:2db4314d10b35e8920b4143a",
+      "slug": "06-第四章第一讲-在哈佛学校毕业典礼上的演讲"
+    },
+    {
+      "chapter_id": "chapter:3aaef3d28ccd277357fe9037",
+      "slug": "07-第四章第二讲-论基本的普世的智慧"
+    },
+    {
+      "chapter_id": "chapter:54ba140cb8d28112c5458119",
+      "slug": "08-第四章第三讲-论基本的普世的智慧修正稿"
+    },
+    {
+      "chapter_id": "chapter:842d6ceed9d58ce7f32d5950",
+      "slug": "09-第四章第四讲-关于现实思维的现实思考"
+    },
+    {
+      "chapter_id": "chapter:389300634ca4fd91330551c4",
+      "slug": "10-第四章第五讲-专业人士需要更多的跨学科技能"
+    },
+    {
+      "chapter_id": "chapter:0afd28ea54eb698202dc7ac6",
+      "slug": "11-第四章第六讲-一流慈善基金的投资实践"
+    },
+    {
+      "chapter_id": "chapter:c010159b75a04a4425c60340",
+      "slug": "12-第四章第七讲-在慈善圆桌会议早餐会上的讲话"
+    },
+    {
+      "chapter_id": "chapter:9da00ddb06779edee96b8968",
+      "slug": "13-第四章第八讲-2003年的金融大丑闻"
+    },
+    {
+      "chapter_id": "chapter:94e2c91fcac1d5d1bd66ac74",
+      "slug": "14-第四章第九讲-论学院派经济学"
+    },
+    {
+      "chapter_id": "chapter:2e4ffa3381f89be26159e41e",
+      "slug": "15-第四章第十讲-在南加州大学古尔德法学院毕业典礼上的演讲"
+    },
+    {
+      "chapter_id": "chapter:64b8782d5e625e72015dd01b",
+      "slug": "16-第四章第十一讲-人类误判心理学"
+    },
+    {
+      "chapter_id": "chapter:0a8cbe661552e068834595f2",
+      "slug": "17-第四章尾篇-答问录与查理检查清单"
+    },
+    {
+      "chapter_id": "chapter:0d06f151b7451d06cf1d5983",
+      "slug": "18-第五章-文章报道与评论"
+    },
+    {
+      "chapter_id": "chapter:5e825b13c8a666f29022d7ee",
+      "slug": "19-附录-推荐书目与芒格年谱"
+    }
+  ]
+}

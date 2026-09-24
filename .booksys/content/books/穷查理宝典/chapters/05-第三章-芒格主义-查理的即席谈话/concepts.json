@@ -1,0 +1,162 @@
+[
+  {
+    "id": "concept:cff251cd5f6bf8a4cda21ae2",
+    "name": "浮存金投资模式",
+    "aliases": [
+      "Float",
+      "保险浮存金",
+      "3%借入13%投出"
+    ]
+  },
+  {
+    "id": "concept:dceeea24771baf13ddf2ab49",
+    "name": "大数定理的规模铁锚",
+    "aliases": [
+      "Law of Large Numbers",
+      "规模越大增长越难",
+      "沉重的铁锚"
+    ]
+  },
+  {
+    "id": "concept:f6459571cef932dceda581ad",
+    "name": "集中投资",
+    "aliases": [
+      "Concentration Investing",
+      "只投10家而非400家",
+      "Concentrated Investing",
+      "伯克希尔式长期集中投资",
+      "高度集中持股"
+    ]
+  },
+  {
+    "id": "concept:809275e6b32097e011d147c7",
+    "name": "机会成本",
+    "aliases": [
+      "Opportunity Cost",
+      "以其他选择为决策依据",
+      "反对股本成本说",
+      "机会成本决策法"
+    ]
+  },
+  {
+    "id": "concept:2e1d7f7deec987c4e4ebe35c",
+    "name": "伦勃朗效应与悲惨繁荣",
+    "aliases": [
+      "Rembrandt Effect",
+      "股价因上涨而上涨",
+      "调低收益预期"
+    ]
+  },
+  {
+    "id": "concept:130557e319cdff9beb0f0b7e",
+    "name": "谢皮科效应",
+    "aliases": [
+      "Serpico Effect",
+      "别人都做所以我没错",
+      "腐败常态化",
+      "谢皮科效应与工伤赔偿漏洞"
+    ]
+  },
+  {
+    "id": "concept:b7493511ae52e877ac2da39a",
+    "name": "葡萄干与大便",
+    "aliases": [
+      "Raisins and Shit",
+      "体面活动与可耻活动混淆",
+      "会计拦不住败德管理层"
+    ]
+  },
+  {
+    "id": "concept:e691c560fe9a4fdd1ded1be2",
+    "name": "EBITDA即狗屁利润",
+    "aliases": [
+      "EBITDA",
+      "未计利息税项折旧摊销前利润",
+      "利润伪装"
+    ]
+  },
+  {
+    "id": "concept:dcc652c0fd71e1167036701d",
+    "name": "股票期权无成本谬误",
+    "aliases": [
+      "Stock Option Cost Fallacy",
+      "期权不计入成本",
+      "期权稀释股权"
+    ]
+  },
+  {
+    "id": "concept:6dedade0ddc401e9c3fccdd9",
+    "name": "布莱克-舒尔斯模型对长期期权的误用",
+    "aliases": [
+      "Black-Scholes",
+      "模型只适用短期期权",
+      "一无所知系统"
+    ]
+  },
+  {
+    "id": "concept:f7ef6cf5d26f2c82f83dddfb",
+    "name": "衍生品的长尾风险",
+    "aliases": [
+      "Derivatives Long Tail",
+      "风险多年后才显现",
+      "马克·吐温的猫尾巴"
+    ]
+  },
+  {
+    "id": "concept:dbfcd1d76542c91e400c3c0b",
+    "name": "疯帽匠的茶话会",
+    "aliases": [
+      "Mad Hatter's Tea Party",
+      "对冲导致波动再对冲",
+      "为抹平盈利而说谎"
+    ]
+  },
+  {
+    "id": "concept:bcfd2121c370f069fafdf397",
+    "name": "不自欺",
+    "aliases": [
+      "Intellectual Honesty",
+      "不自欺欺人的精神",
+      "清除旧观念最难",
+      "费曼原则：别欺骗自己",
+      "别欺骗自己",
+      "费曼原则"
+    ]
+  },
+  {
+    "id": "concept:dc31410a7a4f6700a2f9d70a",
+    "name": "致命的无关联性",
+    "aliases": [
+      "Fatal Unconnectedness",
+      "学科各自孤立",
+      "神经研究法"
+    ]
+  },
+  {
+    "id": "concept:00f45b9bf2cf5cec30e00d85",
+    "name": "提防妒忌",
+    "aliases": [
+      "Envy",
+      "关注别人赚钱更快是致命罪行",
+      "无乐趣的罪行"
+    ]
+  },
+  {
+    "id": "concept:626cd9a712298dee966538fe",
+    "name": "说不大师",
+    "aliases": [
+      "Dr. No",
+      "识别风险与说不为",
+      "校准查理的答案"
+    ]
+  },
+  {
+    "id": "concept:97668feed2303197a3caa336",
+    "name": "路易斯·文森狄规则",
+    "aliases": [
+      "Vincenti's Rule",
+      "说真话便无须记住谎言",
+      "诚实经营原则"
+    ]
+  }
+]
