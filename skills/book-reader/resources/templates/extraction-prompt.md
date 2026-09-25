@@ -25,11 +25,11 @@ Write source material to `source.md` and a reader-facing, non-spoiler guide to `
 
 ## Chapter brief (hand this to each extraction subagent)
 
-Give every subagent the layout above, the two templates below, and the self-check. Bind it to one chapter: it reads only that chapter's `source.md`, and writes only that chapter's `guide.md` and `concepts.json`.
+Give every subagent the layout above, the two templates below, and the self-check. Bind it to one chapter: it reads only that chapter's `source.md`, and writes only that chapter's `guide.md` and `concepts.json`. Write the output in the language the user is working in — the templates below are written in Chinese only because that has been this project's working language; the section structure is the contract, the heading text simply follows the output language.
 
 ### `guide.md`
 
-A non-spoiler reading guide: structure, orientation, and questions to carry into the text — never the chapter's conclusions, and never a substitute summary that removes the reason to read the original. Preserve this section structure exactly and replace only the content.
+A non-spoiler reading guide: structure, orientation, and questions to carry into the text — never the chapter's conclusions, and never a substitute summary that removes the reason to read the original. Preserve this section structure exactly and replace only the content. Aim for roughly 600–1200 characters; an appendix or postscript may come in leaner, but never drop a heading.
 
 ```markdown
 # 读前导读（chapter-guide）
@@ -74,7 +74,7 @@ A non-spoiler reading guide: structure, orientation, and questions to carry into
 ]
 ```
 
-Ten to twenty concepts per chapter, taken only from that chapter's `source.md`. A `name` must be a trainable knowledge point a reader could be questioned on, not a chapter title, a book-structure item, or a vague topic word; short beats descriptive. `aliases` carries the English original, the names the text itself uses, and common synonyms; use `[]` when there are none.
+Ten to twenty concepts per chapter, taken only from that chapter's `source.md`. A `name` must be a trainable knowledge point a reader could be questioned on, not a chapter title, a book-structure item, or a vague topic word; short beats descriptive. `aliases` carries the English original, the names the text itself uses, and common synonyms; use `[]` when there are none. Emit the file as a bare array — no wrapper object, no code fence, no comments, no trailing comma. Stay driven by the chapter's own text: never invent material, and flag anything that is your inference rather than the book's own claim with an explicit inline marker (in Chinese output, 「（推断）」).
 
 ## Self-check (required before reporting)
 
@@ -97,4 +97,4 @@ print(len(open(p+r'\guide.md',encoding='utf-8').read()), 'guide chars')
 "
 ```
 
-Report the printed output verbatim. Then, at package level, check that no concept `name` repeats across chapters under the same meaning — that is what convergence removes.
+Report the printed output verbatim, along with the chapter slug, the guide's length, and the concept count — enough for the orchestrator to collect results without ever reading the chapter text. Then, at package level, check that no concept `name` repeats across chapters under the same meaning — that is what convergence removes.
