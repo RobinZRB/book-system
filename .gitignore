@@ -3,9 +3,14 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
+build/
+dist/
 
 # Local runtime state
 .booksys/runtime/
+
+# Per-machine skill root anchor; every checkout writes its own absolute path
+skills/*/_book_system_root.txt
 
 # Local agent/workbench artifacts
 .workbuddy/

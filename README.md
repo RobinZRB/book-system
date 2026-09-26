@@ -31,25 +31,38 @@ Catalog 是书籍内容的权威来源；`events.jsonl` 是学习历史的权威
 
 在项目根目录执行：
 
-```powershell
-python -m pip install .
+```
+python -m pip install .        # Windows
+python3 -m pip install .       # Linux / macOS
 booksys --version
 booksys doctor
 ```
 
 要求 Python 3.11+；`pyproject.toml` 会安装固定依赖 `fsrs==6.3.2`。
 
-如果只想从源码运行：
+如果只想从源码运行、不安装：
 
-```powershell
-.\booksys.bat doctor
+```
+.\booksys.bat doctor                            # Windows
+PYTHONPATH=src python3 -m booksys doctor        # Linux / macOS
 ```
 
 `doctor` 是只读检查。如果提示 catalog 缺失，表示当前项目还没有导入书籍，不是安装失败。
 
+### 安装四个技能
+
+把 `skills/` 下的 `book-user`、`book-coach`、`book-trainer`、`book-reader` 链接到 agent 自己的技能根目录（同一份 bundle，不要复制，这样 `git pull` 后立即生效）。
+
+然后写入**根锚点**：每个技能目录里的 `_book_system_root.txt` 保存**本机** book-system 根目录的绝对路径。
+
+- Linux / macOS 例：`/home/me/CommonAgentSkills/book-system`
+- Windows 例：`D:\CommonAgentSkills\book-system`
+
+这个文件**不进版本库**（已在 `.gitignore` 中），每台机器安装时各写各的，因此跨平台同步时两边都不需要修改。安装 agent 应按当前系统写入正确路径。缺少它时，技能无法把 `book.md` 里的相对引用解析到章节文件。
+
 ## 最短使用路径
 
-```powershell
+```
 booksys books list
 booksys books show <book-id>
 booksys books chapter <book-id> <chapter-id>
@@ -70,7 +83,7 @@ AI 应按这个顺序工作：
 
 以下命令会追加事件：
 
-```powershell
+```
 booksys learn complete <book-id> <chapter-id>
 booksys learn review <concept-id> '<json-payload>'
 ```
@@ -79,7 +92,7 @@ booksys learn review <concept-id> '<json-payload>'
 
 网络重试同一个请求时复用幂等键；有意重读或重新测验时使用新键或省略键：
 
-```powershell
+```
 booksys learn complete <book-id> <chapter-id> --idempotency-key <retry-key>
 ```
 
@@ -100,8 +113,8 @@ my-book/
 
 导入并校验：
 
-```powershell
-booksys packages import D:\prepared-books\my-book
+```
+booksys packages import <prepared-package-dir>
 booksys doctor
 ```
 
@@ -118,8 +131,8 @@ booksys doctor
 
 指定外部书库或学习数据：
 
-```powershell
-booksys --system-root D:\book-library --data-root D:\private-learning learn status
+```
+booksys --system-root <book-library-dir> --data-root <private-learning-dir> learn status
 ```
 
 也可以在 `.booksys/config.json` 中设置 `system_root` 和 `data_root`；命令行参数优先。
@@ -133,9 +146,10 @@ booksys --system-root D:\book-library --data-root D:\private-learning learn stat
 
 ## 验证和 AI 技能
 
-```powershell
+```
 booksys doctor
-python -m unittest discover -s tests -v
+python -m unittest discover -s tests -v        # Windows
+python3 -m unittest discover -s tests -v       # Linux / macOS
 ```
 
 - [book-user](skills/book-user/SKILL.md)：基于书籍框架回答问题。
