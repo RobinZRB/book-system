@@ -118,7 +118,7 @@ booksys packages import <prepared-package-dir>
 booksys doctor
 ```
 
-导入会严格校验并发布到 `.booksys/content/books`。已发布包不可覆盖；修订内容时准备新的包。制作清单见 [book-reader 技能](skills/book-reader/SKILL.md)。
+导入会严格校验并发布到 `.booksys/content/books`。已发布包不可覆盖：同名目录会被直接拒绝，稳定 ID（`book_id` / `chapter_id` / `concept_id`）全库判重，所以换个包名也会因 ID 重复而失败。要修订已发布的包，先删除 `.booksys/content/books/<包名>` 整个目录再重新导入；删前先查 `learn status`——改动概念 ID 会让既有复习记录失联。制作清单见 [book-reader 技能](skills/book-reader/SKILL.md)。
 
 ## 数据位置和配置
 

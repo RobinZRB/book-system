@@ -4,7 +4,7 @@
 
 Python 3.11 or later, with the pinned `fsrs` package installed (`fsrs==6.3.2`). The pin is also recorded on every review event as `scheduler_version`, so a recorded stream states which scheduler produced it.
 
-There is no build or install step. The runtime is invoked from the source tree: `booksys.bat` runs `python -m booksys` with `PYTHONPATH=src`, and every command reads or writes only the two areas below.
+The runtime runs straight from the source tree; there is no build step and installing is optional. On Windows, `booksys.bat` runs `python -m booksys` with `PYTHONPATH=src`; on Linux and macOS, run `PYTHONPATH=src python3 -m booksys`. Installing the package (`pip install .`) is only needed to get the bare `booksys` command. Either way, every command reads or writes only the two areas below.
 
 The runtime has two authoritative areas:
 
