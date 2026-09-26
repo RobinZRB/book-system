@@ -1,4 +1,5 @@
 import json
+import os
 import tempfile
 import unittest
 from pathlib import Path
@@ -35,8 +36,8 @@ class CatalogTests(unittest.TestCase):
             self.assertEqual(list_books(roots)[0]["book_id"], "book:12345678")
             self.assertTrue(select_book(roots, "book:12345678")["package_path"].endswith("demo"))
             located = locate_chapter(roots, "book:12345678", "chapter:12345678")
-            self.assertTrue(located["source_path"].endswith("01-intro\\source.md"))
-            self.assertTrue(located["concepts_path"].endswith("01-intro\\concepts.json"))
+            self.assertTrue(located["source_path"].endswith(os.path.join("01-intro", "source.md")))
+            self.assertTrue(located["concepts_path"].endswith(os.path.join("01-intro", "concepts.json")))
 
     def test_concept_is_located_by_declared_id(self):
         td, _root, roots = self._roots()
