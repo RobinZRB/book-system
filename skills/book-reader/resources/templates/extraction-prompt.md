@@ -29,7 +29,7 @@ Give every subagent the layout above, the two templates below, and the self-chec
 
 ### `guide.md`
 
-A non-spoiler reading guide: structure, orientation, and questions to carry into the text — never the chapter's conclusions, and never a substitute summary that removes the reason to read the original. Preserve this section structure exactly and replace only the content. Aim for roughly 600–1200 characters; an appendix or postscript may come in leaner, but never drop a heading.
+A non-spoiler reading guide: structure, orientation, and questions to carry into the text — never the chapter's conclusions, and never a substitute summary that removes the reason to read the original. Preserve this section structure exactly and replace only the content. Let the length follow the chapter: one with more moving parts earns a longer guide, an appendix or postscript may come in leaner, but never drop a heading and never compress a section to reach a length.
 
 ```markdown
 # 读前导读（chapter-guide）
@@ -43,17 +43,17 @@ A non-spoiler reading guide: structure, orientation, and questions to carry into
 - **适合读者**: <谁最该读、以什么心态读>
 
 ## 本章结构
-1. <小标题或论题，8～15 条；`source.md` 里的 `##` / `###` / `####` 就是原书小标题，据此归纳但不要机械罗列>
+1. <小标题或论题，逐条覆盖 `source.md` 里的 `##` / `###` / `####`；据此归纳但不要机械罗列，条目数由原文结构决定，不设上下限>
 2. ...
 
 ## 读前问题
 
-- <3～6 个能带着读的问题，指向张力与判断，不要提前给出答案>
+- <能带着读的问题，指向张力与判断，不要提前给出答案；数量由本章的张力点决定，不设上下限>
 - ...
 
 ## 阅读检查点
 
-- [ ] <2～4 条读中自查动作>
+- [ ] <读中自查动作，数量按本章需要给，不设上下限>
 - ...
 
 ## 作者框架与衔接
@@ -74,7 +74,7 @@ A non-spoiler reading guide: structure, orientation, and questions to carry into
 ]
 ```
 
-Ten to twenty concepts per chapter, taken only from that chapter's `source.md`. A `name` must be a trainable knowledge point a reader could be questioned on, not a chapter title, a book-structure item, or a vague topic word; short beats descriptive. `aliases` carries the English original, the names the text itself uses, and common synonyms; use `[]` when there are none. Emit the file as a bare array — no wrapper object, no code fence, no comments, no trailing comma. Stay driven by the chapter's own text: never invent material, and flag anything that is your inference rather than the book's own claim with an explicit inline marker (in Chinese output, 「（推断）」).
+Take only from that chapter's `source.md`, and take as many concepts as it actually teaches — the count follows the text, not a quota, so a chapter that enumerates a list keeps every item while a thin appendix may yield only a handful. Never drop an item to fit a number. A `name` must be a trainable knowledge point a reader could be questioned on, not a chapter title, a book-structure item, or a vague topic word; short beats descriptive. `aliases` carries the English original, the names the text itself uses, and common synonyms; use `[]` when there are none. Emit the file as a bare array — no wrapper object, no code fence, no comments, no trailing comma. Stay driven by the chapter's own text: never invent material, and flag anything that is your inference rather than the book's own claim with an explicit inline marker (in Chinese output, 「（推断）」).
 
 ## Self-check (required before reporting)
 
