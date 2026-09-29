@@ -36,15 +36,6 @@
     ]
   },
   {
-    "id": "concept:3f1429596c5527fb1ba1a654",
-    "name": "新股发行",
-    "aliases": [
-      "Initial Public Offering",
-      "IPO",
-      "首次公开发行"
-    ]
-  },
-  {
     "id": "concept:ebdc7a80993d6d9776ea5e78",
     "name": "\"商业性投资\"谬误",
     "aliases": [
@@ -130,7 +121,9 @@
   {
     "id": "concept:2f92d8d9a009e26785c9fece",
     "name": "新股发行(IPO)",
-    "aliases": []
+    "aliases": [
+      "新股发行"
+    ]
   },
   {
     "id": "concept:1598ad3fe06fbd1c88fdbe7b",

@@ -3,35 +3,35 @@
     "id": "concept:950cf755758d9355b814defb",
     "name": "CPO（光电共封装）(Co-Packaged Optics)",
     "aliases": [
-      "共封装光学, 硅光子集成"
+      "共封装光学, 硅光子集成, CPO"
     ]
   },
   {
     "id": "concept:5605ba0668817a628c95e185",
     "name": "七层光通信瓶颈 (Seven-Layer Optical Comms Chokepoint Map)",
     "aliases": [
-      "光通信产业链瓶颈地图"
+      "光通信产业链瓶颈地图, 七层光通信瓶颈"
     ]
   },
   {
     "id": "concept:a7d88332ca4c6c8099cbc13e",
     "name": "InP衬底 (Indium Phosphide Substrate)",
     "aliases": [
-      "磷化铟衬底, AXTI"
+      "磷化铟衬底, AXTI, InP衬底"
     ]
   },
   {
     "id": "concept:1564d05676c2e0f3358b19b0",
     "name": "外部激光源 (External Laser Source)",
     "aliases": [
-      "外置CW激光器, SIVE"
+      "外置CW激光器, SIVE, 外部激光源"
     ]
   },
   {
     "id": "concept:be7e594d722d2056fdbe678b",
     "name": "CW DFB激光器 (Continuous Wave DFB Laser)",
     "aliases": [
-      "连续波分布反馈激光器"
+      "连续波分布反馈激光器, CW DFB激光器"
     ]
   },
   {
@@ -52,19 +52,19 @@
     "id": "concept:197df714fdad24cd0b864257",
     "name": "MBE设备 (Molecular Beam Epitaxy Equipment)",
     "aliases": [
-      "分子束外延设备"
+      "分子束外延设备, MBE设备"
     ]
   },
   {
     "id": "concept:73bc18740ce6fcc49cd3efa4",
     "name": "高纯磷原料 (High-Purity Phosphorus)",
     "aliases": [
-      "6N+磷, 最深瓶颈"
+      "6N+磷, 最深瓶颈, 高纯磷原料"
     ]
   },
   {
     "id": "concept:1b77eb5b7d4c7cbd0cc1aeaa",
-    "name": "同主线不同节点 (Same Thread, Different Nodes)",
+    "name": "同主线不同节点 (Same Thread / Different Nodes)",
     "aliases": [
       "产业链受益顺序布局"
     ]
@@ -73,13 +73,8 @@
     "id": "concept:cc110af017d6490420ad5e4e",
     "name": "出口管制放大器 (Export Control Amplifier)",
     "aliases": [
-      "地缘政治催化剂, 不对称收益"
+      "地缘政治催化剂, 不对称收益, 出口管制放大器"
     ]
-  },
-  {
-    "id": "concept:946a66fc638d0b6773dd7d39",
-    "name": "CPO",
-    "aliases": []
   },
   {
     "id": "concept:f9fe065489571039b0dc02e8",
@@ -87,43 +82,8 @@
     "aliases": []
   },
   {
-    "id": "concept:903a7433510b4ac933eead20",
-    "name": "外部激光源",
-    "aliases": []
-  },
-  {
-    "id": "concept:cc2947bbf5d24e82bb0255d7",
-    "name": "CW DFB激光器",
-    "aliases": []
-  },
-  {
-    "id": "concept:79d7ae6ca08c35ed0f891829",
-    "name": "InP衬底",
-    "aliases": []
-  },
-  {
-    "id": "concept:c017b0995357373da3ac57fb",
-    "name": "MBE设备",
-    "aliases": []
-  },
-  {
-    "id": "concept:133cfbd8676f192df7b04e9d",
-    "name": "高纯磷原料",
-    "aliases": []
-  },
-  {
-    "id": "concept:9cd1d45c0da019177697ffaf",
-    "name": "七层光通信瓶颈",
-    "aliases": []
-  },
-  {
     "id": "concept:4c4e52ade2ef1a5da4d76289",
     "name": "产业链受益顺序",
-    "aliases": []
-  },
-  {
-    "id": "concept:ebba32ec8105c3b9e27b8d3d",
-    "name": "出口管制放大器",
     "aliases": []
   },
   {

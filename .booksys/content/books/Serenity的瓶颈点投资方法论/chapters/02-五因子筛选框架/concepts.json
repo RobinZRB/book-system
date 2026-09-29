@@ -10,42 +10,42 @@
     "id": "concept:e1ce7a332d31b09f54501117",
     "name": "确定需求 (Deterministic Demand)",
     "aliases": [
-      "需求锚定, CapEx验证"
+      "需求锚定, CapEx验证, 确定需求"
     ]
   },
   {
     "id": "concept:c92678a694c2bc3229040342",
     "name": "受限供给 (Constrained Supply)",
     "aliases": [
-      "供给瓶颈, 供给稀缺性"
+      "供给瓶颈, 供给稀缺性, 受限供给"
     ]
   },
   {
     "id": "concept:2447d6ead371a721649167d5",
     "name": "低关注度 (Low Market Attention)",
     "aliases": [
-      "认知滞后, 定价洼地"
+      "认知滞后, 定价洼地, 低关注度"
     ]
   },
   {
     "id": "concept:76a31fd78fd2485a0476621e",
     "name": "价值捕获 (Value Capture)",
     "aliases": [
-      "利润转化, 瓶颈变现"
+      "利润转化, 瓶颈变现, 价值捕获"
     ]
   },
   {
     "id": "concept:e386cda6e99e1598f85ff22d",
     "name": "催化剂 (Catalyst)",
     "aliases": [
-      "价格引擎, 触发事件"
+      "价格引擎, 触发事件, 催化剂"
     ]
   },
   {
     "id": "concept:f4687a32f3d61fc8f2092ed1",
     "name": "乘积关系 (Multiplicative Relationship)",
     "aliases": [
-      "致命缺陷乘法, 五因子乘积"
+      "致命缺陷乘法, 五因子乘积, 乘积关系"
     ]
   },
   {
@@ -82,23 +82,8 @@
     "aliases": []
   },
   {
-    "id": "concept:dee70598fedeab7e5df75fc0",
-    "name": "确定需求",
-    "aliases": []
-  },
-  {
-    "id": "concept:3e79ffefd61f7142b60803e9",
-    "name": "受限供给",
-    "aliases": []
-  },
-  {
     "id": "concept:7af6a3899fefe32dddf83536",
     "name": "\"数全球玩家\"规则",
-    "aliases": []
-  },
-  {
-    "id": "concept:4cd9789e93c712448701af62",
-    "name": "低关注度",
     "aliases": []
   },
   {
@@ -112,11 +97,6 @@
     "aliases": []
   },
   {
-    "id": "concept:82450adb99a13d5dc568660b",
-    "name": "价值捕获",
-    "aliases": []
-  },
-  {
     "id": "concept:6ae39293e537c26359048a89",
     "name": "受益者 (Beneficiary)",
     "aliases": []
@@ -127,18 +107,8 @@
     "aliases": []
   },
   {
-    "id": "concept:82f4703c76a5a4ab83e33dc0",
-    "name": "催化剂",
-    "aliases": []
-  },
-  {
     "id": "concept:a61919b4823218e722690fa2",
     "name": "价格重估",
-    "aliases": []
-  },
-  {
-    "id": "concept:de7cec74b9d0941237851059",
-    "name": "乘积关系",
     "aliases": []
   },
   {

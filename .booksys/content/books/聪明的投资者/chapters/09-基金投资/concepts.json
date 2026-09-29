@@ -5,7 +5,8 @@
     "aliases": [
       "Mutual Fund",
       "Open-end Fund",
-      "开放式基金"
+      "开放式基金",
+      "共同基金"
     ]
   },
   {
@@ -103,13 +104,9 @@
     "name": "ETF（场内交易基金）",
     "aliases": [
       "Exchange-Traded Fund",
-      "交易所交易基金"
+      "交易所交易基金",
+      "ETF"
     ]
-  },
-  {
-    "id": "concept:bce3bc552a0f778c6db1d6b3",
-    "name": "共同基金",
-    "aliases": []
   },
   {
     "id": "concept:2abcb7ddf077f5398d956b06",
@@ -229,11 +226,6 @@
   {
     "id": "concept:b17e5fe72a557312558d2ed8",
     "name": "基金投资",
-    "aliases": []
-  },
-  {
-    "id": "concept:b2156a7dedf9a327b5b20163",
-    "name": "ETF",
     "aliases": []
   },
   {

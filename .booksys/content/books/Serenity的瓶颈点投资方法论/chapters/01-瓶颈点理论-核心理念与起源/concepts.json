@@ -17,14 +17,14 @@
     "id": "concept:668864537f1cca8cb464d323",
     "name": "产业链分层 (Supply Chain Layering)",
     "aliases": [
-      "产业链穿透, 多层拆解"
+      "产业链穿透, 多层拆解, 产业链分层"
     ]
   },
   {
     "id": "concept:a54470458a333165d835c361",
     "name": "市场定价顺序 (Market Pricing Sequence)",
     "aliases": [
-      "定价三波, 认知渗透"
+      "定价三波, 认知渗透, 市场定价顺序"
     ]
   },
   {
@@ -38,21 +38,21 @@
     "id": "concept:5e8596c8f19838da4eaf526c",
     "name": "信息不对称 (Information Asymmetry)",
     "aliases": [
-      "认知差距, 研究套利"
+      "认知差距, 研究套利, 信息不对称"
     ]
   },
   {
     "id": "concept:dde2e7f7e447caf34ec0d34f",
     "name": "非共识正确 (Non-Consensus Correctness)",
     "aliases": [
-      "逆共识, 反向思维"
+      "逆共识, 反向思维, 非共识正确"
     ]
   },
   {
     "id": "concept:db0fbe230c3b1229b44ee932",
     "name": "走窄门 (The Narrow Gate)",
     "aliases": [
-      "反共识投资, 冷门赛道"
+      "反共识投资, 冷门赛道, 走窄门"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "id": "concept:c66be080b2903f7f25173ae5",
     "name": "InP衬底 (Indium Phosphide Substrate)",
     "aliases": [
-      "磷化铟衬底, 三五族半导体衬底"
+      "磷化铟衬底, 三五族半导体衬底, InP衬底"
     ]
   },
   {
@@ -84,38 +84,8 @@
     ]
   },
   {
-    "id": "concept:e93f310cf3e318fd730b4230",
-    "name": "产业链分层",
-    "aliases": []
-  },
-  {
-    "id": "concept:01297fc2791ad7dcffdf1802",
-    "name": "市场定价顺序",
-    "aliases": []
-  },
-  {
-    "id": "concept:a398ac621d32fc15cf17805e",
-    "name": "信息不对称",
-    "aliases": []
-  },
-  {
-    "id": "concept:eb95c7a523227777ae426c49",
-    "name": "非共识正确",
-    "aliases": []
-  },
-  {
     "id": "concept:73ba526e810f2d051be4c261",
     "name": "超额收益",
-    "aliases": []
-  },
-  {
-    "id": "concept:6ac170ff4536773b4d130469",
-    "name": "走窄门",
-    "aliases": []
-  },
-  {
-    "id": "concept:eb00c7e8d6a3a2d26cf0c731",
-    "name": "InP衬底",
     "aliases": []
   },
   {

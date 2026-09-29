@@ -3,42 +3,42 @@
     "id": "concept:0c93bbe698e02203e6c890c5",
     "name": "机构三重困境 (Three Institutional Traps)",
     "aliases": [
-      "大资金诅咒, 机构结构性劣势"
+      "大资金诅咒, 机构结构性劣势, 机构三重困境"
     ]
   },
   {
     "id": "concept:908c055e23b25633508bb2ab",
     "name": "流动性约束（机构版）(Institutional Liquidity Constraint)",
     "aliases": [
-      "规模是业绩的敌人, 小市值禁区"
+      "规模是业绩的敌人, 小市值禁区, 流动性约束（机构）"
     ]
   },
   {
     "id": "concept:ec79f95304327e1d0c376d90",
     "name": "季度考核压力 (Quarterly Performance Pressure)",
     "aliases": [
-      "短期vs长期错配, 职业风险"
+      "短期vs长期错配, 职业风险, 季度考核压力"
     ]
   },
   {
     "id": "concept:3dabfabca223e83e52bde61b",
     "name": "共识依赖（委员会困境）(Consensus Dependency / Committee Trap)",
     "aliases": [
-      "非共识消灭, 迪尔伯特效应"
+      "非共识消灭, 迪尔伯特效应, 共识依赖"
     ]
   },
   {
     "id": "concept:a8152ff193357494121efbeb",
     "name": "散户三重优势 (Three Retail Advantages)",
     "aliases": [
-      "流动性自由/时间自由/决策自由"
+      "流动性自由/时间自由/决策自由, 散户三重优势"
     ]
   },
   {
     "id": "concept:20a7d9be2e6760cff490139d",
     "name": "市场定价四阶段 (Four-Stage Market Pricing)",
     "aliases": [
-      "冷门期→认知扩散→机构建仓→共识期"
+      "冷门期→认知扩散→机构建仓→共识期, 市场定价四阶段"
     ]
   },
   {
@@ -59,30 +59,15 @@
     "id": "concept:44f6c70900d77e6de25f7c3a",
     "name": "Serenity悖论 (The Serenity Paradox)",
     "aliases": [
-      "方法论自我消灭, 影响力反噬"
+      "方法论自我消灭, 影响力反噬, Serenity悖论"
     ]
   },
   {
     "id": "concept:0c4e5db3f1ce797abbccb9f7",
     "name": "散户最佳战场 (Retail's Optimal Battleground)",
     "aliases": [
-      "深度研究+长周期+小市值"
+      "深度研究+长周期+小市值, 散户最佳战场"
     ]
-  },
-  {
-    "id": "concept:d56ebe224f9f0fd0c0ff1a1c",
-    "name": "机构三重困境",
-    "aliases": []
-  },
-  {
-    "id": "concept:9b7d7d72874acaa061ee7318",
-    "name": "散户三重优势",
-    "aliases": []
-  },
-  {
-    "id": "concept:42d2074f8881d3b9190e9493",
-    "name": "流动性约束（机构）",
-    "aliases": []
   },
   {
     "id": "concept:bc5f3d3e05a5e9ed23424b82",
@@ -90,18 +75,8 @@
     "aliases": []
   },
   {
-    "id": "concept:fcf3cb28af4628765f282f70",
-    "name": "季度考核压力",
-    "aliases": []
-  },
-  {
     "id": "concept:b6ed08f2be603d7fc3159cf5",
     "name": "产业认证周期",
-    "aliases": []
-  },
-  {
-    "id": "concept:95d773696f42f738b8a63bfd",
-    "name": "共识依赖",
     "aliases": []
   },
   {
@@ -112,11 +87,6 @@
   {
     "id": "concept:413c8ef3f8f2f7eff1ac2f2f",
     "name": "瓶颈点投资法",
-    "aliases": []
-  },
-  {
-    "id": "concept:ae6b3217343b832405b8d2ea",
-    "name": "市场定价四阶段",
     "aliases": []
   },
   {
@@ -135,18 +105,8 @@
     "aliases": []
   },
   {
-    "id": "concept:de5a2058d1cb2e5a8e0279d1",
-    "name": "Serenity悖论",
-    "aliases": []
-  },
-  {
     "id": "concept:6abe6a490036eac3c2fbd96a",
     "name": "方法论拥挤风险",
-    "aliases": []
-  },
-  {
-    "id": "concept:8a083d9e158f61d1139b23c2",
-    "name": "散户最佳战场",
     "aliases": []
   },
   {

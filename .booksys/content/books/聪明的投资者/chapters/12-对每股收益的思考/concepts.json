@@ -29,7 +29,8 @@
     "aliases": [
       "Special Charges",
       "一次性费用",
-      "非经常性项目"
+      "非经常性项目",
+      "特殊费用"
     ]
   },
   {
@@ -135,11 +136,6 @@
       "Tax Loss Carryback/Carryforward",
       "NOL结转"
     ]
-  },
-  {
-    "id": "concept:b9821c8ff870f65fa9f445dc",
-    "name": "特殊费用",
-    "aliases": []
   },
   {
     "id": "concept:2d20361e68de707930d18936",
