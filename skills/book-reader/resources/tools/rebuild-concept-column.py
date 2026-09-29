@@ -21,6 +21,16 @@ Usage:
 gate a commit. Line endings of ``book.md`` are preserved exactly; only the third
 column of each matched table row is rewritten, so the reference links cannot be
 touched.
+
+A row is recognised as a chapter-map row by the chapter directory its reference
+link points into — not by its first column. Authors label that column freely
+(``导言`` for a front-matter chapter, ``0`` for the same thing elsewhere), so the
+label is read but never used to identify the chapter and never rewritten.
+
+The concept cell is compared as a whole string, so a concept name that itself
+contains a comma still round-trips and ``--check`` stays stable. Such a name is
+reported as a warning anyway: the column has no escaping, so a reader resolving
+the separator will see one more concept than the chapter declares.
 """
 
 from __future__ import annotations
@@ -31,8 +41,28 @@ import re
 import sys
 from pathlib import Path
 
-ROW = re.compile(r"^\|\s*(\d+)\s*\|(.*?)\|(.*?)\|(.*?)\|\s*$")
+ROW = re.compile(r"^\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$")
+LINK_TARGET = re.compile(r"\]\(\s*([^)\s]+)")
+CHAPTER_IN_LINK = re.compile(r"(?:^|/)chapters/([^/\\]+)/")
 CHAPTER_DIR = re.compile(r"^(\d+)-")
+
+
+def chapter_of(label: str, reference: str) -> int | None:
+    """Index of the chapter a table row points at, or None when it is not one.
+
+    The reference link is authoritative: a row for ``00-本书的目的`` is that
+    chapter however its first column happens to be spelled. The first column is
+    only consulted when the link carries no chapter directory at all.
+    """
+    target = LINK_TARGET.search(reference)
+    if target:
+        directory = CHAPTER_IN_LINK.search(target.group(1))
+        if directory:
+            numbered = CHAPTER_DIR.match(directory.group(1))
+            if numbered:
+                return int(numbered.group(1))
+    label = label.strip()
+    return int(label) if label.isdigit() else None
 
 
 def load_columns(package: Path) -> tuple[dict[int, list[str]], list[str]]:
@@ -70,6 +100,11 @@ def load_columns(package: Path) -> tuple[dict[int, list[str]], list[str]]:
                 raise SystemExit(
                     f"chapter {directory.name}: concept name contains '|' and would break the table: {name!r}"
                 )
+            if "," in name:
+                problems.append(
+                    f"chapter {directory.name}: concept name contains ',', so the column will read as "
+                    f"more concepts than the chapter has: {name!r}"
+                )
             names.append(name)
         if index in columns:
             problems.append(f"two chapter directories share index {index}")
@@ -86,7 +121,7 @@ def rebuild(package: Path, columns: dict[int, list[str]], write: bool) -> int:
 
     out: list[str] = []
     changed: list[tuple[int, int, int]] = []
-    skipped: list[int] = []
+    duplicated: list[int] = []
     seen: set[int] = set()
     unmatched: set[int] = set()
     for line in lines:
@@ -96,23 +131,30 @@ def rebuild(package: Path, columns: dict[int, list[str]], write: bool) -> int:
         if not match:
             out.append(line)
             continue
-        index = int(match.group(1))
+        reference = match.group(4)
+        if "](" not in reference:
+            out.append(line)
+            continue
+        index = chapter_of(match.group(1), reference)
+        if index is None:
+            out.append(line)
+            continue
+        if index in seen:
+            duplicated.append(index)
+            out.append(line)
+            continue
         seen.add(index)
         if index not in columns:
             unmatched.add(index)
             out.append(line)
             continue
-        link = match.group(4).strip()
-        if not link.startswith("[") or "](" not in link:
-            skipped.append(index)
-            out.append(line)
-            continue
         names = columns[index]
-        before = [part.strip() for part in match.group(3).split(",") if part.strip()]
-        rebuilt = f"| {index} |{match.group(2)}| {', '.join(names)} |{match.group(4)}|"
+        cell = ", ".join(names)
+        rebuilt = f"|{match.group(1)}|{match.group(2)}| {cell} |{match.group(4)}|"
         out.append(rebuilt + ending)
-        if before != names:
-            changed.append((index, len(before), len(names)))
+        if match.group(3).strip() != cell:
+            tokens = sum(1 for part in match.group(3).split(",") if part.strip())
+            changed.append((index, tokens, len(names)))
 
     if write and changed:
         with open(book_md, "w", encoding="utf-8", newline="") as handle:
@@ -131,10 +173,10 @@ def rebuild(package: Path, columns: dict[int, list[str]], write: bool) -> int:
         print(f"{verb}            {len(changed)}")
     else:
         print("rows rewritten              0  — column already matches concepts.json")
-    for index in sorted(skipped):
-        print(f"warning: row {index} does not look like a chapter-map row; left alone")
+    for index in sorted(duplicated):
+        print(f"warning: chapter {index} appears in more than one table row; later rows left alone")
     for index in sorted(unmatched):
-        print(f"warning: row {index} has no chapter directory; left alone")
+        print(f"warning: row for chapter {index} has no chapter directory; left alone")
     absent = sorted(set(columns) - seen)
     if absent:
         print(f"warning: chapters absent from the table: {absent}")
