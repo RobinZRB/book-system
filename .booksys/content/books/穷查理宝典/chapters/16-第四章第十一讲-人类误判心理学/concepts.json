@@ -1,5 +1,13 @@
 [
   {
+    "id": "concept:d00cdcea8eb802c4b5ab0982",
+    "name": "认知取决于情景",
+    "aliases": [
+      "Cognition Depends on Context",
+      "认知往往取决于情景"
+    ]
+  },
+  {
     "id": "concept:2e62148261a146e4ab88fdce",
     "name": "奖励和惩罚超级反应倾向",
     "aliases": [
@@ -37,15 +45,6 @@
     ]
   },
   {
-    "id": "concept:772173ba9088ef8c4ab163c5",
-    "name": "回馈倾向",
-    "aliases": [
-      "Reciprocation Tendency",
-      "以德报德以牙还牙倾向",
-      "投桃报李倾向"
-    ]
-  },
-  {
     "id": "concept:20c350b9593159fddb8b2616",
     "name": "避免怀疑倾向",
     "aliases": [
@@ -62,6 +61,41 @@
       "抗改变倾向",
       "第一结论偏见",
       "确认偏见"
+    ]
+  },
+  {
+    "id": "concept:5690862963ac680968832443",
+    "name": "好奇心倾向",
+    "aliases": [
+      "Curiosity Tendency"
+    ]
+  },
+  {
+    "id": "concept:8b81625f123c4d9329d37c96",
+    "name": "康德式公平倾向",
+    "aliases": [
+      "Kantian Fairness Tendency",
+      "绝对命令",
+      "黄金法则"
+    ]
+  },
+  {
+    "id": "concept:1cccc9c510a3c8d5edfd4e9f",
+    "name": "艳羡/妒忌倾向",
+    "aliases": [
+      "Envy/Jealousy Tendency",
+      "妒忌倾向",
+      "艳羡倾向",
+      "艳羡/妒忌"
+    ]
+  },
+  {
+    "id": "concept:772173ba9088ef8c4ab163c5",
+    "name": "回馈倾向",
+    "aliases": [
+      "Reciprocation Tendency",
+      "以德报德以牙还牙倾向",
+      "投桃报李倾向"
     ]
   },
   {
@@ -137,6 +171,38 @@
     ]
   },
   {
+    "id": "concept:1cfa2c7eecd7832d437046d4",
+    "name": "错误衡量易得性倾向",
+    "aliases": [
+      "Misjudging by Availability",
+      "Availability-Misweighting Tendency",
+      "易得性错误衡量倾向"
+    ]
+  },
+  {
+    "id": "concept:d4cc9c568fa81e29f331c9ac",
+    "name": "不用就忘倾向",
+    "aliases": [
+      "Use-It-or-Lose-It Tendency"
+    ]
+  },
+  {
+    "id": "concept:ee5080e6683a79330525adc3",
+    "name": "化学物质错误影响倾向",
+    "aliases": [
+      "Drug-Misinfluence Tendency"
+    ]
+  },
+  {
+    "id": "concept:4a3bc17343ede322c48a613d",
+    "name": "衰老—错误影响倾向",
+    "aliases": [
+      "Senescence-Misinfluence Tendency",
+      "衰老——错误影响倾向",
+      "衰老错误影响倾向"
+    ]
+  },
+  {
     "id": "concept:a34ddbc8913e84daf577cf7c",
     "name": "权威—错误影响倾向",
     "aliases": [
@@ -145,12 +211,10 @@
     ]
   },
   {
-    "id": "concept:1cfa2c7eecd7832d437046d4",
-    "name": "错误衡量易得性倾向",
+    "id": "concept:5751fde8cf9a3e404f5fd9c2",
+    "name": "废话倾向",
     "aliases": [
-      "Misjudging by Availability",
-      "Availability-Misweighting Tendency",
-      "易得性错误衡量倾向"
+      "Twaddle Tendency"
     ]
   },
   {
@@ -181,6 +245,15 @@
       "拿着锤子的人看什么都像钉子",
       "Man with a Hammer Tendency",
       "拿锤子的人"
+    ]
+  },
+  {
+    "id": "concept:11f85088e3750e717049de48",
+    "name": "麦道撤离测试",
+    "aliases": [
+      "McDonnell Douglas evacuation test",
+      "麦道飞机乘客撤离测试",
+      "乘客撤离测试"
     ]
   }
 ]
