@@ -64,42 +64,34 @@
   },
   {
     "id": "concept:e3b6f683092343b6c46fc5f6",
-    "name": "中性AI提问",
-    "aliases": []
+    "name": "中性AI提问"
   },
   {
     "id": "concept:17893ff59bf49b69cd133a6c",
-    "name": "单一AI盲点",
-    "aliases": []
+    "name": "单一AI盲点"
   },
   {
     "id": "concept:30f1bdd3376dc3e920dabc1f",
-    "name": "表层→深层逻辑",
-    "aliases": []
+    "name": "表层→深层逻辑"
   },
   {
     "id": "concept:e88a16e86f08412214db66ae",
-    "name": "Step4收集证据 和 Step5估值催化剂",
-    "aliases": []
+    "name": "Step4收集证据 和 Step5估值催化剂"
   },
   {
     "id": "concept:5ced83aa918c9b52df32d50d",
-    "name": "致命缺陷",
-    "aliases": []
+    "name": "致命缺陷"
   },
   {
     "id": "concept:c34b18b7d3568da4f3218036",
-    "name": "一般瑕疵",
-    "aliases": []
+    "name": "一般瑕疵"
   },
   {
     "id": "concept:900facc923218c4a9e6653bb",
-    "name": "公开发布决策",
-    "aliases": []
+    "name": "公开发布决策"
   },
   {
     "id": "concept:f16571ea2f05b78db6572b80",
-    "name": "单模型+魔鬼代言人提示词",
-    "aliases": []
+    "name": "单模型+魔鬼代言人提示词"
   }
 ]

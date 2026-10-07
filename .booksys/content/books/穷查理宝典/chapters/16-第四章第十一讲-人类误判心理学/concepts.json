@@ -138,7 +138,6 @@
     "aliases": [
       "Deprival Superreaction Tendency",
       "被剥夺超级反应",
-      "Deprival-Superreaction Tendency",
       "剥夺性超级反应综合征"
     ]
   },
@@ -197,17 +196,14 @@
     "id": "concept:4a3bc17343ede322c48a613d",
     "name": "衰老—错误影响倾向",
     "aliases": [
-      "Senescence-Misinfluence Tendency",
-      "衰老——错误影响倾向",
-      "衰老错误影响倾向"
+      "Senescence-Misinfluence Tendency"
     ]
   },
   {
     "id": "concept:a34ddbc8913e84daf577cf7c",
     "name": "权威—错误影响倾向",
     "aliases": [
-      "Authority-Misinfluence Tendency",
-      "权威错误影响倾向"
+      "Authority-Misinfluence Tendency"
     ]
   },
   {
@@ -232,8 +228,7 @@
       "Lollapalooza Tendency",
       "多因素叠加极端后果倾向",
       "数种心理倾向共同作用倾向",
-      "Lollapalooza效应",
-      "lollapalooza效应"
+      "Lollapalooza效应"
     ]
   },
   {
@@ -243,7 +238,6 @@
       "Man-with-a-Hammer Tendency",
       "铁锤人综合征",
       "拿着锤子的人看什么都像钉子",
-      "Man with a Hammer Tendency",
       "拿锤子的人"
     ]
   },

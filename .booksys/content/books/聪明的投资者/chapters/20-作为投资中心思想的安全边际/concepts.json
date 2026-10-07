@@ -16,23 +16,6 @@
     ]
   },
   {
-    "id": "concept:f66b7629b3b87fa4cfca271b",
-    "name": "分散化",
-    "aliases": [
-      "Diversification",
-      "分散投资"
-    ]
-  },
-  {
-    "id": "concept:aac4747441335aee5f7cd0f7",
-    "name": "盈利能力",
-    "aliases": [
-      "Earning Power",
-      "利润率",
-      "盈利收益率"
-    ]
-  },
-  {
     "id": "concept:5982aa98a722ae0eed8f718d",
     "name": "传统投资vs非传统投资",
     "aliases": [
@@ -126,132 +109,98 @@
   },
   {
     "id": "concept:05c71236d1ae1c82c28847e3",
-    "name": "投资中心思想",
-    "aliases": []
+    "name": "投资中心思想"
   },
   {
     "id": "concept:43ccd62198425167cd1a1830",
-    "name": "预测必要性",
-    "aliases": []
+    "name": "预测必要性"
   },
   {
     "id": "concept:5bf996dcd4d9643ede9bf0e2",
-    "name": "支付价格",
-    "aliases": []
+    "name": "支付价格"
   },
   {
     "id": "concept:2a8e7ac29b2ecf777f9e3ea4",
-    "name": "安全边际发挥作用",
-    "aliases": []
+    "name": "安全边际发挥作用"
   },
   {
     "id": "concept:c32bc2d58b1e069275d97dcd",
-    "name": "廉价证券安全边际",
-    "aliases": []
+    "name": "廉价证券安全边际"
   },
   {
     "id": "concept:c5c193debc23ce665962a10d",
-    "name": "市场定价过高",
-    "aliases": []
-  },
-  {
-    "id": "concept:75d63c317e7c5053d597c6d4",
-    "name": "廉价证券",
-    "aliases": []
+    "name": "市场定价过高"
   },
   {
     "id": "concept:e89204f99b889e982e94c9dd",
-    "name": "National Presto案例",
-    "aliases": []
+    "name": "National Presto案例"
   },
   {
     "id": "concept:c4b821f80ffb96179d25b359",
-    "name": "普通股安全边际",
-    "aliases": []
+    "name": "普通股安全边际"
   },
   {
     "id": "concept:989f0fdab2cba702941bcbc2",
-    "name": "房地产债券案例",
-    "aliases": []
+    "name": "房地产债券案例"
   },
   {
     "id": "concept:1ed08761cf990ed27b7b5ed5",
-    "name": "价格决定投资性",
-    "aliases": []
+    "name": "价格决定投资性"
   },
   {
     "id": "concept:90595651d718a19904bfbf4c",
-    "name": "传统投资",
-    "aliases": []
+    "name": "传统投资"
   },
   {
     "id": "concept:6347ab4488390d1e51d599ae",
-    "name": "非传统投资",
-    "aliases": []
+    "name": "非传统投资"
   },
   {
     "id": "concept:5db5bd7e96d5060112596971",
-    "name": "安全边际必要性",
-    "aliases": []
+    "name": "安全边际必要性"
   },
   {
     "id": "concept:85cc09b5b528f13de79c2776",
-    "name": "帕斯卡赌注",
-    "aliases": []
+    "name": "帕斯卡赌注"
   },
   {
     "id": "concept:1b9fff1ccf079b314dbfae77",
-    "name": "安全边际逻辑",
-    "aliases": []
+    "name": "安全边际逻辑"
   },
   {
     "id": "concept:ac8637aaf9a2ec4901639e95",
-    "name": "风险双要素",
-    "aliases": []
+    "name": "风险双要素"
   },
   {
     "id": "concept:250637fb0eabebe6c0f92b95",
-    "name": "镜子测试",
-    "aliases": []
-  },
-  {
-    "id": "concept:6937e5d5a8178ef9f0b04197",
-    "name": "过度自信",
-    "aliases": []
+    "name": "镜子测试"
   },
   {
     "id": "concept:b4390bbee9ade2b0471d5be2",
-    "name": "分析失误后果",
-    "aliases": []
+    "name": "分析失误后果"
   },
   {
     "id": "concept:fac2e7a23a4f4c6a0c145d57",
-    "name": "JDS Uniphase案例",
-    "aliases": []
+    "name": "JDS Uniphase案例"
   },
   {
     "id": "concept:2f9be01aaa3e49b7c72b0f08",
-    "name": "不利条件",
-    "aliases": []
+    "name": "不利条件"
   },
   {
     "id": "concept:13aa5e382efcf2c545b9b124",
-    "name": "轮盘赌模型",
-    "aliases": []
+    "name": "轮盘赌模型"
   },
   {
     "id": "concept:e93e22b27588ffaff4d7c694",
-    "name": "安全边际+分散化数学",
-    "aliases": []
+    "name": "安全边际+分散化数学"
   },
   {
     "id": "concept:d4180d7dbc86be69a0120bc3",
-    "name": "\"这也将成为过去\"",
-    "aliases": []
+    "name": "\"这也将成为过去\""
   },
   {
     "id": "concept:e43ad98aa350cfa1ad575c89",
-    "name": "安全边际哲学",
-    "aliases": []
+    "name": "安全边际哲学"
   }
 ]

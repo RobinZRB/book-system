@@ -16,14 +16,6 @@
     ]
   },
   {
-    "id": "concept:b3dfb0c6625183d41e2e1910",
-    "name": "利息保障倍数",
-    "aliases": [
-      "Interest Coverage Ratio",
-      "固定费用保障倍数"
-    ]
-  },
-  {
     "id": "concept:ab43372f908fe952d39322b5",
     "name": "资本化率",
     "aliases": [
@@ -33,27 +25,11 @@
     ]
   },
   {
-    "id": "concept:12dac77e798274997f5638c9",
-    "name": "市盈率",
-    "aliases": [
-      "Price/Earnings Ratio",
-      "P/E",
-      "本益比"
-    ]
-  },
-  {
     "id": "concept:99e9b4158a0d032eff0c2fe7",
     "name": "成长股估价公式",
     "aliases": [
       "Growth Stock Valuation Formula",
       "V=EPS×(8.5+2g)"
-    ]
-  },
-  {
-    "id": "concept:f6bbbff3b9d925a5205f074c",
-    "name": "安全边际",
-    "aliases": [
-      "Margin of Safety"
     ]
   },
   {
@@ -69,7 +45,8 @@
     "name": "所有者收益",
     "aliases": [
       "Owner Earnings",
-      "巴菲特所有者收益"
+      "巴菲特所有者收益",
+      "巴菲特收益概念"
     ]
   },
   {
@@ -94,24 +71,9 @@
     "name": "连环并购者",
     "aliases": [
       "Serial Acquirer",
-      "并购成瘾企业"
-    ]
-  },
-  {
-    "id": "concept:6beeb6a92410d2049d082493",
-    "name": "股票期权",
-    "aliases": [
-      "Stock Options",
-      "员工期权",
-      "期权溢价"
-    ]
-  },
-  {
-    "id": "concept:54171987bf5bdf0a15ddefe5",
-    "name": "股息支付率",
-    "aliases": [
-      "Dividend Payout Ratio",
-      "派息率"
+      "并购成瘾企业",
+      "连环并购",
+      "并购驱动增长"
     ]
   },
   {
@@ -124,62 +86,50 @@
   },
   {
     "id": "concept:d72ad39f038e08a7fc450f9c",
-    "name": "债券安全性",
-    "aliases": []
+    "name": "债券安全性"
   },
   {
     "id": "concept:647f20cccbf957a40c04e8a0",
-    "name": "长期前景",
-    "aliases": []
+    "name": "长期前景"
   },
   {
     "id": "concept:10c41d3c32b4b8d08443d372",
-    "name": "预测误差",
-    "aliases": []
+    "name": "预测误差"
   },
   {
     "id": "concept:1b25d0a7c1c93ff2a8090a6b",
-    "name": "净收益",
-    "aliases": []
+    "name": "净收益"
   },
   {
     "id": "concept:bb925d2c46137e8a000565b5",
-    "name": "企业持续增长",
-    "aliases": []
+    "name": "企业持续增长"
   },
   {
     "id": "concept:14252ce9bdee26bd0a6636a9",
-    "name": "企业脆弱性",
-    "aliases": []
+    "name": "企业脆弱性"
   },
   {
     "id": "concept:fb089a7ce943f40032abe205",
-    "name": "资产冲销",
-    "aliases": []
+    "name": "资产冲销"
   },
   {
     "id": "concept:eae1fb92193e0e4d9262057b",
     "name": "股权稀释",
-    "aliases": []
-  },
-  {
-    "id": "concept:159f7eafac2f69c15d9af036",
-    "name": "股息政策",
-    "aliases": []
+    "aliases": [
+      "Stock Dilution",
+      "股份掺水"
+    ]
   },
   {
     "id": "concept:c858e8fce2bebf8762682d37",
-    "name": "杠杆因素",
-    "aliases": []
+    "name": "杠杆因素"
   },
   {
     "id": "concept:fac74576b5cdf7622a48dc66",
-    "name": "投机收益",
-    "aliases": []
+    "name": "投机收益"
   },
   {
     "id": "concept:ff12294d97c6d097d9104ab6",
-    "name": "技术发展",
-    "aliases": []
+    "name": "技术发展"
   }
 ]

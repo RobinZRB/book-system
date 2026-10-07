@@ -8,38 +8,12 @@
     ]
   },
   {
-    "id": "concept:7ffb2e5b0b116f58b716ab1f",
-    "name": "市盈率",
-    "aliases": [
-      "P/E Ratio",
-      "Price-Earnings Ratio",
-      "PE倍数"
-    ]
-  },
-  {
-    "id": "concept:96d183813312fc6711e46418",
-    "name": "账面价值",
-    "aliases": [
-      "Book Value",
-      "每股净资产",
-      "有形资产价值"
-    ]
-  },
-  {
     "id": "concept:354e316a2fc06d0a4d289229",
     "name": "市净率",
     "aliases": [
       "Price-to-Book Ratio",
       "P/B",
       "股价与账面值之比"
-    ]
-  },
-  {
-    "id": "concept:b64c2365787d42d1e7123a63",
-    "name": "商誉",
-    "aliases": [
-      "Goodwill",
-      "无形资产溢价"
     ]
   },
   {
@@ -75,27 +49,11 @@
     ]
   },
   {
-    "id": "concept:e67cd11fbc094e8bd4674685",
-    "name": "认股权证",
-    "aliases": [
-      "Warrants",
-      "权证"
-    ]
-  },
-  {
     "id": "concept:e9899c654225d3a787e9dc28",
     "name": "股票精神价值",
     "aliases": [
       "Affect Heuristic",
       "情感启发式定价"
-    ]
-  },
-  {
-    "id": "concept:5a58f2cf2b8f662432a348e2",
-    "name": "连环并购者",
-    "aliases": [
-      "Serial Acquirer",
-      "并购驱动增长"
     ]
   },
   {
@@ -126,72 +84,34 @@
   },
   {
     "id": "concept:f292dec8f36aec37527ded62",
-    "name": "估值差异识别",
-    "aliases": []
+    "name": "估值差异识别"
   },
   {
     "id": "concept:cb9e693467d5dca6ad57aa0b",
-    "name": "估值差异",
-    "aliases": []
-  },
-  {
-    "id": "concept:f53a0f158fc647b967f5c144",
-    "name": "盈利能力",
-    "aliases": []
-  },
-  {
-    "id": "concept:4c3562d34ea5103cbe56e396",
-    "name": "高市盈率",
-    "aliases": []
-  },
-  {
-    "id": "concept:be8f22cced7258f6ea5cba7e",
-    "name": "持续高增长",
-    "aliases": []
+    "name": "估值差异"
   },
   {
     "id": "concept:540c78cb173bc9dd63616419",
-    "name": "高市净率",
-    "aliases": []
+    "name": "高市净率"
   },
   {
     "id": "concept:30d638093d4b6f79201d590c",
-    "name": "真实估值",
-    "aliases": []
+    "name": "真实估值"
   },
   {
     "id": "concept:a1a9f28fd6373be5ad06cd20",
-    "name": "投机性泡沫",
-    "aliases": []
+    "name": "投机性泡沫"
   },
   {
     "id": "concept:1b70f6ea334e4450cc0dbdf5",
-    "name": "价格崩溃",
-    "aliases": []
-  },
-  {
-    "id": "concept:90a23e681e96e4f78a492c81",
-    "name": "价值投资",
-    "aliases": []
+    "name": "价格崩溃"
   },
   {
     "id": "concept:dec5fe02c46ba369c9b86f98",
-    "name": "并购驱动增长",
-    "aliases": []
-  },
-  {
-    "id": "concept:8a39fa7f8460437a6853bf75",
-    "name": "低市盈率",
-    "aliases": []
-  },
-  {
-    "id": "concept:b1140f00134b3df21e38c633",
-    "name": "分散化",
-    "aliases": []
+    "name": "并购驱动增长"
   },
   {
     "id": "concept:ff89539ed2b85f53a6072b1a",
-    "name": "个股风险",
-    "aliases": []
+    "name": "个股风险"
   }
 ]

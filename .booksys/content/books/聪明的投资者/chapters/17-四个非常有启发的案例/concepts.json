@@ -4,7 +4,8 @@
     "name": "利息保障倍数",
     "aliases": [
       "Interest Coverage Ratio",
-      "固定费用保障倍数"
+      "固定费用保障倍数",
+      "利息覆盖倍数"
     ]
   },
   {
@@ -16,18 +17,11 @@
     ]
   },
   {
-    "id": "concept:93794c39ab1483ddac6a0151",
-    "name": "连环并购者",
-    "aliases": [
-      "Serial Acquirer",
-      "连环并购"
-    ]
-  },
-  {
     "id": "concept:be334067b68be3af703f4664",
     "name": "商誉",
     "aliases": [
-      "Goodwill"
+      "Goodwill",
+      "无形资产溢价"
     ]
   },
   {
@@ -70,25 +64,10 @@
     ]
   },
   {
-    "id": "concept:3d2ee6e2eeccf44d460c0597",
-    "name": "认股权证",
-    "aliases": [
-      "Warrant"
-    ]
-  },
-  {
     "id": "concept:e8375156b84665f2be136623",
     "name": "债券折价资产",
     "aliases": [
       "Bond Discount Asset"
-    ]
-  },
-  {
-    "id": "concept:c9e222b0d534e71702999ffa",
-    "name": "市盈率",
-    "aliases": [
-      "P/E Ratio",
-      "Price-Earnings Ratio"
     ]
   },
   {
@@ -100,47 +79,38 @@
   },
   {
     "id": "concept:eb6423d376df6d1d24821df5",
-    "name": "财务安全评估",
-    "aliases": []
+    "name": "财务安全评估"
   },
   {
     "id": "concept:c3c8f4eb7918ab3b6e8bdeee",
-    "name": "运营效率评估",
-    "aliases": []
+    "name": "运营效率评估"
   },
   {
     "id": "concept:6cafaa8d7a6f51d16731fe1c",
-    "name": "债务危机",
-    "aliases": []
+    "name": "债务危机"
   },
   {
     "id": "concept:60f9fa5ce25c56a35b849c5b",
-    "name": "利润真实性",
-    "aliases": []
+    "name": "利润真实性"
   },
   {
     "id": "concept:385a7f522a090c61eb1358be",
-    "name": "并购溢价",
-    "aliases": []
+    "name": "并购溢价"
   },
   {
     "id": "concept:bfab3055ded860da354cad34",
-    "name": "信用风险",
-    "aliases": []
+    "name": "信用风险"
   },
   {
     "id": "concept:f9489e6213c0f9ead642092a",
-    "name": "市场估值判断",
-    "aliases": []
+    "name": "市场估值判断"
   },
   {
     "id": "concept:01e9bd20113ade30c9fa035a",
-    "name": "投资者贪婪",
-    "aliases": []
+    "name": "投资者贪婪"
   },
   {
     "id": "concept:a4e47d832ba2616404f5f4ea",
-    "name": "市场非理性定价",
-    "aliases": []
+    "name": "市场非理性定价"
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "id": "concept:0cdf2a6942e877e41d6b469a",
-    "name": "防御型投资者",
-    "aliases": [
-      "Defensive Investor",
-      "Passive Investor",
-      "被动型投资者"
-    ]
-  },
-  {
     "id": "concept:71c2413c46140bbb410fff19",
     "name": "七大选择标准",
     "aliases": [
@@ -54,7 +45,12 @@
     "aliases": [
       "P/E Ratio",
       "Price-to-Earnings Ratio",
-      "本益比"
+      "本益比",
+      "利润乘数",
+      "Price-Earnings Ratio",
+      "P/E",
+      "价格收益比",
+      "PE倍数"
     ]
   },
   {
@@ -102,22 +98,6 @@
     ]
   },
   {
-    "id": "concept:3d3fcf2bbabca679eade3817",
-    "name": "分散化",
-    "aliases": [
-      "Diversification",
-      "多元化投资"
-    ]
-  },
-  {
-    "id": "concept:b9f4874401ad9d262d991d78",
-    "name": "指数基金",
-    "aliases": [
-      "Index Fund",
-      "市场指数基金"
-    ]
-  },
-  {
     "id": "concept:60ff1690bb81177aa80edeac",
     "name": "有效市场假说",
     "aliases": [
@@ -127,27 +107,14 @@
   },
   {
     "id": "concept:f0617b0da1b01d261393ffde",
-    "name": "高价买入风险",
-    "aliases": []
+    "name": "高价买入风险"
   },
   {
     "id": "concept:db01af62733fc4f92dcec3d1",
-    "name": "个股选择风险",
-    "aliases": []
+    "name": "个股选择风险"
   },
   {
     "id": "concept:3dc1e1e4af6d0a132bbb0c1b",
-    "name": "个股精选",
-    "aliases": []
-  },
-  {
-    "id": "concept:0a69a9d3b1a9fd8faf2e6c94",
-    "name": "财务稳健性",
-    "aliases": []
-  },
-  {
-    "id": "concept:bc5c32099a92269ca27fafc0",
-    "name": "安全边际",
-    "aliases": []
+    "name": "个股精选"
   }
 ]

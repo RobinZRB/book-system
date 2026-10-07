@@ -64,62 +64,50 @@
   },
   {
     "id": "concept:ce80f2d021ba71da4f3dfea2",
-    "name": "弱证据/中等证据/强证据",
-    "aliases": []
+    "name": "弱证据/中等证据/强证据"
   },
   {
     "id": "concept:055f6444743a290c135081eb",
-    "name": "研究起点",
-    "aliases": []
+    "name": "研究起点"
   },
   {
     "id": "concept:17a56fc385cc143dd4f4d46b",
-    "name": "方向可能性",
-    "aliases": []
+    "name": "方向可能性"
   },
   {
     "id": "concept:85c1ac1a6d278ecbb0127de4",
-    "name": "决策权限",
-    "aliases": []
+    "name": "决策权限"
   },
   {
     "id": "concept:61a5ae9f60c1e89cfe08dd03",
-    "name": "接近强证据的确信度",
-    "aliases": []
+    "name": "接近强证据的确信度"
   },
   {
     "id": "concept:2db1921d3c054419b424f54a",
-    "name": "信息不对称护城河",
-    "aliases": []
+    "name": "信息不对称护城河"
   },
   {
     "id": "concept:dfa9133723eb4b2260e1069f",
-    "name": "强证据确认",
-    "aliases": []
+    "name": "强证据确认"
   },
   {
     "id": "concept:6e6db59fbc9b0c2c25d42a0d",
-    "name": "确认偏误",
-    "aliases": []
+    "name": "确认偏误"
   },
   {
     "id": "concept:bc29df06ac75d88f16d38199",
-    "name": "探索模式",
-    "aliases": []
+    "name": "探索模式"
   },
   {
     "id": "concept:8e86347bcbf49de31e600be0",
-    "name": "弱证据和中等证据",
-    "aliases": []
+    "name": "弱证据和中等证据"
   },
   {
     "id": "concept:837dfc4d7ecfa3acc7f8cc0e",
-    "name": "验证模式",
-    "aliases": []
+    "name": "验证模式"
   },
   {
     "id": "concept:28ce573b7e41aeeafce3012a",
-    "name": "RPI需求预测",
-    "aliases": []
+    "name": "RPI需求预测"
   }
 ]

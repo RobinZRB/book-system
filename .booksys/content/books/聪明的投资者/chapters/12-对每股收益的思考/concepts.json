@@ -34,14 +34,6 @@
     ]
   },
   {
-    "id": "concept:f11f01fdc690050fba295426",
-    "name": "股权稀释",
-    "aliases": [
-      "Stock Dilution",
-      "股份掺水"
-    ]
-  },
-  {
     "id": "concept:fd7236e0a3f81f85d1bfddfb",
     "name": "直线折旧法",
     "aliases": [
@@ -139,67 +131,46 @@
   },
   {
     "id": "concept:2d20361e68de707930d18936",
-    "name": "折旧方法",
-    "aliases": []
+    "name": "折旧方法"
   },
   {
     "id": "concept:c565bada2ee1595a7f7b087d",
-    "name": "存货计价方法",
-    "aliases": []
+    "name": "存货计价方法"
   },
   {
     "id": "concept:bb5d9752ac09a68e56ce76ce",
-    "name": "商业周期波动",
-    "aliases": []
+    "name": "商业周期波动"
   },
   {
     "id": "concept:26bce36bc1158a64adbb4343",
-    "name": "高市盈率维持",
-    "aliases": []
+    "name": "高市盈率维持"
   },
   {
     "id": "concept:4a35112a2e32aa5bfaef49df",
-    "name": "两步分析法",
-    "aliases": []
+    "name": "两步分析法"
   },
   {
     "id": "concept:a6f0f2e9989ab076307f444d",
-    "name": "企业真实盈利能力",
-    "aliases": []
+    "name": "企业真实盈利能力"
   },
   {
     "id": "concept:f2e56973b90dc010a5fa27bb",
-    "name": "销售收入",
-    "aliases": []
+    "name": "销售收入"
   },
   {
     "id": "concept:f500696fafe9ef347cb807b7",
-    "name": "净利润",
-    "aliases": []
-  },
-  {
-    "id": "concept:e6af0a057d4f65f56bf01334",
-    "name": "可转换证券",
-    "aliases": []
-  },
-  {
-    "id": "concept:3388a1df0a6d4ce8868b6733",
-    "name": "连环并购者",
-    "aliases": []
+    "name": "净利润"
   },
   {
     "id": "concept:ef99f01dde1ad716c9b16dd8",
-    "name": "管理层激励",
-    "aliases": []
+    "name": "管理层激励"
   },
   {
     "id": "concept:7f54454022413f0639186d5f",
-    "name": "会计操纵",
-    "aliases": []
+    "name": "会计操纵"
   },
   {
     "id": "concept:b7846e5ec6aaceb87ad1f22b",
-    "name": "投资者勤勉",
-    "aliases": []
+    "name": "投资者勤勉"
   }
 ]

@@ -21,24 +21,10 @@
     ]
   },
   {
-    "id": "concept:d5611ed6d11198a672e3255e",
-    "name": "CPO（光电共封装）(Co-Packaged Optics)",
-    "aliases": [
-      "共封装光学, 硅光子集成, CPO"
-    ]
-  },
-  {
     "id": "concept:3adb530afacbd075e6f65fbe",
     "name": "逐层穿透 (Layer-by-Layer Penetration)",
     "aliases": [
       "六层拆解, 层层追问, 逐层穿透"
-    ]
-  },
-  {
-    "id": "concept:4cd5b8a812d7b932a9370761",
-    "name": "InP衬底 (Indium Phosphide Substrate)",
-    "aliases": [
-      "磷化铟衬底, III-V族半导体, InP衬底"
     ]
   },
   {
@@ -71,47 +57,38 @@
   },
   {
     "id": "concept:8ffd7bae81e24bdb603f4d45",
-    "name": "架构迁移方向",
-    "aliases": []
+    "name": "架构迁移方向"
   },
   {
     "id": "concept:c33da4b7cda0bc3fdb9d0d30",
-    "name": "CPO需求",
-    "aliases": []
+    "name": "CPO需求"
   },
   {
     "id": "concept:ef51f5db4678733613c50c70",
-    "name": "外部激光源",
-    "aliases": []
+    "name": "外部激光源"
   },
   {
     "id": "concept:f7f76d18ae11d7757b3ef248",
-    "name": "高纯磷原料",
-    "aliases": []
+    "name": "高纯磷原料"
   },
   {
     "id": "concept:d8e3a9b0c5aa59a5548439fd",
-    "name": "供给弹性",
-    "aliases": []
+    "name": "供给弹性"
   },
   {
     "id": "concept:8935165ca5e7e0e4380d4b13",
-    "name": "逐层穿透结果",
-    "aliases": []
+    "name": "逐层穿透结果"
   },
   {
     "id": "concept:d6a78b5fa6ac8ac7c9293e26",
-    "name": "扰动快速映射",
-    "aliases": []
+    "name": "扰动快速映射"
   },
   {
     "id": "concept:62e0e8b031e9134064d960dd",
-    "name": "逆向拆解",
-    "aliases": []
+    "name": "逆向拆解"
   },
   {
     "id": "concept:a5e6a815476a48e8177be19d",
-    "name": "跨赛道分析",
-    "aliases": []
+    "name": "跨赛道分析"
   }
 ]

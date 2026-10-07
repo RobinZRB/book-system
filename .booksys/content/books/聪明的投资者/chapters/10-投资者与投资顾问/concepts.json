@@ -13,7 +13,8 @@
     "aliases": [
       "Formula Investment",
       "程式化投资",
-      "保守投资"
+      "保守投资",
+      "Formula Investing"
     ]
   },
   {
@@ -140,107 +141,86 @@
   },
   {
     "id": "concept:b092f5863b79e3d0ab896a88",
-    "name": "投资失误",
-    "aliases": []
+    "name": "投资失误"
   },
   {
     "id": "concept:84796532050368e78ba706d0",
-    "name": "超额回报承诺者",
-    "aliases": []
+    "name": "超额回报承诺者"
   },
   {
     "id": "concept:6943c1331380070aadb385ed",
-    "name": "保守稳健",
-    "aliases": []
+    "name": "保守稳健"
   },
   {
     "id": "concept:7f7361d5f4a34d94bfdde465",
-    "name": "经济信息",
-    "aliases": []
+    "name": "经济信息"
   },
   {
     "id": "concept:2a0d445dc89fbdcbd0ddbc3c",
     "name": "市场预测",
-    "aliases": []
+    "aliases": [
+      "Market Forecasting",
+      "股市预测"
+    ]
   },
   {
     "id": "concept:c38329b32fcf1f9d55ff42ea",
-    "name": "肤浅原则",
-    "aliases": []
+    "name": "肤浅原则"
   },
   {
     "id": "concept:b0f3575730b5a8b32295f9b8",
-    "name": "投机性思维",
-    "aliases": []
+    "name": "投机性思维"
   },
   {
     "id": "concept:eb89f2228989a5944c75b19f",
-    "name": "投资者态度",
-    "aliases": []
+    "name": "投资者态度"
   },
   {
     "id": "concept:931005276950e6447c685666",
-    "name": "市场分析师情绪",
-    "aliases": []
+    "name": "市场分析师情绪"
   },
   {
     "id": "concept:2cfdcbebfb04b6f7f2b901f0",
-    "name": "金融分析师职业",
-    "aliases": []
+    "name": "金融分析师职业"
   },
   {
     "id": "concept:84bb4128e292eb7243ec83bb",
-    "name": "顾问与推销员",
-    "aliases": []
+    "name": "顾问与推销员"
   },
   {
     "id": "concept:08fbad449f5619984c644aba",
-    "name": "客户资产安全",
-    "aliases": []
+    "name": "客户资产安全"
   },
   {
     "id": "concept:088c88f6fe106237550396eb",
-    "name": "防御型-顾问关系",
-    "aliases": []
+    "name": "防御型-顾问关系"
   },
   {
     "id": "concept:14a4f7d8566b6d28b976fac3",
-    "name": "程式化建议",
-    "aliases": []
-  },
-  {
-    "id": "concept:333f763a7b6aefe3b20e4ae9",
-    "name": "积极型投资者",
-    "aliases": []
+    "name": "程式化建议"
   },
   {
     "id": "concept:95d1c2d3062fe894e226afd7",
-    "name": "独立判断能力",
-    "aliases": []
+    "name": "独立判断能力"
   },
   {
     "id": "concept:f967397cb2d856fb74208d57",
-    "name": "信任+验证原则",
-    "aliases": []
+    "name": "信任+验证原则"
   },
   {
     "id": "concept:c66be60292b94334c1d36f1b",
-    "name": "不合格顾问",
-    "aliases": []
+    "name": "不合格顾问"
   },
   {
     "id": "concept:64c07db667ad5a510ac6fbe3",
-    "name": "投资欺诈",
-    "aliases": []
+    "name": "投资欺诈"
   },
   {
     "id": "concept:b0f087c6924827d214772e37",
-    "name": "三项基础文件",
-    "aliases": []
+    "name": "三项基础文件"
   },
   {
     "id": "concept:f6a3876d5fd841116f1e686f",
-    "name": "伪分散化",
-    "aliases": []
+    "name": "伪分散化"
   }
 ]

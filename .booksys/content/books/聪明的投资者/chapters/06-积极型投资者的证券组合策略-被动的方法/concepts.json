@@ -5,7 +5,8 @@
     "aliases": [
       "Aggressive Investor",
       "Enterprising Investor",
-      "进取型投资者"
+      "进取型投资者",
+      "Active Investor"
     ]
   },
   {
@@ -17,14 +18,6 @@
       "低等级债券",
       "垃圾债券",
       "高收益债券"
-    ]
-  },
-  {
-    "id": "concept:b972bf8c9bfc5b275e932a07",
-    "name": "利息保障倍数",
-    "aliases": [
-      "Interest Coverage Ratio",
-      "利息覆盖倍数"
     ]
   },
   {
@@ -110,13 +103,11 @@
   },
   {
     "id": "concept:78cee3e6a598ac3be3d75085",
-    "name": "防御型投资者基础策略",
-    "aliases": []
+    "name": "防御型投资者基础策略"
   },
   {
     "id": "concept:5952f5ce0638371e297cedee",
-    "name": "二级债券(票面价)",
-    "aliases": []
+    "name": "二级债券(票面价)"
   },
   {
     "id": "concept:2f92d8d9a009e26785c9fece",
@@ -127,112 +118,86 @@
   },
   {
     "id": "concept:1598ad3fe06fbd1c88fdbe7b",
-    "name": "二级债券风险等级",
-    "aliases": []
+    "name": "二级债券风险等级"
   },
   {
     "id": "concept:94e564526ea83165020e395e",
-    "name": "高等级折价债券",
-    "aliases": []
+    "name": "高等级折价债券"
   },
   {
     "id": "concept:972ce8f8a4176e1b0dff3b23",
-    "name": "本金永久性损失",
-    "aliases": []
+    "name": "本金永久性损失"
   },
   {
     "id": "concept:e76da044e629c64f7c272a4e",
-    "name": "价格与基本面脱钩",
-    "aliases": []
+    "name": "价格与基本面脱钩"
   },
   {
     "id": "concept:8827f5c716840b10c085e225",
-    "name": "买方劣势",
-    "aliases": []
+    "name": "买方劣势"
   },
   {
     "id": "concept:50a0e59e7cd9d51ae86148ac",
-    "name": "牛市周期律",
-    "aliases": []
+    "name": "牛市周期律"
   },
   {
     "id": "concept:0e6d436fa6b6ebb98027fe32",
-    "name": "主权违约风险",
-    "aliases": []
+    "name": "主权违约风险"
   },
   {
     "id": "concept:0d8973fad06ac659a259709b",
-    "name": "二级债券分散化难题",
-    "aliases": []
+    "name": "二级债券分散化难题"
   },
   {
     "id": "concept:e8aa9b2d843e0c221ec02e80",
-    "name": "直接持有二级债券",
-    "aliases": []
+    "name": "直接持有二级债券"
   },
   {
     "id": "concept:2d201ec0229201e40876f54b",
-    "name": "世界通信破产",
-    "aliases": []
+    "name": "世界通信破产"
   },
   {
     "id": "concept:92268e4937453b4a24518cbc",
-    "name": "二级债券风险警示",
-    "aliases": []
+    "name": "二级债券风险警示"
   },
   {
     "id": "concept:f2220929bb954e0c8e38afd4",
-    "name": "收益系统性流失",
-    "aliases": []
+    "name": "收益系统性流失"
   },
   {
     "id": "concept:c6416e1d726a4fb0452ede4c",
-    "name": "短线交易成本",
-    "aliases": []
+    "name": "短线交易成本"
   },
   {
     "id": "concept:4b544011beb1d1a21dd617ac",
-    "name": "交易频率与收益负相关",
-    "aliases": []
+    "name": "交易频率与收益负相关"
   },
   {
     "id": "concept:e22209707403851d1c21409d",
-    "name": "短线交易者",
-    "aliases": []
+    "name": "短线交易者"
   },
   {
     "id": "concept:7f957c1d799207839776272e",
-    "name": "市值与内在价值脱节",
-    "aliases": []
+    "name": "市值与内在价值脱节"
   },
   {
     "id": "concept:3601722938afcb65a8f941a9",
-    "name": "非同步性分散",
-    "aliases": []
+    "name": "非同步性分散"
   },
   {
     "id": "concept:8b06a1cc06f21532c5100c23",
-    "name": "外国政府债券(传统)",
-    "aliases": []
+    "name": "外国政府债券(传统)"
   },
   {
     "id": "concept:d63a13efa8ddfdbb1d89143d",
-    "name": "积极型投资者策略",
-    "aliases": []
+    "name": "积极型投资者策略"
   },
   {
     "id": "concept:eda28f363f6b6b933429fb5d",
-    "name": "积极型投资者主动方法",
-    "aliases": []
+    "name": "积极型投资者主动方法"
   },
   {
     "id": "concept:79391cf3ed23622127091009",
-    "name": "Ch17案例",
-    "aliases": []
-  },
-  {
-    "id": "concept:e201a638325de2c59a0c419a",
-    "name": "安全边际",
-    "aliases": []
+    "name": "Ch17案例"
   }
 ]

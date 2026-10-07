@@ -63,13 +63,6 @@
     ]
   },
   {
-    "id": "concept:c66be080b2903f7f25173ae5",
-    "name": "InP衬底 (Indium Phosphide Substrate)",
-    "aliases": [
-      "磷化铟衬底, 三五族半导体衬底, InP衬底"
-    ]
-  },
-  {
     "id": "concept:d7c3ed0aff05ee12b5a9b638",
     "name": "小型垄断企业",
     "aliases": [
@@ -85,22 +78,18 @@
   },
   {
     "id": "concept:73ba526e810f2d051be4c261",
-    "name": "超额收益",
-    "aliases": []
+    "name": "超额收益"
   },
   {
     "id": "concept:1eda40e300836b9a8387d90e",
-    "name": "AI光通信",
-    "aliases": []
+    "name": "AI光通信"
   },
   {
     "id": "concept:932ab0ec9f305ec214c888be",
-    "name": "瓶颈点理论",
-    "aliases": []
+    "name": "瓶颈点理论"
   },
   {
     "id": "concept:a18a5482fb3da712697e96e6",
-    "name": "深度研究能力",
-    "aliases": []
+    "name": "深度研究能力"
   }
 ]

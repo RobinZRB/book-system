@@ -3,7 +3,13 @@
     "id": "concept:edbc51d5ef64dcaa04ac5e90",
     "name": "防御型投资者",
     "aliases": [
-      "Defensive Investor, 被动投资者, 保守型投资者"
+      "Defensive Investor, 被动投资者, 保守型投资者",
+      "Defensive Investor",
+      "被动型投资者",
+      "消极型投资者",
+      "被动投资者",
+      "保守型投资者",
+      "Passive Investor"
     ]
   },
   {
@@ -99,47 +105,39 @@
   },
   {
     "id": "concept:102aecabcd65ad7ce5fc4ef7",
-    "name": "市场情绪",
-    "aliases": []
+    "name": "市场情绪"
   },
   {
     "id": "concept:aae900dd4ef06f6f63a23357",
-    "name": "长期债券投资者",
-    "aliases": []
+    "name": "长期债券投资者"
   },
   {
     "id": "concept:6b67a7c420acf80d26d0cc11",
-    "name": "债券",
-    "aliases": []
+    "name": "债券"
   },
   {
     "id": "concept:477cb4bebc917335a82df533",
     "name": "普通股",
-    "aliases": []
+    "aliases": [
+      "Common Stock",
+      "股权资产",
+      "股票"
+    ]
   },
   {
     "id": "concept:873a420777bed320e48c6c69",
-    "name": "年龄",
-    "aliases": []
+    "name": "年龄"
   },
   {
     "id": "concept:2bec8d72e1f0e43181700abd",
-    "name": "单个债券",
-    "aliases": []
+    "name": "单个债券"
   },
   {
     "id": "concept:9bfd3a7e868b3d4103d8cf2c",
-    "name": "每6个月",
-    "aliases": []
+    "name": "每6个月"
   },
   {
     "id": "concept:1e85de1197f27928f063dbbe",
-    "name": "高收益债券",
-    "aliases": []
-  },
-  {
-    "id": "concept:c39debe42db712a05a44c172",
-    "name": "安全边际",
-    "aliases": []
+    "name": "高收益债券"
   }
 ]

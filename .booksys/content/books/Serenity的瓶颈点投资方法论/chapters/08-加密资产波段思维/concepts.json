@@ -71,72 +71,58 @@
   },
   {
     "id": "concept:5a815b1beae45eb8b98da607",
-    "name": "确定需求（加密版）",
-    "aliases": []
+    "name": "确定需求（加密版）"
   },
   {
     "id": "concept:98be62b6ff0fe0bfea60a8ae",
-    "name": "受限供给（加密版）",
-    "aliases": []
+    "name": "受限供给（加密版）"
   },
   {
     "id": "concept:43886d9a41970be18e7bd28d",
-    "name": "低关注度（加密版）",
-    "aliases": []
+    "name": "低关注度（加密版）"
   },
   {
     "id": "concept:6516db52a0eb18c3d162e68c",
-    "name": "价值捕获（加密版）",
-    "aliases": []
+    "name": "价值捕获（加密版）"
   },
   {
     "id": "concept:18b7ffde4c613ed274883fae",
-    "name": "传统市场不具备的信息优势",
-    "aliases": []
+    "name": "传统市场不具备的信息优势"
   },
   {
     "id": "concept:e69e027c416d908579b506c9",
-    "name": "物理约束",
-    "aliases": []
+    "name": "物理约束"
   },
   {
     "id": "concept:c2cb9ccf0c56a53987b699d9",
-    "name": "高置信度+长周期信号",
-    "aliases": []
+    "name": "高置信度+长周期信号"
   },
   {
     "id": "concept:e1070c7967d37cbfe591f938",
-    "name": "社会约束",
-    "aliases": []
+    "name": "社会约束"
   },
   {
     "id": "concept:dcd636770e3b543261c7da63",
-    "name": "低置信度+短周期信号",
-    "aliases": []
+    "name": "低置信度+短周期信号"
   },
   {
     "id": "concept:ebd8d157b6a2f2cbdddbcc03",
-    "name": "波段交易入场",
-    "aliases": []
+    "name": "波段交易入场"
   },
   {
     "id": "concept:19b428f0f8fccd1f74b9ad7e",
-    "name": "波段交易",
-    "aliases": []
+    "name": "波段交易"
   },
   {
     "id": "concept:13f234f293edb26718529a44",
-    "name": "技术目标退出机制",
-    "aliases": []
+    "name": "技术目标退出机制"
   },
   {
     "id": "concept:644df5bcb990ca2b74f98567",
-    "name": "长线瓶颈",
-    "aliases": []
+    "name": "长线瓶颈"
   },
   {
     "id": "concept:c65e66ef69802179ddb1e7c4",
-    "name": "前提假设退出机制",
-    "aliases": []
+    "name": "前提假设退出机制"
   }
 ]

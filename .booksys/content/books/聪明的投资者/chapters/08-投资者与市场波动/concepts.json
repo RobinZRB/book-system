@@ -8,14 +8,6 @@
     ]
   },
   {
-    "id": "concept:0d27f3ebccd67c0bde8fb380",
-    "name": "择时交易",
-    "aliases": [
-      "Market Timing",
-      "市场预测"
-    ]
-  },
-  {
     "id": "concept:3111ecdc62448be07c127e11",
     "name": "估价法",
     "aliases": [
@@ -83,15 +75,6 @@
     "aliases": [
       "Rebalancing",
       "资产再平衡"
-    ]
-  },
-  {
-    "id": "concept:671ba740abf8acba5a92b1c2",
-    "name": "美元成本平均法",
-    "aliases": [
-      "Dollar-Cost Averaging",
-      "DCA",
-      "定期定额"
     ]
   },
   {
@@ -179,76 +162,57 @@
   {
     "id": "concept:1ee15414d0f2366f52c310dc",
     "name": "投机",
-    "aliases": []
+    "aliases": [
+      "Speculation",
+      "投机操作"
+    ]
   },
   {
     "id": "concept:1988fb49102973459fbf5e6b",
-    "name": "牛市-熊市循环",
-    "aliases": []
-  },
-  {
-    "id": "concept:c67a07396fc34e46b3624446",
-    "name": "安全边际",
-    "aliases": []
+    "name": "牛市-熊市循环"
   },
   {
     "id": "concept:2b45d1524a58e170c6c89e88",
-    "name": "基本优势",
-    "aliases": []
+    "name": "基本优势"
   },
   {
     "id": "concept:525168b822d419a91e9b0fdc",
-    "name": "盲从市场",
-    "aliases": []
+    "name": "盲从市场"
   },
   {
     "id": "concept:36ff1ea0c9b8a54226c9b80c",
-    "name": "基本优势→基本劣势",
-    "aliases": []
+    "name": "基本优势→基本劣势"
   },
   {
     "id": "concept:f620d3cc494b590eb6fcb61b",
-    "name": "追涨",
-    "aliases": []
+    "name": "追涨"
   },
   {
     "id": "concept:c85a39044e71d0b64b3c75e9",
-    "name": "底部卖出",
-    "aliases": []
+    "name": "底部卖出"
   },
   {
     "id": "concept:8142eaf31aaba3efac9239d1",
-    "name": "市场波动心理影响",
-    "aliases": []
+    "name": "市场波动心理影响"
   },
   {
     "id": "concept:36a289e3ec420e361b0ecc3b",
-    "name": "市场下跌",
-    "aliases": []
+    "name": "市场下跌"
   },
   {
     "id": "concept:a09eaeb7b4c6957974d6902b",
-    "name": "利率变化",
-    "aliases": []
-  },
-  {
-    "id": "concept:62adc0734f1683482797b638",
-    "name": "市场情绪",
-    "aliases": []
+    "name": "利率变化"
   },
   {
     "id": "concept:ef387d2eca8ee4ca50cfb76b",
-    "name": "双刃剑",
-    "aliases": []
+    "name": "双刃剑"
   },
   {
     "id": "concept:072da64880b6680f57ed388b",
-    "name": "401(k)行为数据",
-    "aliases": []
+    "name": "401(k)行为数据"
   },
   {
     "id": "concept:373aa581b3e5782460a2f6dd",
-    "name": "追涨杀跌",
-    "aliases": []
+    "name": "追涨杀跌"
   }
 ]

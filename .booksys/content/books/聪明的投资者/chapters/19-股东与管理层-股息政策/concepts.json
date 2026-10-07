@@ -39,7 +39,8 @@
     "name": "股息支付率",
     "aliases": [
       "Dividend Payout Ratio",
-      "分红率"
+      "分红率",
+      "派息率"
     ]
   },
   {
@@ -80,7 +81,8 @@
     "name": "股票期权",
     "aliases": [
       "Stock Options",
-      "员工期权"
+      "员工期权",
+      "期权溢价"
     ]
   },
   {

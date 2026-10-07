@@ -78,47 +78,34 @@
   },
   {
     "id": "concept:f145001f0778c66f907e7b35",
-    "name": "瓶颈点 (Chokpoint)",
-    "aliases": []
+    "name": "瓶颈点 (Chokpoint)"
   },
   {
     "id": "concept:7af6a3899fefe32dddf83536",
-    "name": "\"数全球玩家\"规则",
-    "aliases": []
+    "name": "\"数全球玩家\"规则"
   },
   {
     "id": "concept:9a1768ef854b201a4fd606d1",
-    "name": "价格洼地",
-    "aliases": []
+    "name": "价格洼地"
   },
   {
     "id": "concept:a67da43129d783ba7cc6535a",
-    "name": "地域偏见",
-    "aliases": []
-  },
-  {
-    "id": "concept:6ae39293e537c26359048a89",
-    "name": "受益者 (Beneficiary)",
-    "aliases": []
+    "name": "地域偏见"
   },
   {
     "id": "concept:0bd6e99a095b554374f2d809",
-    "name": "四重验证",
-    "aliases": []
+    "name": "四重验证"
   },
   {
     "id": "concept:a61919b4823218e722690fa2",
-    "name": "价格重估",
-    "aliases": []
+    "name": "价格重估"
   },
   {
     "id": "concept:354e6660fd5ba9dbedd69236",
-    "name": "仓位集中度",
-    "aliases": []
+    "name": "仓位集中度"
   },
   {
     "id": "concept:1643a14249ead635c3d3e5f7",
-    "name": "加密资产",
-    "aliases": []
+    "name": "加密资产"
   }
 ]

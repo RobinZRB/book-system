@@ -17,7 +17,9 @@
     "id": "concept:a7d88332ca4c6c8099cbc13e",
     "name": "InP衬底 (Indium Phosphide Substrate)",
     "aliases": [
-      "磷化铟衬底, AXTI, InP衬底"
+      "磷化铟衬底, AXTI, InP衬底",
+      "磷化铟衬底, 三五族半导体衬底, InP衬底",
+      "磷化铟衬底, III-V族半导体, InP衬底"
     ]
   },
   {
@@ -78,37 +80,30 @@
   },
   {
     "id": "concept:f9fe065489571039b0dc02e8",
-    "name": "物理极限（铜线撞墙）",
-    "aliases": []
+    "name": "物理极限（铜线撞墙）"
   },
   {
     "id": "concept:4c4e52ade2ef1a5da4d76289",
-    "name": "产业链受益顺序",
-    "aliases": []
+    "name": "产业链受益顺序"
   },
   {
     "id": "concept:acc7343619d84eb371fa8626",
-    "name": "InP衬底/外部激光源的供给稀缺性",
-    "aliases": []
+    "name": "InP衬底/外部激光源的供给稀缺性"
   },
   {
     "id": "concept:1ac2c77f4e0f3cbd25ae8509",
-    "name": "Serenity的光通信持仓",
-    "aliases": []
+    "name": "Serenity的光通信持仓"
   },
   {
     "id": "concept:814f4b1e480d486b46299b23",
-    "name": "同主线不同节点策略",
-    "aliases": []
+    "name": "同主线不同节点策略"
   },
   {
     "id": "concept:843e143f816b57fdd54f1ceb",
-    "name": "客户路线区分",
-    "aliases": []
+    "name": "客户路线区分"
   },
   {
     "id": "concept:3e38479e0f2b31f3d801a12f",
-    "name": "\"光通信受益\"粗糙结论",
-    "aliases": []
+    "name": "\"光通信受益\"粗糙结论"
   }
 ]
