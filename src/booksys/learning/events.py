@@ -7,7 +7,6 @@ import uuid
 
 from ..canonical import dumps, iter_jsonl
 from ..domain.contracts import ALLOWED_RATINGS, ContractError, validate_identifier
-from .validation import validate_event
 
 
 def finalize_rating(user_rating: str, objective_pass: bool) -> str:
@@ -48,11 +47,6 @@ def append_event(path: str | Path, event: dict[str, Any]) -> bool:
     return True
 
 
-def iter_events(path: str | Path) -> Iterator[dict[str, Any]]:
-    for _line_no, event in iter_event_records(path):
-        yield event
-
-
 class EventStreamError(ValueError):
     """Raised when the authoritative JSONL stream cannot be safely read."""
 
@@ -77,11 +71,6 @@ def iter_event_records(path: str | Path) -> Iterator[tuple[int, dict[str, Any]]]
             if not isinstance(event, dict):
                 raise EventStreamError(source, line_no, "event must be an object")
             yield line_no, event
-
-
-def validate_event_record(event: dict[str, Any]) -> list[str]:
-    """Expose the shared event validator at the event-store boundary."""
-    return validate_event(event)
 
 
 def make_review_event(

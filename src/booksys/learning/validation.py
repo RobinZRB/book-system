@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import datetime
 import math
-from typing import Any, Iterable
+from typing import Any
 
 from ..domain.contracts import ALLOWED_RATINGS, validate_identifier
 
@@ -172,11 +172,4 @@ def validate_event(event: Any) -> list[str]:
             if final not in ALLOWED_RATINGS:
                 errors.append("final_rating must be again, hard, good, or easy")
             errors.extend(validate_schedule(payload.get("schedule"), final, payload.get("objective_pass"), payload.get("user_rating")))
-    return errors
-
-
-def validate_events(events: Iterable[dict[str, Any]]) -> list[str]:
-    errors: list[str] = []
-    for event in events:
-        errors.extend(validate_event(event))
     return errors
